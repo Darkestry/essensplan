@@ -14,5 +14,7 @@ mount(App, { target: document.getElementById('app')! });
 if ('serviceWorker' in navigator && import.meta.env.PROD) {
   const update = registerSW({
     onNeedRefresh() { toast('Neue Version verfügbar', { label: 'Neu laden', run: () => void update(true) }); },
+    // Nach der Installation die Rezeptbilder für offline nachladen
+    onRegisteredSW() { void import('./lib/warm.ts').then(m => m.warmArtCache()); },
   });
 }

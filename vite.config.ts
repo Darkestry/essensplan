@@ -9,7 +9,6 @@ export default defineConfig({
     VitePWA({
       registerType: 'prompt',
       injectRegister: false,
-      includeAssets: ['icons/icon.svg', 'icons/icon-192.png'],
       manifest: {
         name: 'Morgenwerk · Essensplan',
         short_name: 'Morgenwerk',
@@ -34,15 +33,19 @@ export default defineConfig({
           { name: 'Wochenplan', url: './#/plan' },
         ],
       },
+      // Manifest und Icons nimmt das Plugin selbst in den Vorab-Cache
+      includeManifestIcons: true,
       workbox: {
-        // App + Gerichtsbilder vorab; Schrittbilder beim ersten Ansehen (danach offline)
-        globPatterns: ['**/*.{js,css,html,svg,png,webp,webmanifest}', '**/*-latin-*.woff2'],
-        globIgnores: ['art/*-*.webp'],
+        // Schlanker Vorab-Cache: nur die App-Hülle (~30 Dateien). Viele gleichzeitige Downloads
+        // beim Installieren ließen die Installation auf GitHub Pages scheitern.
+        globPatterns: ['**/*.{js,css,html}', '**/*-latin-*.woff2', 'art/{hero,watertest,thermos}.webp'],
+        // Rezeptbilder: beim ersten Ansehen cachen; die App lädt sie danach im Leerlauf nach (src/lib/warm.ts)
         runtimeCaching: [{
-          urlPattern: /\/art\/[a-z]\d+-\d+\.webp$/,
+          urlPattern: /\/art\/[a-z]\d+(-\d+)?\.webp$/,
           handler: 'CacheFirst',
-          options: { cacheName: 'step-art', expiration: { maxEntries: 600 } },
+          options: { cacheName: 'recipe-art', expiration: { maxEntries: 800 } },
         }],
+        clientsClaim: true,
         navigateFallback: 'index.html',
         cleanupOutdatedCaches: true,
       },
