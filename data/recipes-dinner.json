@@ -1,0 +1,3482 @@
+[
+  {
+    "id": "d01",
+    "meals": [
+      "dinner"
+    ],
+    "title": "Lachs auf der Haut mit Ofenkartoffeln & Dill-Joghurt",
+    "subtitle": "Splitterkrosse Haut, glasiger Kern, dazu kühler Gurken-Dill-Joghurt.",
+    "origin": "Skandinavisch inspiriert",
+    "time": {
+      "active": 20,
+      "total": 45,
+      "quick": null
+    },
+    "difficulty": 2,
+    "tags": [
+      "ofen",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": false,
+      "thermos": false,
+      "note": "Frisch am besten. Reste kalt am nächsten Tag auf Salat – Lachs nicht in der Mikrowelle aufwärmen, er wird trocken."
+    },
+    "tools": [
+      "Edelstahlpfanne 24 cm",
+      "Fischwender oder flacher Metallspatel",
+      "Backblech + Backpapier",
+      "Küchenthermometer"
+    ],
+    "ingredients": [
+      {
+        "k": "salmon",
+        "q": 150,
+        "note": "mit Haut, möglichst Mittelstück"
+      },
+      {
+        "k": "potato",
+        "q": 300,
+        "note": "festkochend, ungeschält"
+      },
+      {
+        "k": "rapeseed",
+        "q": 15
+      },
+      {
+        "k": "yogurt",
+        "q": 100
+      },
+      {
+        "k": "cucumber",
+        "q": 150
+      },
+      {
+        "k": "dill",
+        "q": 8
+      },
+      {
+        "k": "lemon",
+        "q": 15
+      },
+      {
+        "k": "garlic",
+        "q": 3
+      },
+      {
+        "k": "salt",
+        "q": 3
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Kartoffeln in den Ofen",
+        "text": "Ofen auf 220 °C Umluft vorheizen. Kartoffeln waschen, längs achteln, mit 8 g Öl und etwas Salz mischen und mit der Schnittfläche nach unten aufs Backpapier legen. 30–35 Minuten backen, bis die Unterseite goldbraun ist.",
+        "action": "oven",
+        "items": [
+          "potato",
+          "rapeseed"
+        ],
+        "timer": 1980
+      },
+      {
+        "title": "Dill-Joghurt rühren",
+        "text": "Gurke grob raspeln, kräftig ausdrücken und mit Joghurt, gehacktem Dill, fein geriebenem Knoblauch, der Hälfte des Zitronensafts, Salz und Pfeffer verrühren. Kalt stellen.",
+        "action": "mix",
+        "items": [
+          "yogurt",
+          "cucumber",
+          "dill"
+        ]
+      },
+      {
+        "title": "Lachs vorbereiten, Pfanne heizen",
+        "text": "Lachs 15 Minuten vorher aus dem Kühlschrank nehmen, die Haut mit dem Messerrücken abstreifen und rundum gründlich trocken tupfen, nur die Haut salzen. Pfanne leer 2–3 Minuten bei mittlerer Hitze vorheizen, bis ein Wassertropfen als Kugel über den Boden perlt. Dann das restliche Öl hineingeben und warten, bis es schlierig fließt.",
+        "action": "pan",
+        "items": [
+          "salmon",
+          "rapeseed"
+        ]
+      },
+      {
+        "title": "Auf der Haut braten",
+        "text": "Lachs mit der Haut nach unten einlegen und die ersten 20 Sekunden flach andrücken, damit sie sich nicht wölbt. Dann nicht mehr bewegen: Bei mittlerer Hitze 5–6 Minuten braten, bis das Fleisch zu drei Vierteln von unten hell geworden ist. Die Haut klebt anfangs und löst sich von selbst, sobald sie knusprig ist.",
+        "action": "pan",
+        "items": [
+          "salmon"
+        ],
+        "timer": 330
+      },
+      {
+        "title": "Kurz wenden, ruhen lassen",
+        "text": "Wenden und nur 30–60 Sekunden auf der Fleischseite garen. Kerntemperatur 55–60 °C (glasig-saftig); für Schwangere und Immungeschwächte bis 63 °C durchgaren. Mit der Haut nach oben auf den Teller legen, damit sie knusprig bleibt.",
+        "action": "flip",
+        "items": [
+          "salmon"
+        ],
+        "timer": 45
+      },
+      {
+        "title": "Anrichten",
+        "text": "Ofenkartoffeln neben den Lachs legen, mit restlichem Zitronensaft beträufeln und einen großen Klecks Dill-Joghurt daneben setzen.",
+        "action": "plate",
+        "items": [
+          "potato",
+          "yogurt",
+          "dill"
+        ]
+      }
+    ],
+    "tips": [
+      "Wenn die Haut beim ersten Wendeversuch noch festhängt: nicht reißen, 1 Minute warten – sie gibt nach, sobald die Kruste fertig ist.",
+      "Ein Mittelstück gart gleichmäßiger als das dünne Schwanzende."
+    ],
+    "art": {
+      "dish": "plate",
+      "base": {
+        "type": "fillet",
+        "color": "#e8875f"
+      },
+      "side": {
+        "type": "roastveg",
+        "color": "#d9a95a"
+      },
+      "sauce": {
+        "style": "dollop",
+        "color": "#eef1e6"
+      },
+      "garnish": [
+        "dill",
+        "lemon"
+      ]
+    }
+  },
+  {
+    "id": "d02",
+    "meals": [
+      "dinner"
+    ],
+    "title": "Hähnchenschenkel mit Zitronen-Pan-Sauce, Bohnen & Püree",
+    "subtitle": "Goldene Kruste, Fond abgelöscht mit Zitrone und Butter – Sonntagsessen unter der Woche.",
+    "origin": "Französisch inspiriert",
+    "time": {
+      "active": 35,
+      "total": 45,
+      "quick": 25
+    },
+    "difficulty": 2,
+    "tags": [
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": false,
+      "thermos": false,
+      "note": "Püree und Hähnchen getrennt kühlen und nur bis zum nächsten Tag; Püree mit einem Schuss Milch in der Mikrowelle aufwärmen, Hähnchen auf ≥ 72 °C erhitzen."
+    },
+    "components": [
+      {
+        "key": "cooked-potato",
+        "q": 280
+      }
+    ],
+    "tools": [
+      "Edelstahlpfanne 28 cm",
+      "Edelstahltopf 2 l",
+      "Kartoffelstampfer",
+      "Küchenthermometer"
+    ],
+    "ingredients": [
+      {
+        "k": "chickenthigh",
+        "q": 200
+      },
+      {
+        "k": "floury",
+        "q": 280
+      },
+      {
+        "k": "milk",
+        "q": 80
+      },
+      {
+        "k": "butter",
+        "q": 15,
+        "note": "5 g ins Püree, 10 g kalt für die Sauce"
+      },
+      {
+        "k": "greenbeans",
+        "q": 200
+      },
+      {
+        "k": "rapeseed",
+        "q": 10
+      },
+      {
+        "k": "lemon",
+        "q": 20
+      },
+      {
+        "k": "garlic",
+        "q": 4
+      },
+      {
+        "k": "water",
+        "q": 100
+      },
+      {
+        "k": "broth",
+        "q": 3
+      },
+      {
+        "k": "thyme",
+        "q": 1
+      },
+      {
+        "k": "salt",
+        "q": 3
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Kartoffeln und Bohnen garen",
+        "text": "Kartoffeln schälen, vierteln und in Salzwasser 18–20 Minuten weich kochen. Die Bohnen in den letzten 10 Minuten mit in den Topf geben – grüne Bohnen nie roh essen. Bohnen herausheben, Kartoffeln abgießen und ausdampfen lassen.",
+        "action": "pot",
+        "items": [
+          "floury",
+          "greenbeans"
+        ],
+        "timer": 1140
+      },
+      {
+        "title": "Hähnchen anbraten",
+        "text": "Schenkel sehr trocken tupfen, salzen und mit Thymian einreiben. Pfanne leer 2–3 Minuten bei mittlerer Hitze vorheizen (Wassertropfen perlt als Kugel), Öl hinein, dann die Schenkel mit der glatten Seite nach unten flach einlegen. 6–7 Minuten nicht bewegen – sie lösen sich, sobald die Kruste steht.",
+        "action": "pan",
+        "items": [
+          "chickenthigh",
+          "rapeseed",
+          "thyme"
+        ],
+        "timer": 390
+      },
+      {
+        "title": "Wenden und durchgaren",
+        "text": "Wenden und bei etwas reduzierter Hitze 5–6 Minuten weiterbraten, bis das Thermometer im dicksten Teil ≥ 72 °C zeigt. Auf einen Teller legen und ruhen lassen.",
+        "action": "flip",
+        "items": [
+          "chickenthigh"
+        ],
+        "timer": 330
+      },
+      {
+        "title": "Pan-Sauce ziehen",
+        "text": "Fett bis auf einen Teelöffel abgießen, Knoblauch 20 Sekunden anschwitzen. Mit Wasser und Brühpulver ablöschen und den braunen Bratsatz mit dem Holzspatel vom Boden lösen. 2–3 Minuten sirupartig einkochen, vom Herd nehmen, Zitronensaft und 10 g kalte Butter einschwenken, bis die Sauce glänzt.",
+        "action": "deglaze",
+        "items": [
+          "lemon",
+          "butter",
+          "garlic"
+        ],
+        "timer": 150
+      },
+      {
+        "title": "Püree stampfen und anrichten",
+        "text": "Milch erwärmen, mit 5 g Butter zu den Kartoffeln geben und grob stampfen, salzen und pfeffern. Bohnen kurz in der Sauce schwenken, alles anrichten und den Fleischsaft vom Teller über das Hähnchen gießen.",
+        "action": "mash",
+        "items": [
+          "floury",
+          "milk",
+          "chickenthigh"
+        ]
+      }
+    ],
+    "tips": [
+      "Klebt das Fleisch beim Wenden, ist die Kruste noch nicht fertig – eine Minute warten.",
+      "Die Butter erst vom Herd weg einrühren, sonst trennt sich die Sauce."
+    ],
+    "art": {
+      "dish": "plate",
+      "base": {
+        "type": "fillet",
+        "color": "#c7883f"
+      },
+      "side": {
+        "type": "mash",
+        "color": "#f2e6c4"
+      },
+      "sauce": {
+        "style": "pool",
+        "color": "#d8b56a"
+      },
+      "garnish": [
+        "greenbeans",
+        "thyme"
+      ]
+    }
+  },
+  {
+    "id": "d03",
+    "meals": [
+      "dinner"
+    ],
+    "title": "One-Pot-Pasta mit Tomate, Spinat & Feta",
+    "subtitle": "Alles in einen Topf, die Stärke macht die Sauce sämig – fertig in 20 Minuten.",
+    "origin": "Mediterran",
+    "time": {
+      "active": 15,
+      "total": 22,
+      "quick": null
+    },
+    "difficulty": 1,
+    "tags": [
+      "schnell",
+      "onepot"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freeze": false,
+      "thermos": false,
+      "note": "Am besten frisch. Reste mit einem Schuss Wasser in der Mikrowelle aufwärmen – die Nudeln ziehen nach."
+    },
+    "tools": [
+      "Edelstahltopf 3 l oder hohe Edelstahlpfanne",
+      "Holzspatel"
+    ],
+    "ingredients": [
+      {
+        "k": "pasta",
+        "q": 120,
+        "note": "z. B. Penne oder Fusilli, eifrei"
+      },
+      {
+        "k": "cannedtomato",
+        "q": 250
+      },
+      {
+        "k": "babyspinach",
+        "q": 100
+      },
+      {
+        "k": "feta",
+        "q": 60
+      },
+      {
+        "k": "onion",
+        "q": 60
+      },
+      {
+        "k": "garlic",
+        "q": 6
+      },
+      {
+        "k": "olive",
+        "q": 10
+      },
+      {
+        "k": "water",
+        "q": 300
+      },
+      {
+        "k": "broth",
+        "q": 4
+      },
+      {
+        "k": "oregano",
+        "q": 1
+      },
+      {
+        "k": "chili",
+        "q": 0.5
+      },
+      {
+        "k": "basil",
+        "q": 5
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Anschwitzen",
+        "text": "Zwiebel fein würfeln, Knoblauch in Scheiben schneiden. Olivenöl im Topf bei mittlerer Hitze erwärmen und die Zwiebel 3 Minuten glasig dünsten, Knoblauch, Oregano und Chili 30 Sekunden mitgehen lassen.",
+        "action": "pot",
+        "items": [
+          "onion",
+          "garlic",
+          "olive"
+        ],
+        "timer": 180
+      },
+      {
+        "title": "Alles in den Topf",
+        "text": "Tomaten, Wasser, Brühpulver und die trockenen Nudeln dazugeben, umrühren, sodass alle Nudeln bedeckt sind. Aufkochen lassen.",
+        "action": "pot",
+        "items": [
+          "pasta",
+          "cannedtomato",
+          "water"
+        ]
+      },
+      {
+        "title": "Köcheln und rühren",
+        "text": "Offen bei mittlerer Hitze 10–12 Minuten sprudelnd köcheln, alle 1–2 Minuten umrühren und dabei über den Topfboden schaben. Die Nudeln sind fertig, wenn sie bissfest sind und kaum noch Flüssigkeit am Boden steht.",
+        "action": "pot",
+        "items": [
+          "pasta"
+        ],
+        "timer": 660
+      },
+      {
+        "title": "Spinat und Feta",
+        "text": "Topf vom Herd nehmen, Spinat unterheben, bis er zusammenfällt. Die Hälfte des Fetas hineinbröseln und unterrühren – er macht die Sauce cremig.",
+        "action": "mix",
+        "items": [
+          "babyspinach",
+          "feta"
+        ]
+      },
+      {
+        "title": "Anrichten",
+        "text": "In eine tiefe Schale geben, restlichen Feta darüberbröseln, mit Basilikum und Pfeffer vollenden.",
+        "action": "plate",
+        "items": [
+          "feta",
+          "basil"
+        ]
+      }
+    ],
+    "tips": [
+      "Ist die Pasta noch hart, aber die Flüssigkeit weg: 50 ml heißes Wasser nachgießen.",
+      "Edelstahl verträgt die Säure der Tomaten problemlos – kein Grund zur Sorge."
+    ],
+    "art": {
+      "dish": "bowl",
+      "base": {
+        "type": "pasta",
+        "color": "#c8492f"
+      },
+      "garnish": [
+        "feta",
+        "basil",
+        "babyspinach"
+      ]
+    }
+  },
+  {
+    "id": "d04",
+    "meals": [
+      "dinner",
+      "lunch"
+    ],
+    "title": "Rinderhack-Linsen-Bolognese",
+    "subtitle": "Halb Hack, halb Linsen, lange geköchelt – tiefer Geschmack, doppelt gekocht.",
+    "origin": "Italienisch inspiriert",
+    "time": {
+      "active": 25,
+      "total": 60,
+      "quick": null
+    },
+    "difficulty": 1,
+    "tags": [
+      "mealprep",
+      "thermobox",
+      "einfrieren",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": true,
+      "thermos": true,
+      "note": "Sauce nur bis zum nächsten Tag kühlen oder portionsweise einfrieren (2 Monate). Für die Thermobox Sauce mit den Nudeln morgens mit 1–2 EL Wasser sprudelnd aufkochen und randvoll in das vorgeheizte Gefäß füllen. Was nicht in die Box passt, abends essen."
+    },
+    "tools": [
+      "Edelstahltopf 3 l",
+      "Edelstahltopf 3 l für die Nudeln",
+      "Holzspatel",
+      "Thermobox 650 ml + kleine Extra-Dose"
+    ],
+    "ingredients": [
+      {
+        "k": "beefmince",
+        "q": 110
+      },
+      {
+        "k": "lentils",
+        "q": 25,
+        "note": "Berg- oder Tellerlinsen"
+      },
+      {
+        "k": "carrot",
+        "q": 40
+      },
+      {
+        "k": "celery",
+        "q": 25
+      },
+      {
+        "k": "onion",
+        "q": 50
+      },
+      {
+        "k": "garlic",
+        "q": 4
+      },
+      {
+        "k": "paste",
+        "q": 20
+      },
+      {
+        "k": "passata",
+        "q": 120
+      },
+      {
+        "k": "rapeseed",
+        "q": 12
+      },
+      {
+        "k": "water",
+        "q": 40,
+        "note": "bei Bedarf etwas Nudelwasser"
+      },
+      {
+        "k": "broth",
+        "q": 3
+      },
+      {
+        "k": "oregano",
+        "q": 1
+      },
+      {
+        "k": "pasta",
+        "q": 85,
+        "note": "z. B. Spaghetti oder Rigatoni, eifrei"
+      },
+      {
+        "k": "salt",
+        "q": 2
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      },
+      {
+        "k": "parmesan",
+        "q": 20,
+        "note": "Parmigiano Reggiano, Extra-Dose",
+        "side": true
+      }
+    ],
+    "steps": [
+      {
+        "title": "Gemüse fein würfeln",
+        "text": "Zwiebel, Karotte und Staudensellerie in sehr feine Würfel schneiden (Soffritto), Knoblauch hacken. Je feiner, desto besser verschwinden sie später in der Sauce.",
+        "action": "cut",
+        "items": [
+          "onion",
+          "carrot",
+          "celery"
+        ]
+      },
+      {
+        "title": "Hack scharf anbraten",
+        "text": "Topf leer 2–3 Minuten bei mittlerer bis hoher Hitze vorheizen, bis ein Wassertropfen perlt, dann Öl hinein. Hack als flachen Fladen einlegen und 3–4 Minuten nicht anrühren, bis die Unterseite tiefbraun ist. Dann zerteilen und weiterbraten, bis keine rosa Stellen mehr da sind.",
+        "action": "pan",
+        "items": [
+          "beefmince",
+          "rapeseed"
+        ],
+        "timer": 210
+      },
+      {
+        "title": "Soffritto und Tomatenmark rösten",
+        "text": "Gemüsewürfel zugeben und 5 Minuten mitbraten. Tomatenmark einrühren und 1–2 Minuten rösten, bis es rostrot wird und am Boden ansetzt.",
+        "action": "pot",
+        "items": [
+          "carrot",
+          "celery",
+          "paste"
+        ],
+        "timer": 300
+      },
+      {
+        "title": "Ablöschen und dick köcheln",
+        "text": "Mit 40 ml Wasser ablöschen und den Bratsatz vom Boden lösen. Passata, Brühpulver, Oregano und die abgespülten Linsen zugeben. Halb zugedeckt 35 Minuten leise köcheln, bis die Linsen weich sind und die Sauce dick ist; nur bei Bedarf einen Schluck Wasser nachgießen. Erst dann salzen und pfeffern.",
+        "action": "deglaze",
+        "items": [
+          "passata",
+          "lentils"
+        ],
+        "timer": 2100
+      },
+      {
+        "title": "Nudeln kochen und mischen",
+        "text": "Nudeln in kräftig gesalzenem Wasser 1 Minute kürzer als angegeben kochen, abgießen (etwas Kochwasser auffangen) und direkt in der Sauce schwenken. Bei Bedarf mit Kochwasser lockern.",
+        "action": "pot",
+        "items": [
+          "pasta"
+        ],
+        "timer": 540
+      },
+      {
+        "title": "Anrichten oder abfüllen",
+        "text": "Mit frisch geriebenem Parmesan servieren. Für morgen: zweite Portion rasch abkühlen und kühlen. Morgens Box 5–10 Minuten mit kochendem Wasser vorheizen, die Portion mit 1–2 EL Wasser im Edelstahltopf unter Rühren sprudelnd aufkochen. Box leeren, randvoll füllen (650 ml), sofort verschließen und innerhalb von 4 Stunden essen. Parmesan in die kleine Extra-Dose.",
+        "action": "jar",
+        "items": [
+          "pasta",
+          "parmesan"
+        ],
+        "timer": 300
+      }
+    ],
+    "tips": [
+      "Nur echten Parmigiano Reggiano verwenden – Grana Padano enthält Lysozym aus Hühnereiweiß.",
+      "Für die Thermobox die Nudeln wirklich 1 Minute kürzer kochen – sie ziehen bis mittags nach."
+    ],
+    "art": {
+      "dish": "bowl",
+      "base": {
+        "type": "pasta",
+        "color": "#e3c27a"
+      },
+      "sauce": {
+        "style": "pool",
+        "color": "#9c3b25"
+      },
+      "garnish": [
+        "parmesan",
+        "basil"
+      ]
+    }
+  },
+  {
+    "id": "d05",
+    "meals": [
+      "dinner",
+      "lunch"
+    ],
+    "title": "Halloumi mit Kürbis-Ofengemüse & Bulgur",
+    "subtitle": "Goldbraun gebratener Halloumi auf Herbstgemüse mit rauchiger Note.",
+    "origin": "Levantinisch inspiriert",
+    "time": {
+      "active": 20,
+      "total": 40,
+      "quick": 15
+    },
+    "difficulty": 1,
+    "tags": [
+      "ofen",
+      "wochenende"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freeze": false,
+      "thermos": false,
+      "note": "Ofengemüse und Bulgur halten 2 Tage gekühlt; Halloumi immer frisch braten – aufgewärmt wird er gummiartig."
+    },
+    "components": [
+      {
+        "key": "roasted-veg",
+        "q": 450
+      }
+    ],
+    "tools": [
+      "Backblech + Backpapier",
+      "Edelstahlpfanne 24 cm",
+      "Edelstahltopf 1,5 l"
+    ],
+    "ingredients": [
+      {
+        "k": "halloumi",
+        "q": 90
+      },
+      {
+        "k": "pumpkinflesh",
+        "q": 250,
+        "note": "Hokkaido mit Schale"
+      },
+      {
+        "k": "redonion",
+        "q": 80
+      },
+      {
+        "k": "pepper",
+        "q": 120
+      },
+      {
+        "k": "olive",
+        "q": 12
+      },
+      {
+        "k": "smoked",
+        "q": 2
+      },
+      {
+        "k": "cumin",
+        "q": 1
+      },
+      {
+        "k": "bulgur",
+        "q": 65
+      },
+      {
+        "k": "water",
+        "q": 150
+      },
+      {
+        "k": "broth",
+        "q": 2
+      },
+      {
+        "k": "lemon",
+        "q": 10
+      },
+      {
+        "k": "parsley",
+        "q": 10
+      },
+      {
+        "k": "salt",
+        "q": 1
+      }
+    ],
+    "steps": [
+      {
+        "title": "Gemüse aufs Blech",
+        "text": "Ofen auf 220 °C Umluft vorheizen. Kürbis in 2 cm große Spalten, Paprika in Streifen, Zwiebel in Spalten schneiden. Mit 10 g Olivenöl, Paprikapulver, Kreuzkümmel und Salz mischen und mit Abstand auf dem Blech verteilen. 25 Minuten rösten, bis die Ränder bräunen.",
+        "action": "oven",
+        "items": [
+          "pumpkinflesh",
+          "pepper",
+          "redonion"
+        ],
+        "timer": 1500
+      },
+      {
+        "title": "Bulgur quellen lassen",
+        "text": "Wasser mit Brühpulver aufkochen, Bulgur einrühren, Deckel drauf, vom Herd nehmen und 12 Minuten quellen lassen. Mit Zitronensaft und gehackter Petersilie auflockern.",
+        "action": "pot",
+        "items": [
+          "bulgur",
+          "parsley",
+          "lemon"
+        ],
+        "timer": 720
+      },
+      {
+        "title": "Halloumi braten",
+        "text": "Halloumi in 1 cm dicke Scheiben schneiden und trocken tupfen. Pfanne leer 2–3 Minuten bei mittlerer Hitze vorheizen (Wassertropfen perlt), restliches Öl hinein, Scheiben einlegen. 2–3 Minuten nicht bewegen – der Käse klebt zuerst und löst sich von selbst, sobald er goldbraun ist.",
+        "action": "pan",
+        "items": [
+          "halloumi",
+          "olive"
+        ],
+        "timer": 150
+      },
+      {
+        "title": "Wenden",
+        "text": "Wenden und die zweite Seite 1–2 Minuten bräunen. Sofort vom Herd nehmen, damit er weich bleibt.",
+        "action": "flip",
+        "items": [
+          "halloumi"
+        ],
+        "timer": 90
+      },
+      {
+        "title": "Anrichten",
+        "text": "Bulgur auf den Teller, Ofengemüse darüber, Halloumi obenauf. Ein paar Tropfen Zitrone über den heißen Käse geben.",
+        "action": "plate",
+        "items": [
+          "bulgur",
+          "pumpkinflesh",
+          "halloumi"
+        ]
+      }
+    ],
+    "tips": [
+      "Halloumi ist für Edelstahl ideal: Er gibt beim Braten Wasser ab und karamellisiert – nur nicht zu früh wenden.",
+      "Am Wochenende als Mittagessen frisch zubereitet genauso gut."
+    ],
+    "art": {
+      "dish": "plate",
+      "base": {
+        "type": "roastveg",
+        "color": "#e08a2e"
+      },
+      "side": {
+        "type": "grain",
+        "color": "#c9a66b"
+      },
+      "garnish": [
+        "halloumi",
+        "parsley"
+      ]
+    }
+  },
+  {
+    "id": "d06",
+    "meals": [
+      "dinner"
+    ],
+    "title": "Knoblauch-Garnelen mit Brokkoli & Zitronenreis",
+    "subtitle": "Scharf angebraten, in Knoblauchbutter geschwenkt – in 25 Minuten auf dem Tisch.",
+    "origin": "Spanisch inspiriert",
+    "time": {
+      "active": 20,
+      "total": 25,
+      "quick": 12
+    },
+    "difficulty": 1,
+    "tags": [
+      "schnell",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": false,
+      "thermos": false,
+      "note": "Frisch essen. Garnelen werden beim Aufwärmen zäh."
+    },
+    "components": [
+      {
+        "key": "cooked-rice",
+        "q": 80
+      }
+    ],
+    "tools": [
+      "Edelstahlpfanne 28 cm",
+      "Edelstahltopf 1,5 l mit Deckel"
+    ],
+    "ingredients": [
+      {
+        "k": "shrimp",
+        "q": 200
+      },
+      {
+        "k": "rice",
+        "q": 80
+      },
+      {
+        "k": "broccoli",
+        "q": 250
+      },
+      {
+        "k": "garlic",
+        "q": 8
+      },
+      {
+        "k": "butter",
+        "q": 10
+      },
+      {
+        "k": "olive",
+        "q": 12
+      },
+      {
+        "k": "lemon",
+        "q": 15
+      },
+      {
+        "k": "chili",
+        "q": 1
+      },
+      {
+        "k": "parsley",
+        "q": 8
+      },
+      {
+        "k": "smoked",
+        "q": 1
+      },
+      {
+        "k": "water",
+        "q": 200
+      },
+      {
+        "k": "salt",
+        "q": 2
+      }
+    ],
+    "steps": [
+      {
+        "title": "Reis kochen",
+        "text": "Reis abspülen, mit 160 ml Wasser und einer Prise Salz aufkochen, zugedeckt bei kleinster Hitze 12 Minuten garen, dann 5 Minuten ruhen lassen.",
+        "action": "pot",
+        "items": [
+          "rice"
+        ],
+        "timer": 720
+      },
+      {
+        "title": "Brokkoli anrösten",
+        "text": "Brokkoli in kleine Röschen teilen. Pfanne leer 2–3 Minuten vorheizen, bis ein Wassertropfen perlt, dann die Hälfte des Öls hinein. Röschen mit einer Schnittfläche nach unten 3 Minuten rösten, dann 40 ml Wasser angießen, Deckel auflegen und 2 Minuten dämpfen. Herausnehmen.",
+        "action": "pan",
+        "items": [
+          "broccoli",
+          "olive"
+        ],
+        "timer": 300
+      },
+      {
+        "title": "Garnelen scharf braten",
+        "text": "Garnelen aufgetaut gründlich trocken tupfen und salzen. Pfanne wieder stark erhitzen, restliches Öl hinein, Garnelen nebeneinander einlegen und 90 Sekunden nicht bewegen. Wenden, sobald die Unterseite rosa mit braunen Rändern ist.",
+        "action": "pan",
+        "items": [
+          "shrimp",
+          "olive"
+        ],
+        "timer": 90
+      },
+      {
+        "title": "Knoblauchbutter",
+        "text": "Hitze reduzieren, Butter, geschnittenen Knoblauch, Chili und Paprikapulver zugeben und 1 Minute schwenken, bis die Garnelen rundum rosa und innen opak sind. Mit Zitronensaft ablöschen und den Bratsatz lösen.",
+        "action": "deglaze",
+        "items": [
+          "butter",
+          "garlic",
+          "lemon"
+        ],
+        "timer": 60
+      },
+      {
+        "title": "Anrichten",
+        "text": "Brokkoli zurück in die Pfanne, kurz durchschwenken. Mit Reis anrichten, die Knoblauchbutter aus der Pfanne darüberlöffeln und mit Petersilie bestreuen.",
+        "action": "plate",
+        "items": [
+          "rice",
+          "shrimp",
+          "parsley"
+        ]
+      }
+    ],
+    "tips": [
+      "Nasse Garnelen kochen statt zu braten – gut trocken tupfen und die Pfanne nicht überfüllen.",
+      "Garnelen sind fertig, wenn sie ein lockeres C formen; ein enges O heißt übergart."
+    ],
+    "art": {
+      "dish": "pan",
+      "base": {
+        "type": "bites",
+        "color": "#f08a5d"
+      },
+      "side": {
+        "type": "rice",
+        "color": "#f4efdc"
+      },
+      "garnish": [
+        "parsley",
+        "broccoli",
+        "chili"
+      ]
+    }
+  },
+  {
+    "id": "d07",
+    "meals": [
+      "dinner",
+      "lunch"
+    ],
+    "title": "Tofu-Erdnuss-Pfanne mit Reis",
+    "subtitle": "Knusprige Tofuwürfel, Gemüse und eine cremige Erdnuss-Limetten-Sauce.",
+    "origin": "Südostasiatisch inspiriert",
+    "time": {
+      "active": 30,
+      "total": 40,
+      "quick": 25
+    },
+    "difficulty": 2,
+    "tags": [
+      "mealprep",
+      "thermobox",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": false,
+      "thermos": true,
+      "note": "Mit Reis gemischt rasch abkühlen und nur bis zum nächsten Tag kühlen. Morgens mit 1–2 EL Wasser sprudelnd aufkochen (≥ 75 °C) und in die vorgeheizte Thermobox füllen; der Tofu wird weicher, die Sauce bleibt top."
+    },
+    "components": [
+      {
+        "key": "cooked-rice",
+        "q": 60
+      }
+    ],
+    "tools": [
+      "Edelstahlpfanne 28 cm",
+      "Edelstahltopf 1,5 l mit Deckel",
+      "Thermobox 650 ml + kleine Extra-Dose"
+    ],
+    "ingredients": [
+      {
+        "k": "tofu",
+        "q": 140
+      },
+      {
+        "k": "rice",
+        "q": 60
+      },
+      {
+        "k": "peanutbutter",
+        "q": 30
+      },
+      {
+        "k": "soy",
+        "q": 20
+      },
+      {
+        "k": "lime",
+        "q": 15
+      },
+      {
+        "k": "ginger",
+        "q": 8
+      },
+      {
+        "k": "garlic",
+        "q": 4
+      },
+      {
+        "k": "pepper",
+        "q": 60
+      },
+      {
+        "k": "carrot",
+        "q": 40
+      },
+      {
+        "k": "broccoli",
+        "q": 70
+      },
+      {
+        "k": "spring",
+        "q": 15
+      },
+      {
+        "k": "rapeseed",
+        "q": 12
+      },
+      {
+        "k": "starch",
+        "q": 5
+      },
+      {
+        "k": "water",
+        "q": 130,
+        "note": "90 ml für den Reis, 40 ml für die Sauce"
+      },
+      {
+        "k": "chili",
+        "q": 0.5
+      },
+      {
+        "k": "peanuts",
+        "q": 25,
+        "note": "geröstet, Extra-Dose",
+        "side": true
+      }
+    ],
+    "steps": [
+      {
+        "title": "Tofu pressen, Reis aufsetzen",
+        "text": "Tofu 10 Minuten zwischen Küchenpapier mit einem Topf beschwert pressen. Reis abspülen und mit 90 ml Wasser 12 Minuten zugedeckt bei kleinster Hitze garen. Tofu in 2 cm Würfel schneiden und in der Stärke wenden.",
+        "action": "shape",
+        "items": [
+          "tofu",
+          "rice",
+          "starch"
+        ],
+        "timer": 600
+      },
+      {
+        "title": "Tofu knusprig braten",
+        "text": "Pfanne leer 3 Minuten bei mittlerer bis hoher Hitze vorheizen, bis ein Wassertropfen als Kugel perlt. Öl hinein, Tofuwürfel mit Abstand einlegen und 3 Minuten nicht bewegen. Erst wenden, wenn sie sich von selbst lösen; rundum 8–10 Minuten goldbraun braten, dann herausnehmen.",
+        "action": "pan",
+        "items": [
+          "tofu",
+          "rapeseed"
+        ],
+        "timer": 540
+      },
+      {
+        "title": "Sauce verrühren",
+        "text": "Erdnussmus, Sojasauce, Limettensaft, geriebenen Ingwer und Knoblauch mit 40 ml warmem Wasser glatt rühren – sie soll dick sein.",
+        "action": "mix",
+        "items": [
+          "peanutbutter",
+          "soy",
+          "lime"
+        ]
+      },
+      {
+        "title": "Gemüse pfannenrühren",
+        "text": "In derselben Pfanne Karotte in Scheiben und Brokkoliröschen 3 Minuten anbraten, Paprikastreifen dazu und 2 Minuten weiterbraten, sodass alles bissfest bleibt.",
+        "action": "pan",
+        "items": [
+          "carrot",
+          "broccoli",
+          "pepper"
+        ],
+        "timer": 300
+      },
+      {
+        "title": "Ablöschen und vereinen",
+        "text": "Sauce angießen, den Bratsatz lösen und 1 Minute köcheln, bis sie sämig wird. Tofu und Frühlingszwiebeln unterheben, mit Chili bestreut auf dem Reis anrichten. Für die Thermobox eine Portion mit dem Reis mischen, rasch abkühlen; morgens mit 1–2 EL Wasser sprudelnd aufkochen, randvoll in die vorgeheizte Box füllen und innerhalb von 4 Stunden essen. Erdnüsse in die kleine Extra-Dose.",
+        "action": "deglaze",
+        "items": [
+          "tofu",
+          "spring",
+          "peanuts"
+        ],
+        "timer": 60
+      }
+    ],
+    "tips": [
+      "Die Stärkeschicht macht den Tofu knusprig und verhindert festes Ankleben – trotzdem Geduld beim ersten Wenden.",
+      "Gemüse nur bissfest braten: Beim Aufkochen am nächsten Morgen gart es noch nach."
+    ],
+    "art": {
+      "dish": "bowl",
+      "base": {
+        "type": "cubes",
+        "color": "#d9a75b"
+      },
+      "side": {
+        "type": "rice",
+        "color": "#f4efdc"
+      },
+      "sauce": {
+        "style": "drizzle",
+        "color": "#a8703a"
+      },
+      "garnish": [
+        "spring",
+        "chili",
+        "lime"
+      ]
+    }
+  },
+  {
+    "id": "d08",
+    "meals": [
+      "dinner",
+      "lunch"
+    ],
+    "title": "Ofen-Hähnchen mit Kichererbsen & Paprika",
+    "subtitle": "Ein Blech, wenig Abwasch: rauchig gewürzt, mit Zitronen-Joghurt.",
+    "origin": "Spanisch-orientalisch inspiriert",
+    "time": {
+      "active": 15,
+      "total": 45,
+      "quick": null
+    },
+    "difficulty": 1,
+    "tags": [
+      "ofen",
+      "proteinreich",
+      "wochenende"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": false,
+      "thermos": false,
+      "note": "Reste nur bis zum nächsten Tag kühlen und im Ofen oder in der Pfanne auf ≥ 72 °C erhitzen; die Kichererbsen verlieren dabei ihre Knusprigkeit."
+    },
+    "tools": [
+      "Backblech + Backpapier",
+      "große Schüssel",
+      "Küchenthermometer"
+    ],
+    "ingredients": [
+      {
+        "k": "chickenthigh",
+        "q": 180
+      },
+      {
+        "k": "chickpeas",
+        "q": 160
+      },
+      {
+        "k": "pepper",
+        "q": 200
+      },
+      {
+        "k": "redonion",
+        "q": 80
+      },
+      {
+        "k": "zucchini",
+        "q": 150
+      },
+      {
+        "k": "olive",
+        "q": 15
+      },
+      {
+        "k": "smoked",
+        "q": 3
+      },
+      {
+        "k": "cumin",
+        "q": 1
+      },
+      {
+        "k": "garlic",
+        "q": 4
+      },
+      {
+        "k": "lemon",
+        "q": 10
+      },
+      {
+        "k": "yogurt",
+        "q": 80
+      },
+      {
+        "k": "parsley",
+        "q": 8
+      },
+      {
+        "k": "salt",
+        "q": 2.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Vorbereiten",
+        "text": "Ofen auf 220 °C Umluft vorheizen. Kichererbsen abspülen und auf Küchenpapier gründlich trocken reiben. Paprika und Zucchini in grobe Stücke, Zwiebel in Spalten schneiden.",
+        "action": "cut",
+        "items": [
+          "chickpeas",
+          "pepper",
+          "zucchini"
+        ]
+      },
+      {
+        "title": "Würzen",
+        "text": "Hähnchen trocken tupfen. Alles in einer Schüssel mit Olivenöl, Räucherpaprika, Kreuzkümmel, geriebenem Knoblauch und Salz mischen.",
+        "action": "mix",
+        "items": [
+          "chickenthigh",
+          "smoked",
+          "olive"
+        ]
+      },
+      {
+        "title": "Rösten",
+        "text": "Gemüse und Kichererbsen locker auf dem Blech verteilen, Hähnchen glatte Seite nach oben obenauf legen. 30–35 Minuten rösten, bis die Haut der Paprika Blasen wirft und das Hähnchen im Kern ≥ 72 °C hat. Die letzten 3 Minuten mit Grillfunktion für mehr Farbe.",
+        "action": "oven",
+        "items": [
+          "chickenthigh",
+          "chickpeas",
+          "pepper"
+        ],
+        "timer": 1980
+      },
+      {
+        "title": "Zitronen-Joghurt",
+        "text": "Joghurt mit Zitronensaft, einer Prise Salz und der Hälfte der Petersilie verrühren.",
+        "action": "mix",
+        "items": [
+          "yogurt",
+          "lemon",
+          "parsley"
+        ]
+      },
+      {
+        "title": "Anrichten",
+        "text": "Alles vom Blech auf den Teller, die Bratsäfte vom Papier darüberlöffeln, Joghurt klecksweise dazugeben und mit restlicher Petersilie bestreuen.",
+        "action": "plate",
+        "items": [
+          "chickenthigh",
+          "yogurt",
+          "parsley"
+        ]
+      }
+    ],
+    "tips": [
+      "Gut getrocknete Kichererbsen werden außen knusprig – nasse dämpfen nur.",
+      "Nicht zu eng legen: Mit Abstand röstet das Gemüse, statt zu schmoren."
+    ],
+    "art": {
+      "dish": "tray",
+      "base": {
+        "type": "roastveg",
+        "color": "#c9502f"
+      },
+      "side": {
+        "type": "fillet",
+        "color": "#b5743a"
+      },
+      "sauce": {
+        "style": "dollop",
+        "color": "#f4f2ea"
+      },
+      "garnish": [
+        "parsley",
+        "lemon"
+      ]
+    }
+  },
+  {
+    "id": "d09",
+    "meals": [
+      "dinner",
+      "lunch"
+    ],
+    "title": "Rindergeschnetzeltes mit Pilzrahm & Reis",
+    "subtitle": "Scharf angebratene Streifen, Pilze mit Röstaromen und eine Senf-Rahmsauce.",
+    "origin": "Schweizerisch inspiriert",
+    "time": {
+      "active": 30,
+      "total": 35,
+      "quick": 20
+    },
+    "difficulty": 2,
+    "tags": [
+      "mealprep",
+      "thermobox",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": false,
+      "thermos": true,
+      "note": "Mit Reis gemischt rasch abkühlen und nur bis zum nächsten Tag kühlen. Morgens mit 1–2 EL Wasser nur kurz sprudelnd aufkochen (sonst wird das Fleisch zäh) und sofort in die vorgeheizte Thermobox füllen, innerhalb von 4 Stunden essen. Was nicht in die Box passt, abends essen."
+    },
+    "components": [
+      {
+        "key": "cooked-rice",
+        "q": 60
+      }
+    ],
+    "tools": [
+      "Edelstahlpfanne 28 cm",
+      "Edelstahltopf 1,5 l mit Deckel",
+      "Edelstahltopf 1 l",
+      "Thermobox 650 ml + kleine Extra-Dose"
+    ],
+    "ingredients": [
+      {
+        "k": "beefsteak",
+        "q": 170
+      },
+      {
+        "k": "mushroom",
+        "q": 100
+      },
+      {
+        "k": "onion",
+        "q": 40
+      },
+      {
+        "k": "rapeseed",
+        "q": 15
+      },
+      {
+        "k": "cream",
+        "q": 60
+      },
+      {
+        "k": "mustard",
+        "q": 5
+      },
+      {
+        "k": "paprika",
+        "q": 2
+      },
+      {
+        "k": "broth",
+        "q": 3
+      },
+      {
+        "k": "water",
+        "q": 155,
+        "note": "90 ml für den Reis, 65 ml für die Sauce"
+      },
+      {
+        "k": "rice",
+        "q": 60
+      },
+      {
+        "k": "butter",
+        "q": 10,
+        "note": "unter den Reis"
+      },
+      {
+        "k": "greenbeans",
+        "q": 60
+      },
+      {
+        "k": "parsley",
+        "q": 5
+      },
+      {
+        "k": "salt",
+        "q": 2
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Reis und Bohnen",
+        "text": "Reis abspülen und mit 90 ml Wasser 12 Minuten zugedeckt bei kleinster Hitze garen, dann die Butter unterziehen. Bohnen parallel in Salzwasser 10 Minuten kochen – grüne Bohnen nie roh.",
+        "action": "pot",
+        "items": [
+          "rice",
+          "greenbeans",
+          "butter"
+        ],
+        "timer": 720
+      },
+      {
+        "title": "Fleisch schneiden",
+        "text": "Hüftsteak quer zur Faser in fingerdicke Streifen schneiden, sehr gründlich trocken tupfen. Pilze vierteln, Zwiebel fein würfeln.",
+        "action": "cut",
+        "items": [
+          "beefsteak",
+          "mushroom",
+          "onion"
+        ]
+      },
+      {
+        "title": "Fleisch in Portionen braten",
+        "text": "Pfanne leer 3 Minuten bei hoher Hitze vorheizen, bis ein Wassertropfen als Kugel tanzt. Die Hälfte des Öls hinein, Fleisch in einer Lage einlegen und 60–90 Sekunden nicht bewegen, dann wenden und nach 30 Sekunden herausnehmen – innen noch rosa. Die Pfanne nicht überfüllen, lieber in zwei Runden.",
+        "action": "pan",
+        "items": [
+          "beefsteak",
+          "rapeseed"
+        ],
+        "timer": 90
+      },
+      {
+        "title": "Pilze rösten",
+        "text": "Restliches Öl in die Pfanne, Pilze einlegen und 4 Minuten kaum bewegen, bis sie Wasser verloren haben und braun werden. Zwiebel zugeben und 2 Minuten mitrösten, mit Paprikapulver bestäuben.",
+        "action": "pan",
+        "items": [
+          "mushroom",
+          "onion",
+          "paprika"
+        ],
+        "timer": 360
+      },
+      {
+        "title": "Ablöschen und Rahm",
+        "text": "Mit 65 ml Wasser und Brühpulver ablöschen, den Bratsatz lösen und 1 Minute einkochen. Sahne und Senf einrühren, 1 Minute köcheln, bis die Sauce cremig dick ist. Fleisch samt Saft nur noch 30 Sekunden darin erwärmen, salzen und pfeffern.",
+        "action": "deglaze",
+        "items": [
+          "cream",
+          "mustard",
+          "beefsteak"
+        ],
+        "timer": 120
+      },
+      {
+        "title": "Anrichten",
+        "text": "Mit Reis und Bohnen anrichten und mit Petersilie bestreuen. Für die Thermobox eine Portion mit Reis und Bohnen mischen und rasch abkühlen.",
+        "action": "plate",
+        "items": [
+          "parsley",
+          "rice"
+        ]
+      }
+    ],
+    "tips": [
+      "Hüfte statt Gulasch verwenden: Kurzbratfleisch bleibt zart, Schmorfleisch wird in 2 Minuten zäh.",
+      "Die braune Kruste am Pfannenboden ist kein Ankleben, sondern die Basis der Sauce."
+    ],
+    "art": {
+      "dish": "plate",
+      "base": {
+        "type": "strips",
+        "color": "#8a5a3c"
+      },
+      "side": {
+        "type": "rice",
+        "color": "#f4efdc"
+      },
+      "sauce": {
+        "style": "pool",
+        "color": "#d9bf98"
+      },
+      "garnish": [
+        "parsley",
+        "greenbeans"
+      ]
+    }
+  },
+  {
+    "id": "d10",
+    "meals": [
+      "dinner"
+    ],
+    "title": "Kabeljau in Tomaten-Paprika-Sauce aus dem Ofen",
+    "subtitle": "Zarter weißer Fisch auf geschmortem Paprika-Bohnen-Bett, dazu Kartoffeln.",
+    "origin": "Baskisch inspiriert",
+    "time": {
+      "active": 20,
+      "total": 45,
+      "quick": 30
+    },
+    "difficulty": 1,
+    "tags": [
+      "ofen",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": false,
+      "thermos": false,
+      "note": "Frisch essen. Die Sauce ohne Fisch lässt sich 2 Tage vorbereiten."
+    },
+    "components": [
+      {
+        "key": "cooked-potato",
+        "q": 300
+      }
+    ],
+    "tools": [
+      "Edelstahlpfanne 28 cm",
+      "Auflaufform (Glas/Keramik)",
+      "Edelstahltopf 2 l"
+    ],
+    "ingredients": [
+      {
+        "k": "whitefish",
+        "q": 200,
+        "note": "aufgetaut"
+      },
+      {
+        "k": "cannedtomato",
+        "q": 200
+      },
+      {
+        "k": "pepper",
+        "q": 150
+      },
+      {
+        "k": "onion",
+        "q": 60
+      },
+      {
+        "k": "garlic",
+        "q": 4
+      },
+      {
+        "k": "whitebeans",
+        "q": 100
+      },
+      {
+        "k": "olive",
+        "q": 15
+      },
+      {
+        "k": "smoked",
+        "q": 2
+      },
+      {
+        "k": "potato",
+        "q": 300
+      },
+      {
+        "k": "lemon",
+        "q": 10
+      },
+      {
+        "k": "parsley",
+        "q": 8
+      },
+      {
+        "k": "salt",
+        "q": 2.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Kartoffeln kochen",
+        "text": "Ofen auf 200 °C Ober-/Unterhitze vorheizen. Kartoffeln in Salzwasser 20 Minuten als Pellkartoffeln garen.",
+        "action": "pot",
+        "items": [
+          "potato"
+        ],
+        "timer": 1200
+      },
+      {
+        "title": "Paprika anschmoren",
+        "text": "Paprika in Streifen, Zwiebel in Halbringe, Knoblauch in Scheiben schneiden. Olivenöl in der vorgeheizten Edelstahlpfanne erhitzen und das Gemüse 6 Minuten bei mittlerer Hitze braten, bis es weich wird und Farbe nimmt.",
+        "action": "pan",
+        "items": [
+          "pepper",
+          "onion",
+          "garlic"
+        ],
+        "timer": 360
+      },
+      {
+        "title": "Sauce ansetzen",
+        "text": "Räucherpaprika 20 Sekunden mitrösten, dann mit den Tomaten ablöschen, den Bratsatz lösen. Bohnen zugeben, 5 Minuten köcheln und salzen. In die Auflaufform füllen.",
+        "action": "deglaze",
+        "items": [
+          "cannedtomato",
+          "whitebeans",
+          "smoked"
+        ],
+        "timer": 300
+      },
+      {
+        "title": "Fisch im Ofen garen",
+        "text": "Fisch trocken tupfen, salzen, in die Sauce legen und mit etwas Sauce überziehen. 12–15 Minuten im Ofen garen, bis das Fleisch weiß ist und mit der Gabel blättrig zerfällt.",
+        "action": "oven",
+        "items": [
+          "whitefish"
+        ],
+        "timer": 840
+      },
+      {
+        "title": "Anrichten",
+        "text": "Kartoffeln pellen oder halbieren, mit Fisch und Sauce anrichten, Zitronensaft und Petersilie darübergeben.",
+        "action": "plate",
+        "items": [
+          "potato",
+          "whitefish",
+          "parsley"
+        ]
+      }
+    ],
+    "tips": [
+      "TK-Fisch über Nacht im Kühlschrank auftauen und das Wasser gut abtupfen, sonst wird die Sauce dünn.",
+      "Glasiges Inneres heißt: noch 2–3 Minuten zurück in den Ofen."
+    ],
+    "art": {
+      "dish": "tray",
+      "base": {
+        "type": "stew",
+        "color": "#c4422c"
+      },
+      "side": {
+        "type": "fillet",
+        "color": "#f3eee2"
+      },
+      "garnish": [
+        "parsley",
+        "lemon"
+      ]
+    }
+  },
+  {
+    "id": "d11",
+    "meals": [
+      "dinner",
+      "lunch"
+    ],
+    "title": "Rindergulasch mit Paprika & Kartoffeln",
+    "subtitle": "Kräftig angeröstet, langsam geschmort – schmeckt am zweiten Tag noch besser.",
+    "origin": "Ungarisch inspiriert",
+    "time": {
+      "active": 35,
+      "total": 135,
+      "quick": null
+    },
+    "difficulty": 2,
+    "tags": [
+      "mealprep",
+      "thermobox",
+      "einfrieren",
+      "proteinreich",
+      "wochenende"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": true,
+      "thermos": true,
+      "note": "Gulasch nur bis zum nächsten Tag kühlen oder portionsweise einfrieren (2 Monate). Morgens mit 1–2 EL Wasser sprudelnd aufkochen und in die vorgeheizte Thermobox füllen."
+    },
+    "components": [
+      {
+        "key": "cooked-potato",
+        "q": 130
+      }
+    ],
+    "tools": [
+      "Edelstahl-Bräter mit Deckel",
+      "Edelstahltopf 2 l",
+      "Holzspatel",
+      "Thermobox 650 ml + kleine Extra-Dose"
+    ],
+    "ingredients": [
+      {
+        "k": "beef",
+        "q": 180
+      },
+      {
+        "k": "onion",
+        "q": 90
+      },
+      {
+        "k": "pepper",
+        "q": 70
+      },
+      {
+        "k": "carrot",
+        "q": 40
+      },
+      {
+        "k": "garlic",
+        "q": 4
+      },
+      {
+        "k": "paste",
+        "q": 20
+      },
+      {
+        "k": "paprika",
+        "q": 6
+      },
+      {
+        "k": "smoked",
+        "q": 2
+      },
+      {
+        "k": "rapeseed",
+        "q": 22
+      },
+      {
+        "k": "water",
+        "q": 80
+      },
+      {
+        "k": "broth",
+        "q": 4
+      },
+      {
+        "k": "vinegar",
+        "q": 5
+      },
+      {
+        "k": "thyme",
+        "q": 0.5
+      },
+      {
+        "k": "potato",
+        "q": 130
+      },
+      {
+        "k": "salt",
+        "q": 2
+      },
+      {
+        "k": "schmand",
+        "q": 50,
+        "note": "Extra-Dose",
+        "side": true
+      }
+    ],
+    "steps": [
+      {
+        "title": "Fleisch portionsweise anrösten",
+        "text": "Fleisch in 3 cm Würfel schneiden und trocken tupfen. Bräter leer 3 Minuten bei mittlerer bis hoher Hitze vorheizen, bis ein Wassertropfen perlt, dann Öl hinein. Fleisch in zwei Runden einlegen und je Seite 2–3 Minuten nicht bewegen, bis sich die Würfel mit dunkler Kruste von selbst lösen. Herausnehmen.",
+        "action": "pan",
+        "items": [
+          "beef",
+          "rapeseed"
+        ],
+        "timer": 300
+      },
+      {
+        "title": "Zwiebeln schmelzen lassen",
+        "text": "Hitze reduzieren, Zwiebeln in Streifen in den Bräter geben und 8 Minuten braun schmoren; ihr Wasser löst dabei den Bratsatz. Tomatenmark und Knoblauch 1 Minute mitrösten.",
+        "action": "pot",
+        "items": [
+          "onion",
+          "paste",
+          "garlic"
+        ],
+        "timer": 480
+      },
+      {
+        "title": "Ablöschen und schmoren",
+        "text": "Vom Herd ziehen, Paprikapulver einrühren (verbrennt sonst bitter), sofort mit Essig und 80 ml Wasser ablöschen, Brühpulver und Thymian zugeben. Fleisch zurück, aufkochen und fest zugedeckt bei kleinster Hitze 90 Minuten schmoren; nur wenn es ansetzt, einen Schluck Wasser nachgießen.",
+        "action": "deglaze",
+        "items": [
+          "beef",
+          "paprika",
+          "vinegar"
+        ],
+        "timer": 5400
+      },
+      {
+        "title": "Gemüse dazu",
+        "text": "Paprika und Karotten in mundgerechte Stücke schneiden, zugeben und weitere 20 Minuten schmoren, bis das Fleisch mit der Gabel zerfällt. Parallel die Kartoffeln 20 Minuten kochen.",
+        "action": "pot",
+        "items": [
+          "pepper",
+          "carrot",
+          "potato"
+        ],
+        "timer": 1200
+      },
+      {
+        "title": "Abschmecken und abfüllen",
+        "text": "Mit Salz abschmecken, mit Kartoffeln und einem Klecks Schmand servieren. Zweite Portion samt Kartoffeln rasch abkühlen. Morgens Box 5–10 Minuten mit kochendem Wasser vorheizen, die Portion mit 1–2 EL Wasser sprudelnd aufkochen und 2 Minuten durchkochen. Box leeren, randvoll füllen (650 ml), sofort verschließen und innerhalb von 4 Stunden essen. Schmand in die kleine Extra-Dose.",
+        "action": "jar",
+        "items": [
+          "beef",
+          "potato",
+          "schmand"
+        ],
+        "timer": 300
+      }
+    ],
+    "tips": [
+      "Nie zu viel Fleisch auf einmal: Es zieht Wasser und kocht, statt zu bräunen.",
+      "Die Zwiebeln und das Fleisch geben genug Saft – die Sauce soll dick sein. Zu dünn? Offen 10 Minuten einkochen."
+    ],
+    "art": {
+      "dish": "bowl",
+      "base": {
+        "type": "stew",
+        "color": "#8e3a22"
+      },
+      "side": {
+        "type": "cubes",
+        "color": "#e9d39a"
+      },
+      "garnish": [
+        "parsley"
+      ]
+    }
+  },
+  {
+    "id": "d12",
+    "meals": [
+      "dinner"
+    ],
+    "title": "Seelachs mit Senflinsen & Lauch",
+    "subtitle": "Goldbraun gebratener Fisch auf Bistro-Linsen mit Senf-Sahne.",
+    "origin": "Französisch inspiriert",
+    "time": {
+      "active": 25,
+      "total": 45,
+      "quick": 20
+    },
+    "difficulty": 2,
+    "tags": [
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": false,
+      "thermos": false,
+      "note": "Linsen halten 2 Tage gekühlt und lassen sich vorkochen; den Fisch immer frisch braten."
+    },
+    "components": [
+      {
+        "key": "cooked-lentils",
+        "q": 70
+      }
+    ],
+    "tools": [
+      "Edelstahltopf 2 l",
+      "Edelstahlpfanne 24 cm",
+      "Fischwender oder flacher Metallspatel"
+    ],
+    "ingredients": [
+      {
+        "k": "whitefish",
+        "q": 180,
+        "note": "aufgetaut, möglichst dickes Stück"
+      },
+      {
+        "k": "lentils",
+        "q": 70
+      },
+      {
+        "k": "carrot",
+        "q": 80
+      },
+      {
+        "k": "leek",
+        "q": 100
+      },
+      {
+        "k": "onion",
+        "q": 40
+      },
+      {
+        "k": "flour",
+        "q": 5
+      },
+      {
+        "k": "butter",
+        "q": 10
+      },
+      {
+        "k": "rapeseed",
+        "q": 10
+      },
+      {
+        "k": "cream",
+        "q": 40
+      },
+      {
+        "k": "mustard",
+        "q": 10
+      },
+      {
+        "k": "vinegar",
+        "q": 5
+      },
+      {
+        "k": "broth",
+        "q": 3
+      },
+      {
+        "k": "water",
+        "q": 400
+      },
+      {
+        "k": "parsley",
+        "q": 5
+      },
+      {
+        "k": "salt",
+        "q": 2
+      }
+    ],
+    "steps": [
+      {
+        "title": "Linsen kochen",
+        "text": "Linsen abspülen und in Wasser ohne Salz 25–30 Minuten weich, aber nicht zerfallen kochen. Abgießen und etwas Kochwasser aufheben.",
+        "action": "pot",
+        "items": [
+          "lentils"
+        ],
+        "timer": 1650
+      },
+      {
+        "title": "Gemüse dünsten",
+        "text": "Karotte in feine Würfel, Lauch in Ringe, Zwiebel fein schneiden. Im Topf in 5 g Butter 6 Minuten bei mittlerer Hitze weich dünsten.",
+        "action": "pot",
+        "items": [
+          "carrot",
+          "leek",
+          "onion"
+        ],
+        "timer": 360
+      },
+      {
+        "title": "Senflinsen fertigstellen",
+        "text": "Linsen, Brühpulver, Sahne, Senf und Essig zugeben, mit etwas Kochwasser cremig einkochen. Erst jetzt salzen. Warm halten.",
+        "action": "pot",
+        "items": [
+          "lentils",
+          "cream",
+          "mustard"
+        ]
+      },
+      {
+        "title": "Fisch braten",
+        "text": "Fisch sehr gründlich trocken tupfen, salzen und hauchdünn mit Mehl bestäuben. Pfanne leer 2–3 Minuten vorheizen (Wassertropfen perlt), Öl hinein, Fisch einlegen und 3–4 Minuten nicht bewegen. Er löst sich, wenn die Unterseite goldbraun ist.",
+        "action": "pan",
+        "items": [
+          "whitefish",
+          "flour",
+          "rapeseed"
+        ],
+        "timer": 210
+      },
+      {
+        "title": "Wenden und arrosieren",
+        "text": "Vorsichtig wenden, 5 g Butter zugeben und den Fisch 1–2 Minuten mit schäumender Butter übergießen, bis er blättrig zerfällt und innen nicht mehr glasig ist.",
+        "action": "flip",
+        "items": [
+          "whitefish",
+          "butter"
+        ],
+        "timer": 90
+      },
+      {
+        "title": "Anrichten",
+        "text": "Linsen in einen tiefen Teller geben, Fisch obenauf, mit Petersilie bestreuen.",
+        "action": "plate",
+        "items": [
+          "lentils",
+          "whitefish",
+          "parsley"
+        ]
+      }
+    ],
+    "tips": [
+      "Weißer Fisch ist empfindlich: Die dünne Mehlschicht schützt und sorgt dafür, dass er sich sauber vom Edelstahl löst.",
+      "Linsen erst am Ende salzen, sonst bleiben die Schalen hart."
+    ],
+    "art": {
+      "dish": "plate",
+      "base": {
+        "type": "beans",
+        "color": "#6b5a3e"
+      },
+      "side": {
+        "type": "fillet",
+        "color": "#e9d2a6"
+      },
+      "sauce": {
+        "style": "drizzle",
+        "color": "#e7d38c"
+      },
+      "garnish": [
+        "parsley",
+        "leek"
+      ]
+    }
+  },
+  {
+    "id": "d13",
+    "meals": [
+      "dinner",
+      "lunch"
+    ],
+    "title": "Gebratener Spitzkohl mit Kartoffeln & Kräuterquark",
+    "subtitle": "Spitzkohl-Spalten mit dunkler Röstkante – einfach, günstig, überraschend gut.",
+    "origin": "Deutsch",
+    "time": {
+      "active": 25,
+      "total": 35,
+      "quick": 20
+    },
+    "difficulty": 1,
+    "tags": [
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": false,
+      "thermos": false,
+      "note": "Kohl frisch am besten; Kräuterquark mit frischen Kräutern hält nur bis zum nächsten Tag."
+    },
+    "components": [
+      {
+        "key": "cooked-potato",
+        "q": 300
+      }
+    ],
+    "tools": [
+      "Edelstahlpfanne 28 cm mit Deckel",
+      "Edelstahltopf 2 l"
+    ],
+    "ingredients": [
+      {
+        "k": "cabbage",
+        "q": 400
+      },
+      {
+        "k": "potato",
+        "q": 300
+      },
+      {
+        "k": "quark",
+        "q": 200
+      },
+      {
+        "k": "yogurt",
+        "q": 50
+      },
+      {
+        "k": "chives",
+        "q": 10
+      },
+      {
+        "k": "garlic",
+        "q": 3
+      },
+      {
+        "k": "lemon",
+        "q": 10
+      },
+      {
+        "k": "rapeseed",
+        "q": 15
+      },
+      {
+        "k": "butter",
+        "q": 10
+      },
+      {
+        "k": "pumpkin",
+        "q": 20
+      },
+      {
+        "k": "water",
+        "q": 40
+      },
+      {
+        "k": "salt",
+        "q": 3
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Kartoffeln garen",
+        "text": "Kartoffeln in Salzwasser 20 Minuten kochen, abgießen und halbieren.",
+        "action": "pot",
+        "items": [
+          "potato"
+        ],
+        "timer": 1200
+      },
+      {
+        "title": "Kräuterquark",
+        "text": "Quark mit Joghurt, Schnittlauchröllchen, geriebenem Knoblauch, Zitronensaft, Salz und Pfeffer glatt rühren.",
+        "action": "mix",
+        "items": [
+          "quark",
+          "yogurt",
+          "chives"
+        ]
+      },
+      {
+        "title": "Kürbiskerne rösten",
+        "text": "Kürbiskerne in der leeren Pfanne bei mittlerer Hitze 2–3 Minuten rösten, bis sie knacken und sich wölben. Herausnehmen.",
+        "action": "toast",
+        "items": [
+          "pumpkin"
+        ],
+        "timer": 150
+      },
+      {
+        "title": "Kohl scharf anbraten",
+        "text": "Spitzkohl längs in 4 Spalten schneiden, Strunk dranlassen. Pfanne vorheizen, bis ein Wassertropfen perlt, Öl hinein, Spalten mit der Schnittfläche nach unten einlegen und 5 Minuten nicht bewegen, bis sie tief gebräunt sind. Die halbierten Kartoffeln mit der Schnittfläche nach unten in die Lücken legen.",
+        "action": "pan",
+        "items": [
+          "cabbage",
+          "potato",
+          "rapeseed"
+        ],
+        "timer": 300
+      },
+      {
+        "title": "Wenden und dämpfen",
+        "text": "Kohl wenden, Butter und Wasser zugeben, Deckel auflegen und 4 Minuten dämpfen, bis der Strunk mit einem Messer weich ist. Salzen und pfeffern.",
+        "action": "flip",
+        "items": [
+          "cabbage",
+          "butter"
+        ],
+        "timer": 240
+      },
+      {
+        "title": "Anrichten",
+        "text": "Kohl und Kartoffeln anrichten, Kräuterquark dazu und mit Kürbiskernen bestreuen.",
+        "action": "plate",
+        "items": [
+          "cabbage",
+          "quark",
+          "pumpkin"
+        ]
+      }
+    ],
+    "tips": [
+      "Die dunklen Röststellen am Kohl sind gewollt – sie bringen Süße und nussiges Aroma.",
+      "Am Wochenende als schnelles Mittagessen ideal."
+    ],
+    "art": {
+      "dish": "plate",
+      "base": {
+        "type": "roastveg",
+        "color": "#8fae5a"
+      },
+      "side": {
+        "type": "cubes",
+        "color": "#e7c983"
+      },
+      "sauce": {
+        "style": "dollop",
+        "color": "#f2f4ec"
+      },
+      "garnish": [
+        "chives",
+        "pumpkin"
+      ]
+    }
+  },
+  {
+    "id": "d14",
+    "meals": [
+      "dinner",
+      "lunch"
+    ],
+    "title": "Kichererbsen-Shakshuka mit Feta & Couscous",
+    "subtitle": "Würzige Tomaten-Paprika-Pfanne, Kichererbsen in den Mulden, Feta obendrauf.",
+    "origin": "Nordafrikanisch inspiriert",
+    "time": {
+      "active": 20,
+      "total": 35,
+      "quick": null
+    },
+    "difficulty": 1,
+    "tags": [
+      "onepot",
+      "mealprep",
+      "thermobox",
+      "einfrieren"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freeze": true,
+      "thermos": true,
+      "note": "Sauce mit Kichererbsen 2 Tage gekühlt oder portionsweise eingefroren (2 Monate). Morgens mit 1–2 EL Wasser sprudelnd aufkochen und mit dem Couscous in die vorgeheizte Thermobox füllen; Feta und Tahin in die kleine Extra-Dose."
+    },
+    "tools": [
+      "Edelstahlpfanne 28 cm mit hohem Rand",
+      "Edelstahltopf 1 l",
+      "Thermobox 650 ml + kleine Extra-Dose"
+    ],
+    "ingredients": [
+      {
+        "k": "chickpeas",
+        "q": 150
+      },
+      {
+        "k": "cannedtomato",
+        "q": 120
+      },
+      {
+        "k": "pepper",
+        "q": 80
+      },
+      {
+        "k": "onion",
+        "q": 60
+      },
+      {
+        "k": "garlic",
+        "q": 6
+      },
+      {
+        "k": "paste",
+        "q": 15
+      },
+      {
+        "k": "olive",
+        "q": 22
+      },
+      {
+        "k": "cumin",
+        "q": 2
+      },
+      {
+        "k": "smoked",
+        "q": 2
+      },
+      {
+        "k": "chili",
+        "q": 0.5
+      },
+      {
+        "k": "couscous",
+        "q": 60
+      },
+      {
+        "k": "water",
+        "q": 80
+      },
+      {
+        "k": "parsley",
+        "q": 8,
+        "note": "zum Schluss einrühren"
+      },
+      {
+        "k": "salt",
+        "q": 2
+      },
+      {
+        "k": "feta",
+        "q": 45,
+        "note": "Extra-Dose",
+        "side": true
+      },
+      {
+        "k": "tahini",
+        "q": 15,
+        "note": "Extra-Dose",
+        "side": true
+      }
+    ],
+    "steps": [
+      {
+        "title": "Gemüse anbraten",
+        "text": "Paprika in Streifen, Zwiebel in Halbringe schneiden. Pfanne vorheizen, Öl hinein und das Gemüse 7 Minuten bei mittlerer Hitze braten, bis es weich ist und Röstspuren zeigt.",
+        "action": "pan",
+        "items": [
+          "pepper",
+          "onion",
+          "olive"
+        ],
+        "timer": 420
+      },
+      {
+        "title": "Gewürze rösten",
+        "text": "Knoblauch, Tomatenmark, Kreuzkümmel, Räucherpaprika und Chili 1 Minute mitrösten, bis es duftet.",
+        "action": "pan",
+        "items": [
+          "garlic",
+          "paste",
+          "cumin"
+        ],
+        "timer": 60
+      },
+      {
+        "title": "Ablöschen und dick köcheln",
+        "text": "Mit den Tomaten ablöschen, den Bratsatz lösen, Kichererbsen zugeben und 12 Minuten offen köcheln, bis die Sauce dick ist. Petersilie einrühren und salzen.",
+        "action": "deglaze",
+        "items": [
+          "cannedtomato",
+          "chickpeas"
+        ],
+        "timer": 720
+      },
+      {
+        "title": "Couscous quellen lassen",
+        "text": "80 ml Wasser aufkochen, über den Couscous gießen, abdecken und 5 Minuten quellen lassen, dann mit einer Gabel auflockern.",
+        "action": "pot",
+        "items": [
+          "couscous",
+          "water"
+        ],
+        "timer": 300
+      },
+      {
+        "title": "Feta und servieren",
+        "text": "In der Pfanne mit Couscous servieren, Feta darüberbröseln und Tahin darüberträufeln. Für die Thermobox eine Portion Sauce mit dem Couscous mischen und rasch abkühlen.",
+        "action": "plate",
+        "items": [
+          "feta",
+          "tahini",
+          "couscous"
+        ]
+      }
+    ],
+    "tips": [
+      "Für die vegane Variante den Feta durch 20 g geröstete Kürbiskerne ersetzen.",
+      "Für die Thermobox die Sauce dick lassen und nicht verdünnen – der Couscous saugt nur wenig nach."
+    ],
+    "art": {
+      "dish": "pan",
+      "base": {
+        "type": "stew",
+        "color": "#c23f2a"
+      },
+      "side": {
+        "type": "grain",
+        "color": "#e8d29a"
+      },
+      "garnish": [
+        "feta",
+        "parsley",
+        "chickpeas"
+      ]
+    }
+  },
+  {
+    "id": "d15",
+    "meals": [
+      "dinner"
+    ],
+    "title": "Puten-Gyros-Pfanne mit Reis & Tzatziki",
+    "subtitle": "Selbst gewürzt, mit Röstkante – dazu frisches Tzatziki und Tomatensalat.",
+    "origin": "Griechisch inspiriert",
+    "time": {
+      "active": 25,
+      "total": 30,
+      "quick": 20
+    },
+    "difficulty": 1,
+    "tags": [
+      "schnell",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": false,
+      "thermos": false,
+      "note": "Fleisch und Reis getrennt kühlen, nur bis zum nächsten Tag, und auf ≥ 72 °C erhitzen; Tzatziki (rohe Gurke, Knoblauch) nur bis zum nächsten Tag. Reis nur bis zum nächsten Tag kühlen, sonst portionsweise einfrieren (1 Monat)."
+    },
+    "components": [
+      {
+        "key": "cooked-rice",
+        "q": 75
+      }
+    ],
+    "tools": [
+      "Edelstahlpfanne 28 cm",
+      "Edelstahltopf 1,5 l mit Deckel",
+      "Reibe"
+    ],
+    "ingredients": [
+      {
+        "k": "turkey",
+        "q": 180
+      },
+      {
+        "k": "onion",
+        "q": 80
+      },
+      {
+        "k": "pepper",
+        "q": 100
+      },
+      {
+        "k": "rapeseed",
+        "q": 15
+      },
+      {
+        "k": "oregano",
+        "q": 2
+      },
+      {
+        "k": "paprika",
+        "q": 2
+      },
+      {
+        "k": "cumin",
+        "q": 1
+      },
+      {
+        "k": "thyme",
+        "q": 0.5
+      },
+      {
+        "k": "garlic",
+        "q": 6
+      },
+      {
+        "k": "rice",
+        "q": 75
+      },
+      {
+        "k": "yogurt",
+        "q": 120
+      },
+      {
+        "k": "cucumber",
+        "q": 120
+      },
+      {
+        "k": "tomato",
+        "q": 150
+      },
+      {
+        "k": "lemon",
+        "q": 10
+      },
+      {
+        "k": "water",
+        "q": 150
+      },
+      {
+        "k": "salt",
+        "q": 3
+      }
+    ],
+    "steps": [
+      {
+        "title": "Fleisch marinieren, Reis kochen",
+        "text": "Pute in dünne Streifen schneiden und mit 5 g Öl, Oregano, Paprikapulver, Kreuzkümmel, Thymian, 3 g geriebenem Knoblauch und Salz mischen. Reis abspülen und mit 150 ml Wasser 12 Minuten zugedeckt garen.",
+        "action": "mix",
+        "items": [
+          "turkey",
+          "oregano",
+          "rice"
+        ],
+        "timer": 720
+      },
+      {
+        "title": "Tzatziki",
+        "text": "Gurke raspeln, kräftig ausdrücken, mit Joghurt, restlichem Knoblauch, Zitronensaft und Salz verrühren. Tomaten in Spalten schneiden und leicht salzen.",
+        "action": "mix",
+        "items": [
+          "yogurt",
+          "cucumber",
+          "tomato"
+        ]
+      },
+      {
+        "title": "Gyros braten",
+        "text": "Pfanne leer 3 Minuten bei hoher Hitze vorheizen, bis ein Wassertropfen perlt. Restliches Öl hinein, Fleisch in einer Lage verteilen und 2 Minuten nicht bewegen. Sobald es sich löst, wenden und weitere 2–3 Minuten braten, bis es rundum gebräunt und durchgegart ist (≥ 72 °C).",
+        "action": "pan",
+        "items": [
+          "turkey",
+          "rapeseed"
+        ],
+        "timer": 270
+      },
+      {
+        "title": "Zwiebel und Paprika",
+        "text": "Zwiebel in Ringen und Paprika in Streifen zugeben und 3 Minuten mitbraten, bis sie leicht weich sind, aber noch Biss haben. Ein Schuss Wasser löst den Bratsatz und überzieht das Fleisch.",
+        "action": "deglaze",
+        "items": [
+          "onion",
+          "pepper"
+        ],
+        "timer": 180
+      },
+      {
+        "title": "Anrichten",
+        "text": "Reis, Gyros, Tomatenspalten und einen großen Klecks Tzatziki auf den Teller geben.",
+        "action": "plate",
+        "items": [
+          "rice",
+          "turkey",
+          "yogurt"
+        ]
+      }
+    ],
+    "tips": [
+      "Putenbrust trocknet schnell aus – lieber in zwei Runden braten als einmal zu voll.",
+      "Die Gewürzmischung lässt sich auf Vorrat mischen."
+    ],
+    "art": {
+      "dish": "plate",
+      "base": {
+        "type": "strips",
+        "color": "#b8783e"
+      },
+      "side": {
+        "type": "rice",
+        "color": "#f4efdc"
+      },
+      "sauce": {
+        "style": "dollop",
+        "color": "#eef1e6"
+      },
+      "garnish": [
+        "tomato",
+        "oregano",
+        "redonion"
+      ]
+    }
+  },
+  {
+    "id": "d16",
+    "meals": [
+      "dinner",
+      "lunch"
+    ],
+    "title": "Linsen-Blumenkohl-Curry mit Kokos",
+    "subtitle": "Rote Linsen, Blumenkohl und Spinat in milder Kokos-Tomaten-Sauce – vegan.",
+    "origin": "Indisch inspiriert",
+    "time": {
+      "active": 20,
+      "total": 40,
+      "quick": null
+    },
+    "difficulty": 1,
+    "tags": [
+      "onepot",
+      "mealprep",
+      "thermobox",
+      "einfrieren",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freeze": true,
+      "thermos": true,
+      "note": "Curry 2 Tage gekühlt oder portionsweise eingefroren (2 Monate). Morgens mit 1–2 EL Wasser sprudelnd aufkochen und mit dem Reis in die vorgeheizte Thermobox füllen. Reis separat aufbewahren: nur bis zum nächsten Tag kühlen, sonst portionsweise einfrieren (1 Monat)."
+    },
+    "components": [
+      {
+        "key": "cooked-rice",
+        "q": 40
+      }
+    ],
+    "tools": [
+      "Edelstahltopf 3 l",
+      "Edelstahltopf 1,5 l mit Deckel",
+      "Holzspatel",
+      "Thermobox 650 ml + kleine Extra-Dose"
+    ],
+    "ingredients": [
+      {
+        "k": "redlentils",
+        "q": 65
+      },
+      {
+        "k": "cauliflower",
+        "q": 70
+      },
+      {
+        "k": "spinach",
+        "q": 40
+      },
+      {
+        "k": "coconut",
+        "q": 110
+      },
+      {
+        "k": "paste",
+        "q": 10
+      },
+      {
+        "k": "onion",
+        "q": 40
+      },
+      {
+        "k": "garlic",
+        "q": 5
+      },
+      {
+        "k": "ginger",
+        "q": 10
+      },
+      {
+        "k": "curry",
+        "q": 4
+      },
+      {
+        "k": "turmeric",
+        "q": 1
+      },
+      {
+        "k": "rapeseed",
+        "q": 15
+      },
+      {
+        "k": "water",
+        "q": 200,
+        "note": "60 ml für den Reis, 140 ml fürs Curry"
+      },
+      {
+        "k": "broth",
+        "q": 3
+      },
+      {
+        "k": "rice",
+        "q": 40
+      },
+      {
+        "k": "lime",
+        "q": 10
+      },
+      {
+        "k": "coriander",
+        "q": 5,
+        "note": "zum Schluss einrühren"
+      },
+      {
+        "k": "salt",
+        "q": 1.5
+      },
+      {
+        "k": "cashews",
+        "q": 30,
+        "note": "geröstet, Extra-Dose",
+        "side": true
+      }
+    ],
+    "steps": [
+      {
+        "title": "Blumenkohl anrösten",
+        "text": "Blumenkohl in kleine Röschen teilen. Topf leer vorheizen, bis ein Wassertropfen perlt, Öl hinein und die Röschen 4–5 Minuten rösten, bis sie stellenweise braun sind. Herausnehmen.",
+        "action": "pan",
+        "items": [
+          "cauliflower",
+          "rapeseed"
+        ],
+        "timer": 270
+      },
+      {
+        "title": "Aromaten und Gewürze",
+        "text": "Zwiebel fein würfeln und 4 Minuten im Topf glasig dünsten. Geriebenen Ingwer, Knoblauch, Tomatenmark, Currypulver und Kurkuma 1 Minute mitrösten, bis es duftet.",
+        "action": "pot",
+        "items": [
+          "onion",
+          "ginger",
+          "paste"
+        ],
+        "timer": 300
+      },
+      {
+        "title": "Linsen köcheln",
+        "text": "Mit 140 ml Wasser ablöschen, Bratsatz lösen, Brühpulver und abgespülte Linsen zugeben. 12 Minuten köcheln, öfter umrühren. Parallel Reis mit 60 ml Wasser 12 Minuten zugedeckt bei kleinster Hitze garen.",
+        "action": "deglaze",
+        "items": [
+          "redlentils",
+          "rice"
+        ],
+        "timer": 720
+      },
+      {
+        "title": "Fertig garen",
+        "text": "Blumenkohl, Spinat und Kokosmilch zugeben und 5 Minuten weiterköcheln, bis der Blumenkohl gar und das Curry dick ist. Mit Limettensaft, Koriander und Salz abschmecken.",
+        "action": "pot",
+        "items": [
+          "cauliflower",
+          "coconut",
+          "spinach"
+        ],
+        "timer": 300
+      },
+      {
+        "title": "Servieren oder abfüllen",
+        "text": "Mit Reis und Cashews servieren. Die zweite Portion rasch abkühlen. Morgens Box 5–10 Minuten mit kochendem Wasser vorheizen, Curry und Reis mit 1–2 EL Wasser sprudelnd aufkochen. Box leeren, randvoll füllen (650 ml), sofort verschließen und innerhalb von 4 Stunden essen. Cashews in die kleine Extra-Dose.",
+        "action": "jar",
+        "items": [
+          "redlentils",
+          "rice",
+          "cashews"
+        ],
+        "timer": 300
+      }
+    ],
+    "tips": [
+      "Currypulver auf Senf oder Sellerie prüfen, falls Allergien eine Rolle spielen.",
+      "Curry dickt beim Stehen nach – das ist gut für die Box. Morgens trotzdem nur 1–2 EL Wasser zugeben."
+    ],
+    "art": {
+      "dish": "bowl",
+      "base": {
+        "type": "curry",
+        "color": "#e0a42f"
+      },
+      "side": {
+        "type": "rice",
+        "color": "#f4efdc"
+      },
+      "garnish": [
+        "coriander",
+        "lime",
+        "chili"
+      ]
+    }
+  },
+  {
+    "id": "d17",
+    "meals": [
+      "dinner",
+      "lunch"
+    ],
+    "title": "Hähnchen-Tikka-Masala mit Erbsenreis",
+    "subtitle": "Joghurt-marinierte Hähnchenstücke, scharf gebräunt, in würziger Tomatenrahm-Sauce.",
+    "origin": "Britisch-indisch",
+    "time": {
+      "active": 30,
+      "total": 50,
+      "quick": 35
+    },
+    "difficulty": 2,
+    "tags": [
+      "mealprep",
+      "thermobox",
+      "einfrieren",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": true,
+      "thermos": true,
+      "note": "Curry nur bis zum nächsten Tag kühlen oder portionsweise einfrieren (2 Monate). Morgens mit 1–2 EL Wasser sprudelnd aufkochen (Hähnchen ≥ 72 °C) und mit dem Reis in die vorgeheizte Thermobox füllen. Reis separat aufbewahren: nur bis zum nächsten Tag kühlen, sonst portionsweise einfrieren (1 Monat)."
+    },
+    "components": [
+      {
+        "key": "cooked-rice",
+        "q": 55
+      }
+    ],
+    "tools": [
+      "Edelstahlpfanne 28 cm",
+      "Edelstahltopf 1,5 l mit Deckel",
+      "Schüssel",
+      "Thermobox 650 ml + kleine Extra-Dose"
+    ],
+    "ingredients": [
+      {
+        "k": "chickenthigh",
+        "q": 160
+      },
+      {
+        "k": "yogurt",
+        "q": 40
+      },
+      {
+        "k": "garam",
+        "q": 4
+      },
+      {
+        "k": "paprika",
+        "q": 2
+      },
+      {
+        "k": "turmeric",
+        "q": 1
+      },
+      {
+        "k": "cumin",
+        "q": 1
+      },
+      {
+        "k": "garlic",
+        "q": 6
+      },
+      {
+        "k": "ginger",
+        "q": 10
+      },
+      {
+        "k": "onion",
+        "q": 60
+      },
+      {
+        "k": "passata",
+        "q": 100
+      },
+      {
+        "k": "cream",
+        "q": 35
+      },
+      {
+        "k": "rapeseed",
+        "q": 14
+      },
+      {
+        "k": "rice",
+        "q": 55
+      },
+      {
+        "k": "peas",
+        "q": 40
+      },
+      {
+        "k": "water",
+        "q": 130,
+        "note": "85 ml für den Reis, 45 ml für die Sauce"
+      },
+      {
+        "k": "coriander",
+        "q": 5,
+        "note": "zum Schluss einrühren"
+      },
+      {
+        "k": "salt",
+        "q": 2
+      },
+      {
+        "k": "cashews",
+        "q": 20,
+        "note": "geröstet, Extra-Dose",
+        "side": true
+      }
+    ],
+    "steps": [
+      {
+        "title": "Marinieren",
+        "text": "Hähnchen in 3 cm Stücke schneiden und mit Joghurt, der Hälfte von Garam Masala, Paprikapulver, Kreuzkümmel, Knoblauch und Ingwer sowie 1 g Salz mischen. Mindestens 15 Minuten (oder über Nacht im Kühlschrank) ziehen lassen.",
+        "action": "mix",
+        "items": [
+          "chickenthigh",
+          "yogurt",
+          "garam"
+        ],
+        "timer": 900
+      },
+      {
+        "title": "Hähnchen bräunen",
+        "text": "Überschüssige Marinade abstreifen. Pfanne leer 3 Minuten vorheizen, bis ein Wassertropfen perlt, Öl hinein, Stücke mit Abstand einlegen und 3 Minuten nicht bewegen – die Marinade klebt erst und löst sich mit dunklen Röststellen. Wenden und 2 Minuten weiterbraten, herausnehmen.",
+        "action": "pan",
+        "items": [
+          "chickenthigh",
+          "rapeseed"
+        ],
+        "timer": 300
+      },
+      {
+        "title": "Sauce aufbauen",
+        "text": "Zwiebel fein würfeln und im Bratfett 5 Minuten goldgelb braten. Restliches Garam Masala und Kurkuma 30 Sekunden mitrösten, dann mit Passata ablöschen und den Bratsatz vollständig lösen.",
+        "action": "deglaze",
+        "items": [
+          "onion",
+          "passata",
+          "turmeric"
+        ],
+        "timer": 330
+      },
+      {
+        "title": "Köcheln",
+        "text": "Hähnchen samt Saft und 45 ml Wasser zurückgeben, 10 Minuten leise köcheln, bis es im Kern ≥ 72 °C hat und die Sauce dick ist. Sahne und Koriander einrühren und abschmecken. Parallel Reis mit 85 ml Wasser 12 Minuten zugedeckt garen, die Erbsen für die letzten 3 Minuten obenauf legen.",
+        "action": "pot",
+        "items": [
+          "chickenthigh",
+          "cream",
+          "rice"
+        ],
+        "timer": 600
+      },
+      {
+        "title": "Servieren oder abfüllen",
+        "text": "Erbsen unter den Reis heben, mit Curry und Cashews anrichten. Zweite Portion rasch abkühlen. Morgens Box 5–10 Minuten mit kochendem Wasser vorheizen, Curry und Reis mit 1–2 EL Wasser sprudelnd aufkochen und 2 Minuten durchkochen. Box leeren, randvoll füllen (650 ml), sofort verschließen und innerhalb von 4 Stunden essen. Cashews in die kleine Extra-Dose.",
+        "action": "jar",
+        "items": [
+          "chickenthigh",
+          "rice",
+          "cashews"
+        ],
+        "timer": 300
+      }
+    ],
+    "tips": [
+      "Schenkelfleisch bleibt beim Aufwärmen saftig – ideal für die Thermobox.",
+      "Joghurtmarinade karamellisiert schnell: mittlere Hitze reicht, sonst wird sie bitter."
+    ],
+    "art": {
+      "dish": "bowl",
+      "base": {
+        "type": "curry",
+        "color": "#c7552b"
+      },
+      "side": {
+        "type": "rice",
+        "color": "#eef0d4"
+      },
+      "sauce": {
+        "style": "drizzle",
+        "color": "#f4e9d8"
+      },
+      "garnish": [
+        "coriander",
+        "peas"
+      ]
+    }
+  },
+  {
+    "id": "d18",
+    "meals": [
+      "dinner",
+      "lunch"
+    ],
+    "title": "Pilzrisotto mit Erbsen & Parmesan",
+    "subtitle": "Geröstete Champignons, cremig gerührter Reis – Wohlfühlessen aus dem Edelstahltopf.",
+    "origin": "Italienisch",
+    "time": {
+      "active": 35,
+      "total": 40,
+      "quick": null
+    },
+    "difficulty": 2,
+    "tags": [
+      "thermobox",
+      "wochenende"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": false,
+      "thermos": true,
+      "note": "Risotto rasch abkühlen und nur bis zum nächsten Tag kühlen, sonst portionsweise einfrieren (1 Monat). Morgens mit 1–2 EL Wasser unter Rühren sprudelnd aufkochen (≥ 75 °C), dann in die vorgeheizte Thermobox füllen und innerhalb von 4 Stunden essen. Was nicht in die Box passt, abends essen."
+    },
+    "tools": [
+      "Edelstahltopf 3 l mit dickem Boden",
+      "Edelstahltopf 1 l für die Brühe",
+      "Holzspatel",
+      "Thermobox 650 ml + kleine Extra-Dose"
+    ],
+    "ingredients": [
+      {
+        "k": "risotto",
+        "q": 85
+      },
+      {
+        "k": "mushroom",
+        "q": 120
+      },
+      {
+        "k": "peas",
+        "q": 80
+      },
+      {
+        "k": "onion",
+        "q": 40
+      },
+      {
+        "k": "garlic",
+        "q": 3
+      },
+      {
+        "k": "butter",
+        "q": 20
+      },
+      {
+        "k": "olive",
+        "q": 12
+      },
+      {
+        "k": "parmesan",
+        "q": 35,
+        "note": "Parmigiano Reggiano"
+      },
+      {
+        "k": "broth",
+        "q": 5
+      },
+      {
+        "k": "water",
+        "q": 235,
+        "note": "als Brühe"
+      },
+      {
+        "k": "thyme",
+        "q": 0.5
+      },
+      {
+        "k": "lemon",
+        "q": 10
+      },
+      {
+        "k": "parsley",
+        "q": 5
+      },
+      {
+        "k": "salt",
+        "q": 1
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      },
+      {
+        "k": "parmesan",
+        "q": 15,
+        "note": "Parmigiano Reggiano, Extra-Dose",
+        "side": true
+      }
+    ],
+    "steps": [
+      {
+        "title": "Pilze rösten",
+        "text": "Brühe aus 235 ml Wasser und Pulver erhitzen und heiß halten. Topf leer vorheizen, bis ein Wassertropfen perlt, Olivenöl hinein, die geviertelten Pilze einlegen und 5 Minuten kaum bewegen, bis sie ihr Wasser verloren haben und kräftig braun sind. Mit Thymian und Salz würzen, herausnehmen.",
+        "action": "pan",
+        "items": [
+          "mushroom"
+        ],
+        "timer": 300
+      },
+      {
+        "title": "Reis anschwitzen und ablöschen",
+        "text": "5 g Butter in den Topf, fein gewürfelte Zwiebel und Knoblauch 3 Minuten glasig dünsten. Reis zugeben und 1–2 Minuten rühren, bis die Körner glasig glänzen. Mit Zitronensaft und einer Kelle Brühe ablöschen und den Pilz-Bratsatz vom Boden lösen.",
+        "action": "deglaze",
+        "items": [
+          "risotto",
+          "onion",
+          "lemon"
+        ],
+        "timer": 270
+      },
+      {
+        "title": "Rühren und angießen",
+        "text": "Bei mittlerer Hitze nach und nach heiße Brühe angießen, immer erst, wenn die vorige fast aufgesogen ist, und regelmäßig rühren. Nach 14 Minuten Erbsen und Pilze zugeben.",
+        "action": "pot",
+        "items": [
+          "risotto",
+          "peas",
+          "mushroom"
+        ],
+        "timer": 840
+      },
+      {
+        "title": "Mantecatura",
+        "text": "Nach insgesamt 17–18 Minuten ist der Reis cremig, aber im Kern bissfest. Vom Herd nehmen, restliche kalte Butter und 35 g geriebenen Parmesan kräftig einrühren, 1 Minute zugedeckt ruhen lassen.",
+        "action": "mix",
+        "items": [
+          "butter",
+          "parmesan"
+        ],
+        "timer": 60
+      },
+      {
+        "title": "Anrichten",
+        "text": "In einen warmen tiefen Teller geben, mit Petersilie, Pfeffer und dem restlichen Parmesan vollenden. Für die Thermobox eine Portion sofort flach verteilen und rasch kühlen; Parmesan in die kleine Extra-Dose.",
+        "action": "plate",
+        "items": [
+          "parsley",
+          "parmesan"
+        ]
+      }
+    ],
+    "tips": [
+      "Nur echten Parmigiano Reggiano verwenden – Grana Padano enthält Lysozym aus Hühnereiweiß.",
+      "Ein dicker Edelstahlboden verteilt die Hitze gleichmäßig; was am Boden ansetzt, einfach mit der nächsten Kelle Brühe lösen."
+    ],
+    "art": {
+      "dish": "bowl",
+      "base": {
+        "type": "grain",
+        "color": "#e6d6a8"
+      },
+      "garnish": [
+        "mushroom",
+        "peas",
+        "parsley",
+        "parmesan"
+      ]
+    }
+  },
+  {
+    "id": "d19",
+    "meals": [
+      "dinner",
+      "lunch"
+    ],
+    "title": "Mexikanische Hähnchen-Bohnen-Bowl",
+    "subtitle": "Würziges Hähnchen-Bohnen-Chili mit Limettenreis, Mais und Avocado.",
+    "origin": "Mexikanisch inspiriert",
+    "time": {
+      "active": 25,
+      "total": 35,
+      "quick": 20
+    },
+    "difficulty": 1,
+    "tags": [
+      "mealprep",
+      "thermobox",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": true,
+      "thermos": true,
+      "note": "Chili mit Reis rasch abkühlen, Reis nur bis zum nächsten Tag kühlen (Chili ohne Reis auch portionsweise einfrieren, 2 Monate). Morgens zusammen mit 1–2 EL Wasser sprudelnd aufkochen und in die vorgeheizte Thermobox füllen; Avocado und Schmand in die kleine Extra-Dose."
+    },
+    "components": [
+      {
+        "key": "cooked-rice",
+        "q": 50
+      }
+    ],
+    "tools": [
+      "Edelstahlpfanne 28 cm mit hohem Rand",
+      "Edelstahltopf 1,5 l mit Deckel",
+      "Thermobox 650 ml + kleine Extra-Dose"
+    ],
+    "ingredients": [
+      {
+        "k": "chicken",
+        "q": 140
+      },
+      {
+        "k": "blackbeans",
+        "q": 80
+      },
+      {
+        "k": "corn",
+        "q": 30
+      },
+      {
+        "k": "pepper",
+        "q": 60
+      },
+      {
+        "k": "onion",
+        "q": 40
+      },
+      {
+        "k": "cannedtomato",
+        "q": 50
+      },
+      {
+        "k": "rapeseed",
+        "q": 18
+      },
+      {
+        "k": "smoked",
+        "q": 2
+      },
+      {
+        "k": "cumin",
+        "q": 2
+      },
+      {
+        "k": "oregano",
+        "q": 1
+      },
+      {
+        "k": "garlic",
+        "q": 4
+      },
+      {
+        "k": "rice",
+        "q": 50
+      },
+      {
+        "k": "water",
+        "q": 100,
+        "note": "75 ml für den Reis, 25 ml zum Ablöschen"
+      },
+      {
+        "k": "lime",
+        "q": 15
+      },
+      {
+        "k": "cheese",
+        "q": 25,
+        "note": "gerieben"
+      },
+      {
+        "k": "coriander",
+        "q": 5,
+        "note": "zum Schluss einrühren"
+      },
+      {
+        "k": "salt",
+        "q": 2.5
+      },
+      {
+        "k": "avocado",
+        "q": 40,
+        "note": "Extra-Dose, erst beim Essen aufschneiden",
+        "side": true
+      },
+      {
+        "k": "schmand",
+        "q": 20,
+        "note": "Extra-Dose",
+        "side": true
+      }
+    ],
+    "steps": [
+      {
+        "title": "Reis garen",
+        "text": "Reis abspülen und mit 75 ml Wasser und einer Prise Salz 12 Minuten zugedeckt bei kleinster Hitze garen. Mit der Hälfte des Limettensafts auflockern.",
+        "action": "pot",
+        "items": [
+          "rice",
+          "lime"
+        ],
+        "timer": 720
+      },
+      {
+        "title": "Hähnchen anbraten",
+        "text": "Hähnchen in 2 cm Würfel schneiden, trocken tupfen, salzen. Pfanne leer vorheizen, bis ein Wassertropfen perlt, Öl hinein, Würfel einlegen und 2–3 Minuten nicht bewegen, bis sie sich gebräunt von selbst lösen. Wenden und 2 Minuten weiterbraten.",
+        "action": "pan",
+        "items": [
+          "chicken",
+          "rapeseed"
+        ],
+        "timer": 270
+      },
+      {
+        "title": "Gemüse und Gewürze",
+        "text": "Zwiebel und Paprika gewürfelt zugeben und 3 Minuten mitbraten. Knoblauch, Räucherpaprika, Kreuzkümmel und Oregano 30 Sekunden mitrösten.",
+        "action": "pan",
+        "items": [
+          "pepper",
+          "onion",
+          "cumin"
+        ],
+        "timer": 210
+      },
+      {
+        "title": "Ablöschen und dick köcheln",
+        "text": "Mit den Tomaten und 25 ml Wasser ablöschen, Bratsatz lösen, abgespülte Bohnen und Mais zugeben und 8 Minuten köcheln, bis die Sauce dick ist und das Hähnchen ≥ 72 °C hat. Käse und Koriander einrühren, bis der Käse schmilzt.",
+        "action": "deglaze",
+        "items": [
+          "blackbeans",
+          "corn",
+          "cheese"
+        ],
+        "timer": 480
+      },
+      {
+        "title": "Bowl bauen",
+        "text": "Reis und Chili in eine Schale geben, Avocado in Scheiben und Schmand mit restlichem Limettensaft obenauf. Für die Thermobox eine Portion Chili mit Reis mischen und rasch abkühlen.",
+        "action": "plate",
+        "items": [
+          "avocado",
+          "schmand",
+          "rice"
+        ]
+      }
+    ],
+    "tips": [
+      "Wer es schärfer mag: eine Prise Chiliflocken mit den Gewürzen rösten.",
+      "Avocado erst beim Essen aufschneiden, sonst wird sie braun."
+    ],
+    "art": {
+      "dish": "bowl",
+      "base": {
+        "type": "beans",
+        "color": "#7a3b2a"
+      },
+      "side": {
+        "type": "rice",
+        "color": "#f2f0dc"
+      },
+      "sauce": {
+        "style": "dollop",
+        "color": "#f4f2ea"
+      },
+      "garnish": [
+        "avocado",
+        "corn",
+        "coriander",
+        "lime"
+      ]
+    }
+  },
+  {
+    "id": "d20",
+    "meals": [
+      "dinner"
+    ],
+    "title": "Pasta mit Brokkoli-Mandel-Sauce",
+    "subtitle": "Cremig ohne Sahne: pürierter Brokkoli, Mandeln und Bohnen, obenauf Röstbrokkoli.",
+    "origin": "Süditalienisch inspiriert",
+    "time": {
+      "active": 20,
+      "total": 25,
+      "quick": null
+    },
+    "difficulty": 1,
+    "tags": [
+      "schnell",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freeze": false,
+      "thermos": false,
+      "note": "Sauce allein hält 2 Tage gekühlt oder lässt sich einfrieren; Pasta frisch kochen."
+    },
+    "tools": [
+      "Edelstahltopf 3 l",
+      "Edelstahlpfanne 28 cm",
+      "Pürierstab mit Becher"
+    ],
+    "ingredients": [
+      {
+        "k": "pasta",
+        "q": 100,
+        "note": "z. B. Orecchiette oder Penne, eifrei"
+      },
+      {
+        "k": "broccoli",
+        "q": 350,
+        "note": "Röschen und geschälter Stiel"
+      },
+      {
+        "k": "almonds",
+        "q": 30
+      },
+      {
+        "k": "whitebeans",
+        "q": 80
+      },
+      {
+        "k": "garlic",
+        "q": 6
+      },
+      {
+        "k": "olive",
+        "q": 12
+      },
+      {
+        "k": "lemon",
+        "q": 15
+      },
+      {
+        "k": "chili",
+        "q": 0.5
+      },
+      {
+        "k": "salt",
+        "q": 3
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Mandeln rösten",
+        "text": "Mandeln grob hacken und in der leeren Edelstahlpfanne bei mittlerer Hitze 3 Minuten rösten, bis sie duften. Ein Drittel für das Topping beiseitestellen.",
+        "action": "toast",
+        "items": [
+          "almonds"
+        ],
+        "timer": 180
+      },
+      {
+        "title": "Brokkoli und Pasta kochen",
+        "text": "Brokkoli teilen: 200 g (Stiel in Scheiben und kleine Röschen) für die Sauce, den Rest in mundgerechten Röschen. Wasser kräftig salzen, Sauce-Brokkoli 6 Minuten kochen und herausheben, dann die Pasta darin bissfest garen. 150 ml Kochwasser abnehmen.",
+        "action": "pot",
+        "items": [
+          "broccoli",
+          "pasta"
+        ],
+        "timer": 600
+      },
+      {
+        "title": "Sauce pürieren",
+        "text": "Gekochten Brokkoli mit Bohnen, zwei Drittel der Mandeln, Knoblauch, 6 g Olivenöl, Zitronensaft und 100 ml Kochwasser fein pürieren. Mit Salz und Pfeffer abschmecken.",
+        "action": "blend",
+        "items": [
+          "broccoli",
+          "whitebeans",
+          "almonds"
+        ]
+      },
+      {
+        "title": "Röstbrokkoli",
+        "text": "Pfanne vorheizen, bis ein Wassertropfen perlt, restliches Öl hinein, die übrigen Röschen mit Schnittfläche nach unten 4 Minuten rösten, bis sie dunkle Kanten haben, mit Chili würzen.",
+        "action": "pan",
+        "items": [
+          "broccoli",
+          "olive",
+          "chili"
+        ],
+        "timer": 240
+      },
+      {
+        "title": "Mischen und anrichten",
+        "text": "Pasta mit der Sauce mischen und mit restlichem Kochwasser cremig rühren. Röstbrokkoli und Mandeln darüber verteilen.",
+        "action": "plate",
+        "items": [
+          "pasta",
+          "broccoli",
+          "almonds"
+        ]
+      }
+    ],
+    "tips": [
+      "Der Brokkolistiel ist das Beste für die Sauce – nur die harte Außenhaut abschälen.",
+      "Wer Käse mag: 15 g echter Parmigiano Reggiano darüber (dann nicht mehr vegan)."
+    ],
+    "art": {
+      "dish": "bowl",
+      "base": {
+        "type": "pasta",
+        "color": "#9bbf5a"
+      },
+      "garnish": [
+        "broccoli",
+        "almonds",
+        "chili"
+      ]
+    }
+  }
+]

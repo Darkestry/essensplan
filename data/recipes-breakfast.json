@@ -1,0 +1,3155 @@
+[
+  {
+    "id": "b01",
+    "meals": [
+      "breakfast",
+      "dinner"
+    ],
+    "title": "Bratkartoffeln & Kräuterquark",
+    "subtitle": "Große Portion mit goldener Kruste, Butterzwiebeln und kühlem Dip.",
+    "origin": "Deutsche Hausküche",
+    "time": {
+      "active": 18,
+      "total": 60,
+      "quick": 25
+    },
+    "difficulty": 1,
+    "tags": [
+      "schnell",
+      "mealprep",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 0,
+      "freeze": false,
+      "thermos": false,
+      "note": "Frisch essen. Gekochte Pellkartoffeln halten gekühlt 2 Tage; Kräuterquark mit frischen Kräutern nur bis zum nächsten Tag."
+    },
+    "components": [
+      {
+        "key": "cooked-potato",
+        "q": 450
+      }
+    ],
+    "tools": [
+      "Edelstahlpfanne 28 cm",
+      "Breiter Edelstahl-Pfannenwender",
+      "Schüssel"
+    ],
+    "ingredients": [
+      {
+        "k": "potato",
+        "q": 450,
+        "note": "Am Vortag in der Schale gegart und kalt – so zerfallen sie nicht."
+      },
+      {
+        "k": "onion",
+        "q": 80
+      },
+      {
+        "k": "rapeseed",
+        "q": 25
+      },
+      {
+        "k": "butter",
+        "q": 10,
+        "note": "Zum Schluss für Geschmack."
+      },
+      {
+        "k": "quark",
+        "q": 150
+      },
+      {
+        "k": "yogurt",
+        "q": 150
+      },
+      {
+        "k": "chives",
+        "q": 10
+      },
+      {
+        "k": "pumpkin",
+        "q": 20,
+        "note": "Extra-Topping."
+      },
+      {
+        "k": "paprika",
+        "q": 2
+      },
+      {
+        "k": "salt",
+        "q": 2
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Kartoffeln schneiden und trocken tupfen",
+        "text": "Kalte Pellkartoffeln pellen und in 5 mm dicke Scheiben schneiden, Zwiebel in feine Streifen. Scheiben mit Küchenpapier trocken tupfen – Feuchtigkeit verhindert die Kruste und lässt sie kleben. Ohne Vorrat: Kartoffeln 20–25 Minuten kochen, ausdampfen und mindestens 30 Minuten abkühlen lassen.",
+        "action": "cut",
+        "items": [
+          "potato",
+          "onion"
+        ]
+      },
+      {
+        "title": "Pfanne richtig vorheizen",
+        "text": "Die leere Edelstahlpfanne (28 cm) 2–3 Minuten bei mittlerer Hitze erhitzen. Kürbiskerne darin 1–2 Minuten trocken rösten und herausnehmen. Ein Tropfen Wasser muss jetzt als Kugel über den Boden tanzen. 20 g Öl hineingeben und warten, bis es dünn und schlierig fließt (etwa 20 Sekunden).",
+        "action": "pan",
+        "items": [
+          "rapeseed"
+        ],
+        "timer": 150
+      },
+      {
+        "title": "Kruste ohne Rühren braten",
+        "text": "Kartoffeln möglichst einlagig hineinlegen und 5–6 Minuten nicht bewegen. Zuerst haften sie fest – sobald die Unterseite goldbraun ist, lösen sie sich von selbst. Dann wenden und weitere 5–6 Minuten braten.",
+        "action": "flip",
+        "items": [
+          "potato"
+        ],
+        "timer": 360
+      },
+      {
+        "title": "Zwiebeln dazu, Dip rühren",
+        "text": "Restliches Öl und Zwiebeln an den Rand geben und 4 Minuten mitbraten, gelegentlich schwenken. Parallel Quark, Joghurt, Schnittlauch, etwas Salz und Pfeffer glatt rühren.",
+        "action": "mix",
+        "items": [
+          "onion",
+          "quark",
+          "yogurt"
+        ],
+        "timer": 240
+      },
+      {
+        "title": "Würzen und servieren",
+        "text": "Pfanne vom Herd ziehen, Butter, Paprikapulver, Salz und Pfeffer unterschwenken – in der Resthitze verbrennt beides nicht. Mit dem kalten Kräuterdip servieren und die Kürbiskerne darüberstreuen.",
+        "action": "plate",
+        "items": [
+          "potato",
+          "butter",
+          "pumpkin"
+        ]
+      }
+    ],
+    "tips": [
+      "Klebt eine Scheibe beim Wenden? Noch 1 Minute warten – sie löst sich, sobald die Kruste fertig ist.",
+      "450 g Kartoffeln füllen eine 28-cm-Pfanne gut aus. Liegen viele Scheiben übereinander, lieber in zwei Ladungen braten – sonst dämpfen sie statt zu bräunen.",
+      "Ein großes, sättigendes Frühstück: Wer weniger Hunger hat, lässt die Kürbiskerne weg."
+    ],
+    "art": {
+      "dish": "plate",
+      "base": {
+        "type": "slices",
+        "color": "#d9a441"
+      },
+      "sauce": {
+        "style": "dollop",
+        "color": "#f4f1e8"
+      },
+      "garnish": [
+        "chives",
+        "onion"
+      ]
+    }
+  },
+  {
+    "id": "b02",
+    "meals": [
+      "breakfast",
+      "dinner"
+    ],
+    "title": "Rösti, Avocado & Zitronenquark",
+    "subtitle": "Große, krosse Rösti – nur Kartoffel, Fett und Geduld.",
+    "origin": "Schweizerisch inspiriert",
+    "time": {
+      "active": 20,
+      "total": 90,
+      "quick": 25
+    },
+    "difficulty": 2,
+    "tags": [
+      "mealprep",
+      "proteinreich",
+      "wochenende"
+    ],
+    "storage": {
+      "fridgeDays": 0,
+      "freeze": false,
+      "thermos": false,
+      "note": "Rösti frisch essen. Gekochte Kartoffeln halten gekühlt 2 Tage; Avocado erst beim Servieren aufschneiden."
+    },
+    "components": [
+      {
+        "key": "cooked-potato",
+        "q": 450
+      }
+    ],
+    "tools": [
+      "Edelstahlpfanne 28 cm",
+      "Grobe Reibe",
+      "Breiter Edelstahl-Pfannenwender",
+      "Großer flacher Teller"
+    ],
+    "ingredients": [
+      {
+        "k": "potato",
+        "q": 450,
+        "note": "Am Vortag knapp gar gekocht und vollständig ausgekühlt."
+      },
+      {
+        "k": "rapeseed",
+        "q": 28
+      },
+      {
+        "k": "butter",
+        "q": 10,
+        "note": "Für den Rand – bräunt die Kruste nussig."
+      },
+      {
+        "k": "quark",
+        "q": 200
+      },
+      {
+        "k": "yogurt",
+        "q": 100
+      },
+      {
+        "k": "avocado",
+        "q": 100
+      },
+      {
+        "k": "lemon",
+        "q": 15
+      },
+      {
+        "k": "chives",
+        "q": 8
+      },
+      {
+        "k": "salt",
+        "q": 2
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Grob reiben, locker würzen",
+        "text": "Kalte Kartoffeln pellen und grob reiben. Mit der Hälfte des Salzes und Pfeffer locker mischen, nicht kneten. Ohne Vorrat Kartoffeln 18–20 Minuten knapp gar kochen und mindestens 1 Stunde (besser über Nacht) auskühlen lassen – warme Kartoffeln werden zu Brei.",
+        "action": "grate",
+        "items": [
+          "potato"
+        ]
+      },
+      {
+        "title": "Pfanne vorheizen, Fett hinein",
+        "text": "Leere Edelstahlpfanne 2–3 Minuten bei mittlerer Hitze vorheizen, bis ein Wassertropfen als Kugel abperlt. 18 g Öl zugeben und den Boden vollständig benetzen.",
+        "action": "pan",
+        "items": [
+          "rapeseed"
+        ],
+        "timer": 150
+      },
+      {
+        "title": "Zwei Rösti formen und ruhen lassen",
+        "text": "Zwei Häufchen in die Pfanne setzen und zu etwa 14 cm breiten, 1,5 cm dicken Fladen andrücken. Hitze auf mittel-niedrig, 9–10 Minuten nicht bewegen. Am Ende die Pfanne leicht rütteln: Gleiten die Rösti, ist die Kruste fertig.",
+        "action": "shape",
+        "items": [
+          "potato"
+        ],
+        "timer": 570
+      },
+      {
+        "title": "Wenden und Dip rühren",
+        "text": "Rösti mit dem breiten Wender in einem Zug umdrehen, restliches Öl und die Butter am Rand zugeben und weitere 8 Minuten braten. Parallel Quark, Joghurt, Schnittlauch, die Hälfte des Zitronensafts und restliches Salz verrühren.",
+        "action": "flip",
+        "items": [
+          "potato",
+          "butter",
+          "quark"
+        ],
+        "timer": 480
+      },
+      {
+        "title": "Mit Avocado anrichten",
+        "text": "Avocado in Scheiben schneiden und mit dem übrigen Zitronensaft beträufeln. Rösti auf Küchenpapier kurz abtropfen lassen und mit Avocado und Zitronenquark servieren.",
+        "action": "plate",
+        "items": [
+          "potato",
+          "avocado",
+          "quark"
+        ]
+      }
+    ],
+    "tips": [
+      "Hält die Rösti beim Rütteln noch fest, nicht mit dem Wender darunter stochern – 1–2 Minuten warten, dann löst sie sich von selbst.",
+      "Für eine große Rösti: auf einen Teller gleiten lassen, die Pfanne umgekehrt darauflegen und beides zusammen stürzen.",
+      "Zerfällt die Masse, waren die Kartoffeln zu weich gekocht; 1 TL Speisestärke unterheben hilft."
+    ],
+    "art": {
+      "dish": "plate",
+      "base": {
+        "type": "patties",
+        "color": "#d8a23e"
+      },
+      "side": {
+        "type": "slices",
+        "color": "#9bbf5a"
+      },
+      "sauce": {
+        "style": "dollop",
+        "color": "#f4f1e6"
+      },
+      "garnish": [
+        "chives",
+        "blackpepper"
+      ]
+    }
+  },
+  {
+    "id": "b03",
+    "meals": [
+      "breakfast",
+      "dinner"
+    ],
+    "title": "Ofenrösti vom Blech & Schnittlauchcreme",
+    "subtitle": "Knusprige Kartoffeltaler mit viel Bergkäse – das Blech macht die Arbeit.",
+    "origin": "Alpenländisch inspiriert",
+    "time": {
+      "active": 15,
+      "total": 100,
+      "quick": 40
+    },
+    "difficulty": 1,
+    "tags": [
+      "ofen",
+      "mealprep",
+      "einfrieren",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freeze": true,
+      "thermos": false,
+      "note": "Gebackene Taler gekühlt 2 Tage oder eingefroren 2 Monate; im Ofen bei 200 °C 8–10 Minuten aufbacken, nicht in der Mikrowelle."
+    },
+    "components": [
+      {
+        "key": "cooked-potato",
+        "q": 450
+      }
+    ],
+    "tools": [
+      "Backblech + Backpapier",
+      "Grobe Reibe",
+      "Schüssel",
+      "Breiter Pfannenwender"
+    ],
+    "ingredients": [
+      {
+        "k": "potato",
+        "q": 450,
+        "note": "Gekocht und vollständig ausgekühlt."
+      },
+      {
+        "k": "spring",
+        "q": 30
+      },
+      {
+        "k": "starch",
+        "q": 18
+      },
+      {
+        "k": "cheese",
+        "q": 40
+      },
+      {
+        "k": "rapeseed",
+        "q": 25
+      },
+      {
+        "k": "quark",
+        "q": 200
+      },
+      {
+        "k": "schmand",
+        "q": 50
+      },
+      {
+        "k": "chives",
+        "q": 8
+      },
+      {
+        "k": "salt",
+        "q": 2
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Ofen und Blech vorheizen",
+        "text": "Backofen mit dem Blech darin auf 230 °C Ober-/Unterhitze vorheizen (etwa 10 Minuten). Das heiße Blech gibt den Talern sofort Unterhitze und damit Kruste.",
+        "action": "oven",
+        "items": [
+          "rapeseed"
+        ],
+        "timer": 600
+      },
+      {
+        "title": "Masse mischen",
+        "text": "Kalte Kartoffeln pellen und grob reiben. Mit fein geschnittenen Frühlingszwiebeln, Stärke, 30 g Käse, 15 g Öl, Salz und Pfeffer locker vermengen.",
+        "action": "grate",
+        "items": [
+          "potato",
+          "spring",
+          "cheese"
+        ]
+      },
+      {
+        "title": "Flache Taler aufs Backpapier",
+        "text": "Heißes Blech herausnehmen, Backpapier darauflegen und mit dem restlichen Öl bestreichen. Masse zu 8 Talern von etwa 8 cm Durchmesser und 7–8 mm Dicke flach drücken. Dünn ist hier entscheidend für die Knusprigkeit.",
+        "action": "shape",
+        "items": [
+          "potato"
+        ]
+      },
+      {
+        "title": "Backen und einmal wenden",
+        "text": "Auf mittlerer Schiene 15 Minuten backen, bis die Unterseite goldbraun ist. Mit dem Wender umdrehen, den restlichen Käse daraufstreuen und weitere 8–10 Minuten backen, bis die Ränder dunkelgolden sind und der Käse gebräunt ist.",
+        "action": "oven",
+        "items": [
+          "potato"
+        ],
+        "timer": 1500
+      },
+      {
+        "title": "Creme rühren und servieren",
+        "text": "Während des Backens Quark, Schmand, Schnittlauch und eine Prise Salz cremig rühren. Taler kurz auf einem Gitter abdampfen lassen und mit der Creme daneben servieren.",
+        "action": "plate",
+        "items": [
+          "potato",
+          "quark",
+          "chives"
+        ]
+      }
+    ],
+    "tips": [
+      "Lassen sich die Taler nach 15 Minuten nicht sauber wenden, noch 3 Minuten weiterbacken – die Kruste muss erst fest sein.",
+      "Nicht auf Backpapier verzichten: Kartoffelstärke klebt auf einem blanken Blech sehr fest.",
+      "Bleiben sie blass, liegen sie zu dicht oder sind zu dick; beim nächsten Mal mehr Abstand lassen."
+    ],
+    "art": {
+      "dish": "tray",
+      "base": {
+        "type": "patties",
+        "color": "#d6a03c"
+      },
+      "sauce": {
+        "style": "dollop",
+        "color": "#f3efe3"
+      },
+      "garnish": [
+        "chives",
+        "spring"
+      ]
+    }
+  },
+  {
+    "id": "b04",
+    "meals": [
+      "breakfast",
+      "dinner"
+    ],
+    "title": "Kartoffelpuffer & Pilzquark",
+    "subtitle": "Große Portion dünner Puffer mit Butterpilzen und Kräuterquark.",
+    "origin": "Deutsche Hausküche",
+    "time": {
+      "active": 35,
+      "total": 40,
+      "quick": null
+    },
+    "difficulty": 2,
+    "tags": [
+      "proteinreich",
+      "wochenende",
+      "einfrieren"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": true,
+      "thermos": false,
+      "note": "Masse immer frisch reiben. Gebratene Puffer einfrieren und im Ofen bei 200 °C 10 Minuten aufbacken."
+    },
+    "tools": [
+      "Edelstahlpfanne 28 cm",
+      "Grobe Reibe",
+      "Sauberes Küchentuch",
+      "Breiter Edelstahl-Pfannenwender"
+    ],
+    "ingredients": [
+      {
+        "k": "potato",
+        "q": 450,
+        "note": "Roh, nicht die gekochten Vorratskartoffeln."
+      },
+      {
+        "k": "onion",
+        "q": 50
+      },
+      {
+        "k": "starch",
+        "q": 30
+      },
+      {
+        "k": "mushroom",
+        "q": 150
+      },
+      {
+        "k": "butter",
+        "q": 10
+      },
+      {
+        "k": "rapeseed",
+        "q": 35
+      },
+      {
+        "k": "quark",
+        "q": 200
+      },
+      {
+        "k": "yogurt",
+        "q": 100
+      },
+      {
+        "k": "chives",
+        "q": 8
+      },
+      {
+        "k": "salt",
+        "q": 2
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Raspeln kräftig ausdrücken",
+        "text": "Kartoffeln schälen und grob reiben, Zwiebel fein reiben. Beides im Küchentuch kräftig auswringen, bis kaum noch Saft kommt. Mit Stärke, der Hälfte des Salzes und Pfeffer mischen und sofort weiterarbeiten.",
+        "action": "squeeze",
+        "items": [
+          "potato",
+          "onion",
+          "starch"
+        ]
+      },
+      {
+        "title": "Pilze heiß rösten",
+        "text": "Edelstahlpfanne 2–3 Minuten mittelhoch vorheizen, Wassertropfen-Test machen, dann 5 g Öl hinein. Champignonscheiben einlagig einlegen und 3 Minuten nicht rühren; erst geben sie Wasser ab, dann bräunen sie. Weitere 2 Minuten schwenken, Butter zugeben, salzen und herausnehmen.",
+        "action": "pan",
+        "items": [
+          "mushroom",
+          "butter"
+        ],
+        "timer": 300
+      },
+      {
+        "title": "Puffer ins heiße Fett setzen",
+        "text": "Hitze auf mittel, 15 g Öl zugeben, bis der Boden 1–2 mm bedeckt ist. Je einen gehäuften Esslöffel Masse hineinsetzen und auf 5–7 mm flach drücken. 4–5 Minuten nicht bewegen, bis die Ränder kräftig braun sind. Ergibt 8–10 Puffer in zwei Ladungen.",
+        "action": "pan",
+        "items": [
+          "potato"
+        ],
+        "timer": 270
+      },
+      {
+        "title": "Wenden, wenn sie sich lösen",
+        "text": "Puffer mit dem Wender flach und zügig unterfahren und umdrehen; weitere 3–4 Minuten braten, bis sie innen gar sind. Auf einem Gitter abtropfen lassen, nicht stapeln. Für die zweite Ladung das restliche Öl zugeben.",
+        "action": "flip",
+        "items": [
+          "potato"
+        ],
+        "timer": 210
+      },
+      {
+        "title": "Quark und Pilze dazu",
+        "text": "Quark mit Joghurt, Schnittlauch und etwas Salz cremig rühren. Puffer mit den warmen Butterpilzen und dem Kräuterquark servieren.",
+        "action": "plate",
+        "items": [
+          "potato",
+          "mushroom",
+          "yogurt"
+        ]
+      }
+    ],
+    "tips": [
+      "Klebt ein Puffer? Das Fett war noch nicht heiß genug oder du warst zu früh dran – noch 1 Minute warten, dann löst er sich mit seiner Kruste.",
+      "Zu dunkel und innen roh: Hitze etwas reduzieren und dünner drücken.",
+      "Zwischen zwei Ladungen braune Krümel mit Küchenpapier auswischen, sonst verbrennen sie."
+    ],
+    "art": {
+      "dish": "plate",
+      "base": {
+        "type": "patties",
+        "color": "#c98f35"
+      },
+      "side": {
+        "type": "slices",
+        "color": "#8a6a4a"
+      },
+      "sauce": {
+        "style": "dollop",
+        "color": "#f2efe6"
+      },
+      "garnish": [
+        "chives"
+      ]
+    }
+  },
+  {
+    "id": "b05",
+    "meals": [
+      "breakfast",
+      "dinner"
+    ],
+    "title": "Buchweizen-Galettes mit Pilzrahm",
+    "subtitle": "Drei nussige Galettes mit Bergkäse, Pilzrahm und Quark.",
+    "origin": "Bretonisch inspiriert",
+    "time": {
+      "active": 35,
+      "total": 50,
+      "quick": null
+    },
+    "difficulty": 3,
+    "tags": [
+      "wochenende",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freeze": true,
+      "thermos": false,
+      "note": "Teig hält gekühlt 1 Tag. Gebackene Galettes mit Backpapier getrennt einfrieren; Füllung frisch machen."
+    },
+    "tools": [
+      "Edelstahlpfanne 24–28 cm",
+      "Schneebesen",
+      "Kelle",
+      "Breiter dünner Edelstahl-Pfannenwender",
+      "Küchenpapier"
+    ],
+    "ingredients": [
+      {
+        "k": "buckwheat",
+        "q": 110
+      },
+      {
+        "k": "chickpeaflour",
+        "q": 25,
+        "note": "Bindet den eifreien Teig – die Galettes reißen weniger."
+      },
+      {
+        "k": "water",
+        "q": 280
+      },
+      {
+        "k": "rapeseed",
+        "q": 20,
+        "note": "5 g in den Teig, Rest zum Braten."
+      },
+      {
+        "k": "mushroom",
+        "q": 200
+      },
+      {
+        "k": "onion",
+        "q": 50
+      },
+      {
+        "k": "creme",
+        "q": 60
+      },
+      {
+        "k": "quark",
+        "q": 150
+      },
+      {
+        "k": "cheese",
+        "q": 30,
+        "note": "Klassisch für die Galette complète."
+      },
+      {
+        "k": "thyme",
+        "q": 1
+      },
+      {
+        "k": "salt",
+        "q": 2
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Teig anrühren und ruhen lassen",
+        "text": "Buchweizen- und Kichererbsenmehl mit der Hälfte des Salzes mischen, Wasser nach und nach einschlagen, dann 5 g Öl unterrühren. Mindestens 15 Minuten ruhen lassen (gern über Nacht im Kühlschrank). Der Teig soll wie Sahne fließen – etwas dicker als für dünne Crêpes.",
+        "action": "mix",
+        "items": [
+          "buckwheat",
+          "chickpeaflour"
+        ],
+        "timer": 900
+      },
+      {
+        "title": "Pilzfüllung braten",
+        "text": "Edelstahlpfanne 2–3 Minuten mittelhoch vorheizen, Wassertropfen-Test, 4 g Öl hinein. Pilze und Zwiebeln 7–8 Minuten braten, bis sie braun sind. Mit 2 EL Wasser ablöschen, den Bratsatz loskratzen, Thymian und Crème fraîche einrühren, salzen, pfeffern und warm stellen.",
+        "action": "deglaze",
+        "items": [
+          "mushroom",
+          "onion"
+        ],
+        "timer": 450
+      },
+      {
+        "title": "Pfanne für die Galettes vorbereiten",
+        "text": "Pfanne auswaschen, gut abtrocknen und bei mittlerer Hitze 3 Minuten vorheizen, bis der Wassertropfen perlt. Mit einem öligen Küchenpapier dünn, aber lückenlos auswischen. Ist sie zu kühl, klebt der Teig; raucht das Öl stark, kurz vom Herd ziehen.",
+        "action": "pan",
+        "items": [
+          "rapeseed"
+        ],
+        "timer": 180
+      },
+      {
+        "title": "Galettes backen – erst wenden, wenn sie sich lösen",
+        "text": "Eine knappe Kelle Teig hineingießen und durch Schwenken auf etwa 20 cm verteilen. 3–4 Minuten nicht berühren: Wenn die Oberfläche matt ist und der Rand sich braun nach oben wölbt, mit dem dünnen Wender umlaufen und wenden, 1 Minute nachbacken. Vor jeder Galette neu einfetten; ergibt 3 Stück.",
+        "action": "flip",
+        "items": [
+          "buckwheat"
+        ],
+        "timer": 210
+      },
+      {
+        "title": "Füllen und einschlagen",
+        "text": "Galettes nacheinander zurück in die warme Pfanne legen, mit Quark bestreichen, Käse darüberstreuen und 1 Minute warten, bis er schmilzt. Heiße Pilzfüllung in die Mitte geben und die Ränder zu einem Quadrat einschlagen. Sofort servieren.",
+        "action": "plate",
+        "items": [
+          "buckwheat",
+          "cheese",
+          "mushroom"
+        ]
+      }
+    ],
+    "tips": [
+      "Die erste Galette ist die Probegalette – klebt sie, war die Pfanne nicht heiß genug oder das Fett zu knapp. Ab der zweiten läuft es.",
+      "Lässt sich die Galette nicht lösen, nicht reißen: noch 30–60 Sekunden warten, bis der Rand sich hebt.",
+      "Lieber kleiner und etwas dicker backen als hauchdünn: Dieser Teig hält als 20-cm-Galette in Edelstahl deutlich zuverlässiger."
+    ],
+    "art": {
+      "dish": "plate",
+      "base": {
+        "type": "pancakes",
+        "color": "#8a6446"
+      },
+      "side": {
+        "type": "slices",
+        "color": "#a3805e"
+      },
+      "sauce": {
+        "style": "dollop",
+        "color": "#f2ece0"
+      },
+      "garnish": [
+        "thyme",
+        "blackpepper"
+      ]
+    }
+  },
+  {
+    "id": "b06",
+    "meals": [
+      "breakfast"
+    ],
+    "title": "Haferpfannkuchen & Avocadocreme",
+    "subtitle": "Ein großer Stapel dicker, herzhafter Pancakes mit grüner Quarkcreme.",
+    "origin": "Amerikanisch inspiriert",
+    "time": {
+      "active": 25,
+      "total": 35,
+      "quick": null
+    },
+    "difficulty": 2,
+    "tags": [
+      "proteinreich",
+      "einfrieren"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freeze": true,
+      "thermos": false,
+      "note": "Gebratene Pancakes gekühlt 2 Tage oder eingefroren 2 Monate; im Ofen bei 180 °C 8 Minuten aufwärmen. Avocadocreme frisch rühren."
+    },
+    "tools": [
+      "Edelstahlpfanne 28 cm",
+      "Pürierstab oder Mixer",
+      "Schüssel",
+      "Breiter Edelstahl-Pfannenwender"
+    ],
+    "ingredients": [
+      {
+        "k": "oats",
+        "q": 90
+      },
+      {
+        "k": "chickpeaflour",
+        "q": 25,
+        "note": "Sorgt ohne Ei für Bindung."
+      },
+      {
+        "k": "milk",
+        "q": 170
+      },
+      {
+        "k": "yogurt",
+        "q": 60
+      },
+      {
+        "k": "baking",
+        "q": 4
+      },
+      {
+        "k": "spring",
+        "q": 20
+      },
+      {
+        "k": "rapeseed",
+        "q": 18
+      },
+      {
+        "k": "avocado",
+        "q": 100
+      },
+      {
+        "k": "pumpkin",
+        "q": 15,
+        "note": "Extra-Topping, geröstet."
+      },
+      {
+        "k": "quark",
+        "q": 150
+      },
+      {
+        "k": "lemon",
+        "q": 10
+      },
+      {
+        "k": "salt",
+        "q": 2
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Dicken Teig quellen lassen",
+        "text": "Haferflocken fein mahlen. Mit Kichererbsenmehl, Backpulver, der Hälfte des Salzes, Milch und Joghurt verrühren, Frühlingszwiebelringe unterheben. 10 Minuten quellen lassen: Der Teig soll dick vom Löffel fallen und kaum zerlaufen.",
+        "action": "mix",
+        "items": [
+          "oats",
+          "chickpeaflour",
+          "spring"
+        ],
+        "timer": 600
+      },
+      {
+        "title": "Avocadocreme zerdrücken",
+        "text": "Avocado mit der Gabel zerdrücken, Quark, Zitronensaft, restliches Salz und Pfeffer einrühren. Kleine Stückchen dürfen bleiben.",
+        "action": "mash",
+        "items": [
+          "avocado",
+          "quark",
+          "lemon"
+        ]
+      },
+      {
+        "title": "Pfanne vorheizen und fetten",
+        "text": "Kürbiskerne in der trockenen Edelstahlpfanne 2 Minuten rösten und herausnehmen. Pfanne weitere 1–2 Minuten bei mittlerer Hitze erhitzen, bis ein Wassertropfen als Kugel perlt. Ein Drittel des Öls zugeben und schwenken, bis der ganze Boden glänzt.",
+        "action": "pan",
+        "items": [
+          "pumpkin",
+          "rapeseed"
+        ],
+        "timer": 180
+      },
+      {
+        "title": "Kleine Pancakes braten",
+        "text": "Je 2 EL Teig zu 7–8 cm breiten, knapp 1 cm dicken Küchlein setzen, mit Abstand. Hitze auf mittel-niedrig und 3–4 Minuten nicht berühren, bis die Ränder matt und fest sind. Pfanne leicht rütteln – rutschen sie, sind sie bereit.",
+        "action": "pan",
+        "items": [
+          "oats"
+        ],
+        "timer": 210
+      },
+      {
+        "title": "Wenden und fertig braten",
+        "text": "Zügig wenden und 2–3 Minuten weiterbraten, bis sie innen nicht mehr nass sind. Für jede weitere Ladung ein Drittel des Öls zugeben. Ergibt 8–9 Stück in drei Ladungen; mit Avocadocreme und Kürbiskernen servieren.",
+        "action": "flip",
+        "items": [
+          "oats",
+          "avocado",
+          "pumpkin"
+        ],
+        "timer": 150
+      }
+    ],
+    "tips": [
+      "Klebt der erste Pancake, war die Pfanne zu kühl oder du hast zu früh gewendet – 1 Minute warten, dann löst er sich mit seiner Kruste.",
+      "Zu hohe Hitze verbrennt die Unterseite, bevor der dicke Teig innen gar ist: lieber mittel-niedrig und Geduld.",
+      "Backpulver erst kurz vor dem Braten unterrühren; die trockene Mischung kannst du am Vorabend abwiegen."
+    ],
+    "art": {
+      "dish": "plate",
+      "base": {
+        "type": "pancakes",
+        "color": "#c9a46a"
+      },
+      "sauce": {
+        "style": "dollop",
+        "color": "#b5c97a"
+      },
+      "garnish": [
+        "spring",
+        "blackpepper"
+      ]
+    }
+  },
+  {
+    "id": "b07",
+    "meals": [
+      "breakfast",
+      "dinner"
+    ],
+    "title": "Spinat-Kartoffeltaler mit Knoblauchquark",
+    "subtitle": "Grüne Taler mit Feta, außen goldbraun – ein großes Frühstück.",
+    "origin": "Deutsche Hausküche",
+    "time": {
+      "active": 25,
+      "total": 60,
+      "quick": 25
+    },
+    "difficulty": 2,
+    "tags": [
+      "mealprep",
+      "einfrieren",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freeze": true,
+      "thermos": false,
+      "note": "Gebratene Taler gekühlt 2 Tage oder eingefroren 2 Monate; im Ofen bei 200 °C 10 Minuten aufbacken."
+    },
+    "components": [
+      {
+        "key": "cooked-potato",
+        "q": 400
+      }
+    ],
+    "tools": [
+      "Edelstahlpfanne 28 cm",
+      "Sieb",
+      "Kartoffelstampfer",
+      "Breiter Edelstahl-Pfannenwender",
+      "Mikrowelle"
+    ],
+    "ingredients": [
+      {
+        "k": "potato",
+        "q": 400,
+        "note": "Gekocht und gut ausgedampft."
+      },
+      {
+        "k": "spinach",
+        "q": 150
+      },
+      {
+        "k": "starch",
+        "q": 35
+      },
+      {
+        "k": "feta",
+        "q": 50,
+        "note": "Zerbröselt in die Masse."
+      },
+      {
+        "k": "rapeseed",
+        "q": 28
+      },
+      {
+        "k": "quark",
+        "q": 150
+      },
+      {
+        "k": "yogurt",
+        "q": 120
+      },
+      {
+        "k": "garlic",
+        "q": 3
+      },
+      {
+        "k": "lemon",
+        "q": 10
+      },
+      {
+        "k": "salt",
+        "q": 2
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Spinat auftauen und trocken pressen",
+        "text": "TK-Spinat in der Mikrowelle oder im Topf vollständig erhitzen, im Sieb kurz abkühlen lassen und kräftig ausdrücken, dann fein hacken. Kartoffeln pellen und fein zerstampfen.",
+        "action": "squeeze",
+        "items": [
+          "spinach",
+          "potato"
+        ]
+      },
+      {
+        "title": "Taler formen",
+        "text": "Kartoffeln, Spinat, Stärke, zerbröselten Feta, eine Prise Salz und Pfeffer zu einer formbaren Masse kneten. Mit feuchten Händen 8 Taler von 1 cm Dicke formen und die Oberflächen glatt streichen.",
+        "action": "shape",
+        "items": [
+          "potato",
+          "spinach",
+          "feta"
+        ]
+      },
+      {
+        "title": "Edelstahlpfanne vorbereiten",
+        "text": "Leere Pfanne 2–3 Minuten bei mittlerer Hitze vorheizen, Wassertropfen-Test machen. Zwei Drittel des Öls zugeben und warten, bis es schlierig fließt. Taler mit 2 cm Abstand einlegen; passen nicht alle hinein, in zwei Ladungen braten.",
+        "action": "pan",
+        "items": [
+          "rapeseed",
+          "potato"
+        ],
+        "timer": 150
+      },
+      {
+        "title": "Goldbraun braten, einmal wenden",
+        "text": "4–5 Minuten nicht bewegen, bis die Unterseite eine feste goldene Kruste hat und der Taler beim Rütteln gleitet. Wenden, restliches Öl am Rand zugießen und weitere 4 Minuten braten, bis sie innen dampfend heiß sind.",
+        "action": "flip",
+        "items": [
+          "potato",
+          "spinach"
+        ],
+        "timer": 540
+      },
+      {
+        "title": "Knoblauchquark dazu",
+        "text": "Quark, Joghurt, fein geriebenen Knoblauch, Zitronensaft und eine Prise Salz cremig rühren – Feta bringt schon Salz mit. Taler mit dem Dip daneben servieren.",
+        "action": "plate",
+        "items": [
+          "potato",
+          "yogurt",
+          "garlic"
+        ]
+      }
+    ],
+    "tips": [
+      "Wässriger Spinat ist die häufigste Ursache für zerfallende Taler – lieber noch einmal ausdrücken.",
+      "Hängt ein Taler fest, nicht hebeln: 1 Minute warten, die Kruste löst ihn von selbst.",
+      "Für viele Portionen: Taler auf Backpapier bei 220 °C 25 Minuten backen, nach 15 Minuten wenden."
+    ],
+    "art": {
+      "dish": "plate",
+      "base": {
+        "type": "patties",
+        "color": "#7e8f45"
+      },
+      "sauce": {
+        "style": "dollop",
+        "color": "#f3f0e6"
+      },
+      "garnish": [
+        "garlic",
+        "blackpepper"
+      ]
+    }
+  },
+  {
+    "id": "b08",
+    "meals": [
+      "breakfast",
+      "dinner"
+    ],
+    "title": "Ofen-Socca mit Paprika & Frühlingszwiebeln",
+    "subtitle": "Großer Kichererbsenfladen vom Blech mit Feta und Paprikacreme.",
+    "origin": "Südfranzösisch inspiriert (Socca aus Nizza)",
+    "time": {
+      "active": 15,
+      "total": 65,
+      "quick": null
+    },
+    "difficulty": 1,
+    "tags": [
+      "ofen",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freeze": true,
+      "thermos": false,
+      "note": "Teig hält gekühlt 1 Tag. Gebackene Socca gekühlt 2 Tage; im Ofen bei 200 °C 5–7 Minuten aufbacken. Creme separat lagern."
+    },
+    "tools": [
+      "Auflaufform (Glas/Keramik) ca. 20 × 30 cm",
+      "Backpapier",
+      "Schneebesen",
+      "Schüssel"
+    ],
+    "ingredients": [
+      {
+        "k": "chickpeaflour",
+        "q": 110
+      },
+      {
+        "k": "water",
+        "q": 240
+      },
+      {
+        "k": "olive",
+        "q": 25
+      },
+      {
+        "k": "spring",
+        "q": 40
+      },
+      {
+        "k": "pepper",
+        "q": 100
+      },
+      {
+        "k": "cumin",
+        "q": 1
+      },
+      {
+        "k": "quark",
+        "q": 150
+      },
+      {
+        "k": "creamcheese",
+        "q": 50
+      },
+      {
+        "k": "feta",
+        "q": 40,
+        "note": "Extra-Topping."
+      },
+      {
+        "k": "paprika",
+        "q": 2
+      },
+      {
+        "k": "salt",
+        "q": 2
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Teig anrühren und ruhen lassen",
+        "text": "Kichererbsenmehl mit Kreuzkümmel und der Hälfte des Salzes mischen, Wasser nach und nach klümpchenfrei einschlagen, 12 g Öl unterrühren. Mindestens 30 Minuten ruhen lassen, gern über Nacht im Kühlschrank – so wird der Fladen zarter.",
+        "action": "mix",
+        "items": [
+          "chickpeaflour",
+          "water"
+        ],
+        "timer": 1800
+      },
+      {
+        "title": "Ofen vorheizen, Gemüse schneiden",
+        "text": "Backofen auf 230 °C Ober-/Unterhitze vorheizen. Die Hälfte der Paprika in feine Streifen, den Rest in sehr kleine Würfel schneiden; Frühlingszwiebeln in Ringe. Auflaufform mit Backpapier auslegen und mit 8 g Öl bestreichen.",
+        "action": "cut",
+        "items": [
+          "pepper",
+          "spring"
+        ]
+      },
+      {
+        "title": "Einfüllen und backen",
+        "text": "Teig noch einmal durchrühren und knapp 1 cm hoch in die Form gießen. Paprikastreifen und Frühlingszwiebeln darauf verteilen. Auf mittlerer Schiene 22–25 Minuten backen, bis die Oberfläche fest ist und die Ränder sich goldbraun vom Papier lösen.",
+        "action": "oven",
+        "items": [
+          "chickpeaflour",
+          "pepper",
+          "spring"
+        ],
+        "timer": 1440
+      },
+      {
+        "title": "Paprikacreme rühren",
+        "text": "Während des Backens Quark, Frischkäse, Paprikawürfel, Paprikapulver und restliches Salz verrühren und mit Pfeffer abschmecken.",
+        "action": "mix",
+        "items": [
+          "quark",
+          "creamcheese",
+          "pepper"
+        ]
+      },
+      {
+        "title": "Kurz ruhen lassen und schneiden",
+        "text": "Socca 3 Minuten in der Form ruhen lassen, dann samt Papier herausheben und in Rauten schneiden. Feta darüberbröseln, mit dem restlichen Olivenöl beträufeln und warm mit der Paprikacreme servieren.",
+        "action": "plate",
+        "items": [
+          "chickpeaflour",
+          "feta",
+          "quark"
+        ]
+      }
+    ],
+    "tips": [
+      "Bleibt die Mitte weich, ist der Teig zu hoch eingefüllt – 5 Minuten länger backen oder beim nächsten Mal eine größere Form nehmen.",
+      "Für mehr Bräune die letzten 2 Minuten den Grill zuschalten und dabeibleiben.",
+      "Teig am Vorabend anrühren: Morgens nur noch einfüllen und backen."
+    ],
+    "art": {
+      "dish": "tray",
+      "base": {
+        "type": "slices",
+        "color": "#e0b55a"
+      },
+      "sauce": {
+        "style": "dollop",
+        "color": "#efc7a8"
+      },
+      "garnish": [
+        "spring",
+        "pepper"
+      ]
+    }
+  },
+  {
+    "id": "b09",
+    "meals": [
+      "breakfast"
+    ],
+    "title": "Pilz-Walnuss-Porridge",
+    "subtitle": "Große Schale cremiger Hafer, geröstete Pilze, viele Walnüsse.",
+    "origin": "Herzhafter Porridge, modern",
+    "time": {
+      "active": 15,
+      "total": 18,
+      "quick": null
+    },
+    "difficulty": 1,
+    "tags": [
+      "schnell",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": false,
+      "thermos": false,
+      "note": "Am besten frisch. Reste gekühlt 1 Tag; mit einem Schluck Wasser im Topf unter Rühren erhitzen."
+    },
+    "tools": [
+      "Edelstahltopf 2 l",
+      "Edelstahlpfanne 24 cm",
+      "Holzlöffel"
+    ],
+    "ingredients": [
+      {
+        "k": "oats",
+        "q": 100
+      },
+      {
+        "k": "milk",
+        "q": 250
+      },
+      {
+        "k": "water",
+        "q": 170,
+        "note": "150 ml für den Porridge, Rest zum Ablöschen."
+      },
+      {
+        "k": "broth",
+        "q": 3
+      },
+      {
+        "k": "mushroom",
+        "q": 200
+      },
+      {
+        "k": "onion",
+        "q": 50
+      },
+      {
+        "k": "rapeseed",
+        "q": 10
+      },
+      {
+        "k": "thyme",
+        "q": 1
+      },
+      {
+        "k": "quark",
+        "q": 150
+      },
+      {
+        "k": "butter",
+        "q": 10,
+        "note": "Zum Schluss in den Porridge."
+      },
+      {
+        "k": "walnuts",
+        "q": 30
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Pilze heiß anrösten",
+        "text": "Edelstahlpfanne 2–3 Minuten mittelhoch vorheizen, bis ein Wassertropfen perlt, dann Öl hinein. Pilzscheiben und Zwiebelwürfel einlagig verteilen und 3 Minuten nicht rühren. Dann 3–4 Minuten schwenken, bis sie rundum braun sind.",
+        "action": "pan",
+        "items": [
+          "mushroom",
+          "onion"
+        ],
+        "timer": 390
+      },
+      {
+        "title": "Hafer parallel köcheln",
+        "text": "Haferflocken, Milch, 150 ml Wasser und Brühe im Topf unter Rühren aufkochen. Bei kleiner Hitze 4–5 Minuten cremig köcheln; am Boden regelmäßig entlangrühren, damit nichts ansetzt.",
+        "action": "pot",
+        "items": [
+          "oats",
+          "milk"
+        ],
+        "timer": 300
+      },
+      {
+        "title": "Bratsatz ablöschen",
+        "text": "Thymian und Pfeffer zu den Pilzen geben, mit 20 ml Wasser ablöschen und den braunen Bratsatz mit dem Holzlöffel loskratzen. Das ergibt einen kleinen, kräftigen Pilzjus.",
+        "action": "deglaze",
+        "items": [
+          "mushroom",
+          "thyme"
+        ]
+      },
+      {
+        "title": "Quark einrühren",
+        "text": "Topf vom Herd nehmen, Quark und Butter zügig unterrühren – nicht mehr kochen lassen, sonst flockt der Quark. Walnüsse grob hacken.",
+        "action": "mix",
+        "items": [
+          "oats",
+          "quark",
+          "butter"
+        ]
+      },
+      {
+        "title": "Mit Röstaromen toppen",
+        "text": "Porridge in eine Schale geben, Pilze samt Jus darauf verteilen und Walnüsse darüberstreuen. Abschmecken – die Brühe bringt bereits Salz mit.",
+        "action": "plate",
+        "items": [
+          "oats",
+          "mushroom",
+          "walnuts"
+        ]
+      }
+    ],
+    "tips": [
+      "Pilze erst salzen, wenn sie gebräunt sind: Salz zieht Wasser, dann kochen sie statt zu rösten.",
+      "Setzt der Porridge am Topfboden an, sofort umfüllen und den Topf einweichen; Hitze beim nächsten Mal kleiner wählen."
+    ],
+    "art": {
+      "dish": "bowl",
+      "base": {
+        "type": "porridge",
+        "color": "#d8c7a6"
+      },
+      "side": {
+        "type": "slices",
+        "color": "#8b6a4c"
+      },
+      "garnish": [
+        "walnuts",
+        "thyme"
+      ]
+    }
+  },
+  {
+    "id": "b10",
+    "meals": [
+      "breakfast"
+    ],
+    "title": "Tomaten-Bohnen-Porridge",
+    "subtitle": "Herzhaft wie eine Tomatenpfanne, mit Feta – große Portion aus einem Topf.",
+    "origin": "Herzhafter Porridge, mediterran gewürzt",
+    "time": {
+      "active": 12,
+      "total": 15,
+      "quick": null
+    },
+    "difficulty": 1,
+    "tags": [
+      "schnell",
+      "onepot",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freeze": true,
+      "thermos": false,
+      "note": "Gekühlt 2 Tage, eingefroren 2 Monate. Mit einem Schluck Wasser dampfend heiß aufwärmen; Quark erst beim Servieren."
+    },
+    "tools": [
+      "Edelstahltopf 2 l",
+      "Sieb",
+      "Holzlöffel"
+    ],
+    "ingredients": [
+      {
+        "k": "onion",
+        "q": 60
+      },
+      {
+        "k": "garlic",
+        "q": 3
+      },
+      {
+        "k": "olive",
+        "q": 20,
+        "note": "12 g zum Anschwitzen, 8 g zum Beträufeln."
+      },
+      {
+        "k": "smoked",
+        "q": 2
+      },
+      {
+        "k": "oats",
+        "q": 100
+      },
+      {
+        "k": "passata",
+        "q": 200
+      },
+      {
+        "k": "water",
+        "q": 200
+      },
+      {
+        "k": "whitebeans",
+        "q": 200
+      },
+      {
+        "k": "quark",
+        "q": 150
+      },
+      {
+        "k": "feta",
+        "q": 50,
+        "note": "Extra-Topping."
+      },
+      {
+        "k": "salt",
+        "q": 1.5
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Aromatische Basis anschwitzen",
+        "text": "Zwiebel fein würfeln, Knoblauch hacken. 12 g Öl im Edelstahltopf bei mittlerer Hitze erwärmen und die Zwiebel 3 Minuten glasig schwitzen. Knoblauch und Paprikapulver nur die letzten 20 Sekunden mitrühren.",
+        "action": "pot",
+        "items": [
+          "onion",
+          "garlic"
+        ],
+        "timer": 180
+      },
+      {
+        "title": "Mit Tomate ablöschen",
+        "text": "Sofort Passata und Wasser angießen und mit dem Holzlöffel über den Topfboden kratzen, damit sich der Zwiebelansatz löst und in die Sauce geht.",
+        "action": "deglaze",
+        "items": [
+          "passata"
+        ]
+      },
+      {
+        "title": "Hafer cremig köcheln",
+        "text": "Haferflocken einrühren, aufkochen und bei kleiner Hitze 5 Minuten sanft köcheln. Regelmäßig am Boden entlangrühren – Hafer und Tomate setzen sonst an.",
+        "action": "pot",
+        "items": [
+          "oats",
+          "passata"
+        ],
+        "timer": 300
+      },
+      {
+        "title": "Bohnen durcherhitzen",
+        "text": "Bohnen abspülen, abtropfen lassen und unterheben. 2–3 Minuten erhitzen, bis alles dampft. Mit Salz und Pfeffer abschmecken, bei Bedarf Wasser ergänzen.",
+        "action": "pot",
+        "items": [
+          "whitebeans",
+          "oats"
+        ],
+        "timer": 150
+      },
+      {
+        "title": "Mit kühlem Quark servieren",
+        "text": "In eine große Schale füllen, den Quark als kühlen Klecks daraufsetzen, Feta darüberbröseln und mit dem restlichen Olivenöl beträufeln. Quark erst beim Essen unterziehen.",
+        "action": "plate",
+        "items": [
+          "oats",
+          "quark",
+          "feta"
+        ]
+      }
+    ],
+    "tips": [
+      "Säure ist in Edelstahl kein Problem – du kannst mit einem Spritzer Zitrone abschmecken.",
+      "Restliche Bohnen in einer Dose kühl stellen und innerhalb von 2–3 Tagen verbrauchen."
+    ],
+    "art": {
+      "dish": "bowl",
+      "base": {
+        "type": "porridge",
+        "color": "#b8553a"
+      },
+      "side": {
+        "type": "beans",
+        "color": "#efe6d2"
+      },
+      "sauce": {
+        "style": "dollop",
+        "color": "#f4f1e9"
+      },
+      "garnish": [
+        "blackpepper"
+      ]
+    }
+  },
+  {
+    "id": "b11",
+    "meals": [
+      "breakfast"
+    ],
+    "title": "Herzhafter Grieß mit Erbsen & Cashews",
+    "subtitle": "Lockerer Butter-Grieß mit Ingwer, Erbsen, vielen Cashews und Joghurt.",
+    "origin": "Südindisch inspiriert (Upma-Variante)",
+    "time": {
+      "active": 15,
+      "total": 18,
+      "quick": null
+    },
+    "difficulty": 1,
+    "tags": [
+      "schnell",
+      "einfrieren"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freeze": true,
+      "thermos": false,
+      "note": "Gekühlt 2 Tage oder eingefroren. Beim Aufwärmen 2–3 EL Wasser zugeben, der Grieß quillt stark nach. Joghurt erst beim Servieren."
+    },
+    "tools": [
+      "Edelstahltopf 2 l",
+      "Holzlöffel"
+    ],
+    "ingredients": [
+      {
+        "k": "cashews",
+        "q": 35
+      },
+      {
+        "k": "semolina",
+        "q": 100
+      },
+      {
+        "k": "butter",
+        "q": 20
+      },
+      {
+        "k": "onion",
+        "q": 60
+      },
+      {
+        "k": "ginger",
+        "q": 10
+      },
+      {
+        "k": "cumin",
+        "q": 1.5
+      },
+      {
+        "k": "water",
+        "q": 300
+      },
+      {
+        "k": "peas",
+        "q": 150
+      },
+      {
+        "k": "lemon",
+        "q": 15
+      },
+      {
+        "k": "yogurt",
+        "q": 200
+      },
+      {
+        "k": "salt",
+        "q": 2
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Cashews und Grieß trocken rösten",
+        "text": "Cashews im trockenen Edelstahltopf bei mittlerer Hitze 2 Minuten rösten, herausnehmen. Grieß im selben Topf 2–3 Minuten unter ständigem Rühren rösten, bis er duftet und leicht sandfarben ist; herausnehmen.",
+        "action": "toast",
+        "items": [
+          "cashews",
+          "semolina"
+        ],
+        "timer": 240
+      },
+      {
+        "title": "Zwiebel und Ingwer anschwitzen",
+        "text": "15 g Butter im Topf schmelzen, fein gewürfelte Zwiebel und geriebenen Ingwer 3 Minuten anschwitzen. Kreuzkümmel 20 Sekunden mitrühren, dann Wasser, Salz und TK-Erbsen zugeben und 3 Minuten köcheln.",
+        "action": "pot",
+        "items": [
+          "onion",
+          "ginger",
+          "peas"
+        ],
+        "timer": 360
+      },
+      {
+        "title": "Grieß einrieseln lassen",
+        "text": "Hitze auf klein stellen. Den gerösteten Grieß in dünnem Strahl einrieseln lassen und dabei kräftig rühren. Zugedeckt 3 Minuten quellen lassen, bis er locker und weich ist.",
+        "action": "mix",
+        "items": [
+          "semolina",
+          "peas"
+        ],
+        "timer": 180
+      },
+      {
+        "title": "Frisch abschmecken",
+        "text": "Restliche Butter einrühren, mit einer Gabel auflockern, Zitronensaft und Pfeffer unterziehen. In eine Schale geben, Cashews darüberstreuen und mit Joghurt servieren.",
+        "action": "plate",
+        "items": [
+          "semolina",
+          "cashews",
+          "yogurt"
+        ]
+      }
+    ],
+    "tips": [
+      "Das Vorrösten ist der Trick: Gerösteter Grieß bleibt körnig-locker statt zu einem Brei zu werden.",
+      "Wird er zu fest, schluckweise heißes Wasser einrühren; zu weich, 1–2 Minuten offen weiterquellen lassen."
+    ],
+    "art": {
+      "dish": "bowl",
+      "base": {
+        "type": "grain",
+        "color": "#e8d39a"
+      },
+      "sauce": {
+        "style": "dollop",
+        "color": "#f5f2ea"
+      },
+      "garnish": [
+        "cashews",
+        "peas"
+      ]
+    }
+  },
+  {
+    "id": "b12",
+    "meals": [
+      "breakfast"
+    ],
+    "title": "Frühstückspolenta mit Pilzen & Kürbiskernen",
+    "subtitle": "Große Schale Butterpolenta mit Parmesan, Pilzen und Kürbiskernen.",
+    "origin": "Norditalienisch inspiriert",
+    "time": {
+      "active": 15,
+      "total": 18,
+      "quick": null
+    },
+    "difficulty": 1,
+    "tags": [
+      "schnell",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": false,
+      "thermos": false,
+      "note": "Am besten frisch. Reste gekühlt 1 Tag; mit Milch oder Wasser im Topf wieder cremig rühren."
+    },
+    "tools": [
+      "Edelstahltopf 2 l",
+      "Edelstahlpfanne 24 cm",
+      "Schneebesen"
+    ],
+    "ingredients": [
+      {
+        "k": "pumpkin",
+        "q": 25
+      },
+      {
+        "k": "mushroom",
+        "q": 200
+      },
+      {
+        "k": "rapeseed",
+        "q": 8
+      },
+      {
+        "k": "butter",
+        "q": 15
+      },
+      {
+        "k": "thyme",
+        "q": 1
+      },
+      {
+        "k": "milk",
+        "q": 250
+      },
+      {
+        "k": "water",
+        "q": 250
+      },
+      {
+        "k": "polenta",
+        "q": 100
+      },
+      {
+        "k": "quark",
+        "q": 150
+      },
+      {
+        "k": "parmesan",
+        "q": 20,
+        "note": "Parmigiano Reggiano wählen, kein Grana Padano."
+      },
+      {
+        "k": "salt",
+        "q": 2
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Kerne trocken rösten",
+        "text": "Kürbiskerne in der trockenen Edelstahlpfanne bei mittlerer Hitze 2 Minuten rösten, bis sie knacken und sich aufblähen. Sofort herausnehmen.",
+        "action": "toast",
+        "items": [
+          "pumpkin"
+        ],
+        "timer": 120
+      },
+      {
+        "title": "Pilze bräunen",
+        "text": "Pfanne mittelhoch weiter erhitzen, bis ein Wassertropfen perlt, Öl zugeben. Pilzscheiben einlagig einlegen und 3 Minuten nicht bewegen, dann 3 Minuten schwenken. Zum Schluss 5 g Butter, Thymian und Pfeffer zugeben – die Butter erst jetzt, sonst verbrennt sie.",
+        "action": "pan",
+        "items": [
+          "mushroom",
+          "butter"
+        ],
+        "timer": 360
+      },
+      {
+        "title": "Polenta einrühren",
+        "text": "Parallel Milch, Wasser und die Hälfte des Salzes im Topf aufkochen. Polenta mit dem Schneebesen einrieseln lassen und bei kleiner Hitze 2–5 Minuten (Packungsangabe) cremig garen, dabei rühren.",
+        "action": "pot",
+        "items": [
+          "polenta",
+          "milk"
+        ],
+        "timer": 240
+      },
+      {
+        "title": "Mit Quark verfeinern",
+        "text": "Topf vom Herd nehmen, Quark, restliche Butter, geriebenen Parmesan und restliches Salz einrühren. Ist die Polenta zu fest, schluckweise heißes Wasser ergänzen – sie soll wie dicker Brei fließen.",
+        "action": "mix",
+        "items": [
+          "polenta",
+          "quark",
+          "parmesan"
+        ]
+      },
+      {
+        "title": "Sofort servieren",
+        "text": "Polenta in eine Schale geben, Pilze samt Butter darauf verteilen und mit den Kürbiskernen bestreuen. Gleich essen, Polenta dickt schnell nach.",
+        "action": "plate",
+        "items": [
+          "polenta",
+          "mushroom",
+          "pumpkin"
+        ]
+      }
+    ],
+    "tips": [
+      "Nur Instant-Polenta verwenden – normale Polenta braucht 30–40 Minuten.",
+      "Angesetzte Polenta im Edelstahltopf: mit kaltem Wasser füllen und 10 Minuten stehen lassen, dann löst sie sich fast von selbst."
+    ],
+    "art": {
+      "dish": "bowl",
+      "base": {
+        "type": "porridge",
+        "color": "#f0cf6a"
+      },
+      "side": {
+        "type": "slices",
+        "color": "#8c6b4a"
+      },
+      "garnish": [
+        "pumpkin",
+        "thyme"
+      ]
+    }
+  },
+  {
+    "id": "b13",
+    "meals": [
+      "breakfast",
+      "dinner"
+    ],
+    "title": "Hähnchen-Congee mit Ingwer",
+    "subtitle": "Großer Reisbrei mit saftigem Hähnchen, Ingwer-Öl und Erdnüssen.",
+    "origin": "Chinesisch inspiriert (Congee/Jook)",
+    "time": {
+      "active": 18,
+      "total": 65,
+      "quick": 25
+    },
+    "difficulty": 1,
+    "tags": [
+      "onepot",
+      "proteinreich",
+      "mealprep"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": true,
+      "thermos": false,
+      "note": "Rasch abkühlen, gekühlt 1 Tag oder eingefroren 1 Monat. Mit Wasser verdünnt auf mindestens 70 °C durcherhitzen. Toppings frisch."
+    },
+    "components": [
+      {
+        "key": "cooked-rice",
+        "q": 100
+      }
+    ],
+    "tools": [
+      "Edelstahltopf 2 l",
+      "Separates Brett für Fleisch",
+      "Küchenthermometer"
+    ],
+    "ingredients": [
+      {
+        "k": "rice",
+        "q": 100,
+        "note": "Gegart oder trocken; Rundkornreis wird besonders sämig."
+      },
+      {
+        "k": "water",
+        "q": 600,
+        "note": "Mit gegartem Reis; mit trockenem Reis 1 l."
+      },
+      {
+        "k": "broth",
+        "q": 4
+      },
+      {
+        "k": "ginger",
+        "q": 15
+      },
+      {
+        "k": "chickenthigh",
+        "q": 180
+      },
+      {
+        "k": "spring",
+        "q": 30
+      },
+      {
+        "k": "rapeseed",
+        "q": 10,
+        "note": "Für das Ingwer-Frühlingszwiebel-Öl."
+      },
+      {
+        "k": "sesameoil",
+        "q": 10
+      },
+      {
+        "k": "peanuts",
+        "q": 35
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Reis mit Ingwer köcheln",
+        "text": "Gegarten Reis mit Wasser, Brühe und 10 g fein geriebenem Ingwer im Edelstahltopf aufkochen und bei kleiner Hitze 10 Minuten köcheln, dabei gelegentlich am Boden entlangrühren und den Reis mit dem Löffel andrücken. Aus trockenem Reis: mit 1 l Wasser 45 Minuten leise köcheln, bis die Körner aufbrechen.",
+        "action": "pot",
+        "items": [
+          "rice",
+          "ginger"
+        ],
+        "timer": 600
+      },
+      {
+        "title": "Hähnchen hygienisch schneiden",
+        "text": "Hähnchenschenkel auf einem separaten Brett in 1,5 cm Würfel schneiden; nicht waschen. Danach Hände, Brett und Messer heiß abwaschen. Frühlingszwiebeln auf einem sauberen Brett in feine Ringe schneiden, restlichen Ingwer fein reiben.",
+        "action": "cut",
+        "items": [
+          "chickenthigh",
+          "spring"
+        ]
+      },
+      {
+        "title": "Hähnchen im Brei garen",
+        "text": "Hähnchenwürfel in den leise köchelnden Congee rühren und 8 Minuten garen, bis alle Stücke durchgehend weiß sind. Kerntemperatur des dicksten Stücks: mindestens 72 °C – Schenkelfleisch bleibt dabei saftig.",
+        "action": "pot",
+        "items": [
+          "chickenthigh",
+          "rice"
+        ],
+        "timer": 480
+      },
+      {
+        "title": "Ingwer-Öl und Erdnüsse",
+        "text": "Erdnüsse in einer kleinen Edelstahlpfanne trocken 2 Minuten rösten, herausnehmen und hacken. Rapsöl in der Pfanne erhitzen, bis es schlierig fließt, und über die Hälfte der Frühlingszwiebeln und den restlichen Ingwer in einer Tasse gießen – es zischt kurz. Sesamöl unterrühren.",
+        "action": "pan",
+        "items": [
+          "peanuts",
+          "spring",
+          "ginger"
+        ],
+        "timer": 120
+      },
+      {
+        "title": "Abschmecken und toppen",
+        "text": "Congee mit Wasser auf eine weiche, löffelbare Konsistenz bringen und mit Pfeffer abschmecken. In eine große Schale geben, Ingwer-Öl darüberlöffeln, restliche Frühlingszwiebeln und Erdnüsse darüberstreuen.",
+        "action": "plate",
+        "items": [
+          "rice",
+          "spring",
+          "peanuts"
+        ]
+      }
+    ],
+    "tips": [
+      "Vorgekochten Reis rasch abkühlen und nur bis zum nächsten Tag kühlen, sonst einfrieren – beim Aufwärmen überall mindestens 70 °C.",
+      "Ein Schuss Sojasauce oder etwas Chili passt sehr gut; Salz erst am Ende, die Brühe ist schon salzig."
+    ],
+    "art": {
+      "dish": "bowl",
+      "base": {
+        "type": "porridge",
+        "color": "#efe8d6"
+      },
+      "side": {
+        "type": "cubes",
+        "color": "#f1e2c8"
+      },
+      "sauce": {
+        "style": "drizzle",
+        "color": "#a0612a"
+      },
+      "garnish": [
+        "spring",
+        "peanuts",
+        "ginger"
+      ]
+    }
+  },
+  {
+    "id": "b14",
+    "meals": [
+      "breakfast",
+      "dinner"
+    ],
+    "title": "Kokosreis mit Hähnchen & Erdnüssen",
+    "subtitle": "Große Portion Kokosreis, würzige Hähnchenstreifen, Limettengurke.",
+    "origin": "Indonesisch inspiriert (angelehnt an Nasi Uduk)",
+    "time": {
+      "active": 20,
+      "total": 35,
+      "quick": 20
+    },
+    "difficulty": 2,
+    "tags": [
+      "proteinreich",
+      "mealprep"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": false,
+      "thermos": false,
+      "note": "Am besten frisch. Kokosreis rasch abkühlen, gekühlt 1 Tag; auf mindestens 70 °C erhitzen. Gurke frisch schneiden."
+    },
+    "components": [
+      {
+        "key": "cooked-rice",
+        "q": 100
+      }
+    ],
+    "tools": [
+      "Edelstahltopf mit Deckel 2 l",
+      "Edelstahlpfanne 28 cm",
+      "Separates Brett für Fleisch",
+      "Küchenthermometer"
+    ],
+    "ingredients": [
+      {
+        "k": "rice",
+        "q": 100,
+        "note": "Gegart oder trocken."
+      },
+      {
+        "k": "coconut",
+        "q": 120
+      },
+      {
+        "k": "water",
+        "q": 120,
+        "note": "Für trockenen Reis; bei gegartem Reis 2–3 EL."
+      },
+      {
+        "k": "chicken",
+        "q": 180
+      },
+      {
+        "k": "paprika",
+        "q": 2
+      },
+      {
+        "k": "chili",
+        "q": 0.5
+      },
+      {
+        "k": "rapeseed",
+        "q": 12
+      },
+      {
+        "k": "cucumber",
+        "q": 120
+      },
+      {
+        "k": "lime",
+        "q": 15
+      },
+      {
+        "k": "peanuts",
+        "q": 30
+      },
+      {
+        "k": "salt",
+        "q": 2
+      }
+    ],
+    "steps": [
+      {
+        "title": "Kokosreis zubereiten",
+        "text": "Gegarten Reis mit Kokosmilch und 2–3 EL Wasser im Topf zugedeckt bei kleiner Hitze 6 Minuten erhitzen, einmal umrühren, bis er überall dampft (mindestens 70 °C). Aus trockenem Reis: mit Kokosmilch, Wasser und etwas Salz aufkochen, zugedeckt 12–15 Minuten leise garen, 5 Minuten ruhen lassen.",
+        "action": "pot",
+        "items": [
+          "rice",
+          "coconut"
+        ],
+        "timer": 360
+      },
+      {
+        "title": "Hähnchen schneiden und würzen",
+        "text": "Hähnchen auf separatem Brett in 1 cm dünne Streifen schneiden, mit Küchenpapier trocken tupfen und mit Paprika, Chili und der Hälfte des Salzes würzen. Danach Hände und Brett gründlich reinigen.",
+        "action": "cut",
+        "items": [
+          "chicken",
+          "paprika"
+        ]
+      },
+      {
+        "title": "Streifen in Edelstahl anbraten",
+        "text": "Pfanne 2–3 Minuten mittelhoch vorheizen, Wassertropfen-Test, dann Öl hinein. Streifen einzeln einlegen und 2–3 Minuten nicht bewegen – sie kleben zuerst und lösen sich, sobald sie gebräunt sind.",
+        "action": "pan",
+        "items": [
+          "chicken"
+        ],
+        "timer": 150
+      },
+      {
+        "title": "Wenden und durchgaren",
+        "text": "Wenden und weitere 3–4 Minuten braten, bis die Streifen innen nicht mehr glasig sind (Kern mindestens 72 °C). Pfanne vom Herd nehmen, mit 2 EL Wasser und der Hälfte des Limettensafts ablöschen und den Bratsatz loskratzen.",
+        "action": "flip",
+        "items": [
+          "chicken",
+          "lime"
+        ],
+        "timer": 210
+      },
+      {
+        "title": "Mit Gurke und Erdnüssen anrichten",
+        "text": "Gurke auf sauberem Brett dünn hobeln, mit restlichem Limettensaft und Salz mischen. Erdnüsse grob hacken. Kokosreis auflockern, Hähnchen samt Pfannensaft daraufgeben, Gurke daneben und Erdnüsse darüberstreuen.",
+        "action": "plate",
+        "items": [
+          "rice",
+          "chicken",
+          "cucumber"
+        ]
+      }
+    ],
+    "tips": [
+      "Kokosmilch vor dem Abmessen kräftig aufrühren, das Fett setzt sich oben ab. Rest portionsweise einfrieren.",
+      "Hähnchen ganz trocken tupfen: Nasses Fleisch kocht in Edelstahl erst im eigenen Saft und klebt fester."
+    ],
+    "art": {
+      "dish": "plate",
+      "base": {
+        "type": "rice",
+        "color": "#f4eedc"
+      },
+      "side": {
+        "type": "strips",
+        "color": "#c47a3a"
+      },
+      "garnish": [
+        "peanuts",
+        "cucumber",
+        "chili"
+      ]
+    }
+  },
+  {
+    "id": "b15",
+    "meals": [
+      "breakfast",
+      "dinner"
+    ],
+    "title": "Gallo Pinto mit Bratkäse & Avocado",
+    "subtitle": "Würzige Reis-Bohnen-Pfanne, viel goldener Halloumi, Avocado, Schmand.",
+    "origin": "Costa-ricanisch inspiriert",
+    "time": {
+      "active": 20,
+      "total": 35,
+      "quick": 20
+    },
+    "difficulty": 1,
+    "tags": [
+      "proteinreich",
+      "mealprep"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": false,
+      "thermos": false,
+      "note": "Am besten frisch. Reis-Bohnen-Mischung gekühlt 1 Tag; auf mindestens 70 °C erhitzen. Käse und Avocado frisch."
+    },
+    "components": [
+      {
+        "key": "cooked-rice",
+        "q": 80
+      }
+    ],
+    "tools": [
+      "Edelstahlpfanne 28 cm",
+      "Holzspatel",
+      "Sieb"
+    ],
+    "ingredients": [
+      {
+        "k": "rice",
+        "q": 80,
+        "note": "Am besten vom Vortag – Gallo Pinto wird traditionell mit kaltem Reis gemacht."
+      },
+      {
+        "k": "halloumi",
+        "q": 80,
+        "note": "Statt des in Costa Rica üblichen Queso frito."
+      },
+      {
+        "k": "rapeseed",
+        "q": 12
+      },
+      {
+        "k": "onion",
+        "q": 60
+      },
+      {
+        "k": "pepper",
+        "q": 100
+      },
+      {
+        "k": "garlic",
+        "q": 3
+      },
+      {
+        "k": "cumin",
+        "q": 1
+      },
+      {
+        "k": "smoked",
+        "q": 2
+      },
+      {
+        "k": "blackbeans",
+        "q": 160
+      },
+      {
+        "k": "water",
+        "q": 40
+      },
+      {
+        "k": "lime",
+        "q": 15
+      },
+      {
+        "k": "avocado",
+        "q": 80
+      },
+      {
+        "k": "schmand",
+        "q": 30,
+        "note": "Statt Natilla, der costa-ricanischen Sauerrahm-Beilage."
+      },
+      {
+        "k": "coriander",
+        "q": 8
+      },
+      {
+        "k": "salt",
+        "q": 1
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Vorbereiten",
+        "text": "Zwiebel und Paprika klein würfeln, Knoblauch hacken, Halloumi in 1 cm dicke Scheiben schneiden und trocken tupfen. Bohnen abspülen und abtropfen lassen. Ohne Vorrat den Reis nach Packungsangabe kochen und ausdampfen lassen.",
+        "action": "cut",
+        "items": [
+          "onion",
+          "pepper",
+          "halloumi"
+        ]
+      },
+      {
+        "title": "Halloumi goldbraun braten",
+        "text": "Pfanne 2–3 Minuten mittelhoch vorheizen, bis ein Wassertropfen perlt, 3 g Öl hinein. Halloumi einlegen und 2 Minuten nicht bewegen – er löst sich von selbst, sobald er goldbraun ist. Wenden, 1–2 Minuten braten, herausnehmen.",
+        "action": "flip",
+        "items": [
+          "halloumi"
+        ],
+        "timer": 210
+      },
+      {
+        "title": "Würzige Basis braten",
+        "text": "Restliches Öl in die Pfanne, Zwiebel und Paprika bei mittlerer Hitze 5 Minuten braten. Knoblauch, Kreuzkümmel und Paprikapulver 20 Sekunden mitrösten.",
+        "action": "pan",
+        "items": [
+          "onion",
+          "pepper",
+          "garlic"
+        ],
+        "timer": 300
+      },
+      {
+        "title": "Reis und Bohnen heiß braten",
+        "text": "Bohnen und Reis zugeben, mit dem Wasser ablöschen und den Bratsatz loskratzen. Unter häufigem Wenden 5–6 Minuten braten, bis alles dampfend heiß ist (vorgekochter Reis: überall mindestens 70 °C). Mit Salz, Pfeffer und der Hälfte des Limettensafts abschmecken.",
+        "action": "deglaze",
+        "items": [
+          "rice",
+          "blackbeans"
+        ],
+        "timer": 330
+      },
+      {
+        "title": "Frisch anrichten",
+        "text": "Avocado in Scheiben schneiden und mit restlichem Limettensaft beträufeln. Gallo Pinto mit Halloumi, Avocado und einem Klecks Schmand anrichten und mit Koriander bestreuen.",
+        "action": "plate",
+        "items": [
+          "rice",
+          "halloumi",
+          "schmand"
+        ]
+      }
+    ],
+    "tips": [
+      "Halloumi ist ideal für Edelstahl: Er klebt nur, bis er Kruste hat – dann gleitet er.",
+      "Kein Koriander? Glatte Petersilie passt ebenso. Kidneybohnen funktionieren statt schwarzer Bohnen."
+    ],
+    "art": {
+      "dish": "plate",
+      "base": {
+        "type": "rice",
+        "color": "#6b5148"
+      },
+      "side": {
+        "type": "slices",
+        "color": "#e3c27a"
+      },
+      "garnish": [
+        "avocado",
+        "coriander",
+        "lime"
+      ]
+    }
+  },
+  {
+    "id": "b16",
+    "meals": [
+      "breakfast",
+      "dinner"
+    ],
+    "title": "Baked Beans & knusprige Kartoffeln",
+    "subtitle": "Sämige Tomatenbohnen mit viel Käse – ein großes Frühstück ohne Fleisch.",
+    "origin": "Britisch inspiriert",
+    "time": {
+      "active": 20,
+      "total": 45,
+      "quick": 25
+    },
+    "difficulty": 1,
+    "tags": [
+      "mealprep",
+      "einfrieren",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freeze": true,
+      "thermos": false,
+      "note": "Tomatenbohnen gekühlt 2 Tage oder eingefroren 2 Monate. Kartoffeln immer frisch braten."
+    },
+    "components": [
+      {
+        "key": "cooked-potato",
+        "q": 350
+      }
+    ],
+    "tools": [
+      "Edelstahlpfanne 28 cm",
+      "Edelstahltopf 1,5 l",
+      "Breiter Edelstahl-Pfannenwender",
+      "Holzlöffel"
+    ],
+    "ingredients": [
+      {
+        "k": "potato",
+        "q": 350,
+        "note": "Gekocht und kalt."
+      },
+      {
+        "k": "rapeseed",
+        "q": 22
+      },
+      {
+        "k": "onion",
+        "q": 50
+      },
+      {
+        "k": "paste",
+        "q": 15
+      },
+      {
+        "k": "smoked",
+        "q": 2
+      },
+      {
+        "k": "passata",
+        "q": 200
+      },
+      {
+        "k": "whitebeans",
+        "q": 240
+      },
+      {
+        "k": "mustard",
+        "q": 8
+      },
+      {
+        "k": "honey",
+        "q": 5
+      },
+      {
+        "k": "butter",
+        "q": 8,
+        "note": "Zum Schluss in die Bohnen."
+      },
+      {
+        "k": "cheese",
+        "q": 45
+      },
+      {
+        "k": "salt",
+        "q": 1.5
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Kartoffelwürfel einlegen",
+        "text": "Kartoffeln pellen, in 2 cm Würfel schneiden und trocken tupfen. Edelstahlpfanne 2–3 Minuten mittelhoch vorheizen, Wassertropfen-Test, dann 16 g Öl hinein. Würfel einlagig verteilen.",
+        "action": "pan",
+        "items": [
+          "potato",
+          "rapeseed"
+        ],
+        "timer": 150
+      },
+      {
+        "title": "Bohnenbasis ansetzen",
+        "text": "Parallel restliches Öl im Topf erwärmen, fein gewürfelte Zwiebel 3 Minuten anschwitzen. Tomatenmark und Paprikapulver 30 Sekunden mitrösten, dann mit Passata ablöschen und den Ansatz vom Boden lösen.",
+        "action": "deglaze",
+        "items": [
+          "onion",
+          "paste",
+          "passata"
+        ],
+        "timer": 210
+      },
+      {
+        "title": "Bohnen sämig köcheln",
+        "text": "Bohnen, Senf und Honig einrühren und 8 Minuten sanft köcheln. Ein paar Bohnen am Topfrand zerdrücken – das bindet die Sauce. Butter einrühren, mit Salz und Pfeffer abschmecken.",
+        "action": "pot",
+        "items": [
+          "whitebeans",
+          "passata"
+        ],
+        "timer": 480
+      },
+      {
+        "title": "Kartoffeln rundum bräunen",
+        "text": "Kartoffelwürfel die ersten 5 Minuten nicht bewegen, bis sie sich lösen. Dann alle 3 Minuten wenden, insgesamt 12–15 Minuten, bis sie rundum goldbraun und knusprig sind; leicht salzen.",
+        "action": "flip",
+        "items": [
+          "potato"
+        ],
+        "timer": 780
+      },
+      {
+        "title": "Getrennt anrichten",
+        "text": "Bohnen in eine Schale oder auf den Teller geben und mit Käse bestreuen, Kartoffeln daneben, damit sie knusprig bleiben.",
+        "action": "plate",
+        "items": [
+          "whitebeans",
+          "potato",
+          "cheese"
+        ]
+      }
+    ],
+    "tips": [
+      "Kleben die Würfel nach 5 Minuten noch, ist die Kruste nicht fertig – 1–2 Minuten warten statt kratzen.",
+      "Die Bohnen schmecken am zweiten Tag noch besser; ideal zum Vorkochen."
+    ],
+    "art": {
+      "dish": "plate",
+      "base": {
+        "type": "beans",
+        "color": "#b44a2c"
+      },
+      "side": {
+        "type": "cubes",
+        "color": "#d9a443"
+      },
+      "garnish": [
+        "cheese",
+        "blackpepper"
+      ]
+    }
+  },
+  {
+    "id": "b17",
+    "meals": [
+      "breakfast",
+      "dinner"
+    ],
+    "title": "Warme Kichererbsen auf Zitronenjoghurt",
+    "subtitle": "Sämig, nussig, frisch – eine große, warme Schale in fünfzehn Minuten.",
+    "origin": "Levantinisch inspiriert (Balila-Variante)",
+    "time": {
+      "active": 12,
+      "total": 15,
+      "quick": null
+    },
+    "difficulty": 1,
+    "tags": [
+      "schnell",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 0,
+      "freeze": false,
+      "thermos": false,
+      "note": "Frisch essen. Geöffnete Kichererbsen in einer verschlossenen Dose höchstens 2 Tage kühlen."
+    },
+    "tools": [
+      "Edelstahlpfanne 24 cm",
+      "Sieb",
+      "Schüssel",
+      "Gabel"
+    ],
+    "ingredients": [
+      {
+        "k": "pine",
+        "q": 25
+      },
+      {
+        "k": "chickpeas",
+        "q": 240
+      },
+      {
+        "k": "water",
+        "q": 60
+      },
+      {
+        "k": "cumin",
+        "q": 1
+      },
+      {
+        "k": "yogurt",
+        "q": 200
+      },
+      {
+        "k": "quark",
+        "q": 100
+      },
+      {
+        "k": "tahini",
+        "q": 15
+      },
+      {
+        "k": "lemon",
+        "q": 20
+      },
+      {
+        "k": "garlic",
+        "q": 3
+      },
+      {
+        "k": "olive",
+        "q": 25
+      },
+      {
+        "k": "parsley",
+        "q": 8
+      },
+      {
+        "k": "salt",
+        "q": 1.5
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Pinienkerne rösten",
+        "text": "Pinienkerne in der trockenen Edelstahlpfanne bei mittlerer Hitze 1–2 Minuten unter Schwenken goldbraun rösten. Sofort herausnehmen – in der heißen Pfanne bräunen sie nach.",
+        "action": "toast",
+        "items": [
+          "pine"
+        ],
+        "timer": 90
+      },
+      {
+        "title": "Kichererbsen sämig köcheln",
+        "text": "Abgespülte Kichererbsen mit Wasser, Kreuzkümmel und der Hälfte des Salzes in die Pfanne geben und 5 Minuten köcheln. Ein Viertel mit der Gabel zerdrücken, sodass eine cremige Sauce entsteht.",
+        "action": "pot",
+        "items": [
+          "chickpeas",
+          "cumin"
+        ],
+        "timer": 300
+      },
+      {
+        "title": "Zitronenjoghurt rühren",
+        "text": "Joghurt, Quark und Tahin mit der Hälfte des Zitronensafts, fein geriebenem Knoblauch, Pfeffer und dem restlichen Salz verrühren und am Boden einer flachen Schale verstreichen.",
+        "action": "mix",
+        "items": [
+          "yogurt",
+          "tahini",
+          "garlic"
+        ]
+      },
+      {
+        "title": "Warm auf kühl schichten",
+        "text": "Restlichen Zitronensaft unter die heißen Kichererbsen rühren und sie samt Flüssigkeit auf den Joghurt geben. Großzügig mit dem Olivenöl beträufeln, Pinienkerne und gehackte Petersilie darüberstreuen und sofort essen.",
+        "action": "plate",
+        "items": [
+          "chickpeas",
+          "pine",
+          "parsley"
+        ]
+      }
+    ],
+    "tips": [
+      "Kürbiskerne sind ein preiswerter Ersatz für Pinienkerne.",
+      "Den Joghurt nicht erhitzen – der Reiz liegt im Kontrast aus warmen Kichererbsen und kühler Creme."
+    ],
+    "art": {
+      "dish": "bowl",
+      "base": {
+        "type": "dip",
+        "color": "#f3eee2"
+      },
+      "side": {
+        "type": "beans",
+        "color": "#d6b77a"
+      },
+      "sauce": {
+        "style": "drizzle",
+        "color": "#b9a43a"
+      },
+      "garnish": [
+        "pine",
+        "parsley",
+        "cumin"
+      ]
+    }
+  },
+  {
+    "id": "b18",
+    "meals": [
+      "breakfast",
+      "dinner"
+    ],
+    "title": "Bohnenstampf mit Röstzwiebeln & Tahin-Joghurt",
+    "subtitle": "Cremige Bohnen, Röstzwiebeln, Feta und Tahin-Joghurt – sehr sättigend.",
+    "origin": "Ägyptisch inspiriert (Ful-Variante)",
+    "time": {
+      "active": 15,
+      "total": 20,
+      "quick": null
+    },
+    "difficulty": 1,
+    "tags": [
+      "schnell",
+      "einfrieren",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freeze": true,
+      "thermos": false,
+      "note": "Bohnenstampf gekühlt 2 Tage oder eingefroren 2 Monate; mit einem Schluck Wasser erwärmen. Avocado, Tomate und Sauce frisch."
+    },
+    "tools": [
+      "Edelstahlpfanne 24 cm",
+      "Edelstahltopf 1,5 l",
+      "Kartoffelstampfer oder Gabel"
+    ],
+    "ingredients": [
+      {
+        "k": "onion",
+        "q": 100
+      },
+      {
+        "k": "rapeseed",
+        "q": 12
+      },
+      {
+        "k": "whitebeans",
+        "q": 240,
+        "note": "Klassisch wären Ackerbohnen (Saubohnen) – gibt es im Bio-Markt oft getrocknet, brauchen aber Einweichen und lange Garzeit."
+      },
+      {
+        "k": "water",
+        "q": 100
+      },
+      {
+        "k": "garlic",
+        "q": 3
+      },
+      {
+        "k": "cumin",
+        "q": 1.5
+      },
+      {
+        "k": "lemon",
+        "q": 20
+      },
+      {
+        "k": "olive",
+        "q": 20
+      },
+      {
+        "k": "tahini",
+        "q": 25
+      },
+      {
+        "k": "yogurt",
+        "q": 150
+      },
+      {
+        "k": "tomato",
+        "q": 80
+      },
+      {
+        "k": "avocado",
+        "q": 60
+      },
+      {
+        "k": "feta",
+        "q": 40,
+        "note": "Extra-Topping."
+      },
+      {
+        "k": "parsley",
+        "q": 8
+      },
+      {
+        "k": "salt",
+        "q": 1.5
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Zwiebeln langsam rösten",
+        "text": "Zwiebeln in dünne Halbringe schneiden. Edelstahlpfanne 2 Minuten mittel vorheizen, Rapsöl hinein, Zwiebeln einlegen. 10–12 Minuten bei mittlerer Hitze braten, alle 2 Minuten wenden, bis sie tief goldbraun sind.",
+        "action": "pan",
+        "items": [
+          "onion"
+        ],
+        "timer": 660
+      },
+      {
+        "title": "Bohnen würzig erhitzen",
+        "text": "Parallel Bohnen abspülen und mit 80 ml Wasser, gehacktem Knoblauch, Kreuzkümmel und Salz im Topf 5 Minuten köcheln.",
+        "action": "pot",
+        "items": [
+          "whitebeans",
+          "garlic",
+          "cumin"
+        ],
+        "timer": 300
+      },
+      {
+        "title": "Röstsatz ablöschen",
+        "text": "Zwiebeln aus der Pfanne nehmen. Die braunen Rückstände mit dem restlichen Wasser ablöschen, loskratzen und diesen Röstsud zu den Bohnen gießen – er bringt viel Geschmack.",
+        "action": "deglaze",
+        "items": [
+          "onion"
+        ]
+      },
+      {
+        "title": "Grob stampfen",
+        "text": "Bohnen grob zerstampfen, Olivenöl und die Hälfte des Zitronensafts unterrühren, pfeffern. Tahin, Joghurt und restlichen Zitronensaft glatt rühren; Tomate und Avocado würfeln.",
+        "action": "mash",
+        "items": [
+          "whitebeans",
+          "tahini",
+          "yogurt"
+        ]
+      },
+      {
+        "title": "Anrichten",
+        "text": "Stampf heiß auf einen Teller geben, Röstzwiebeln, Tomate, Avocado und zerbröselten Feta darauf verteilen, Tahin-Joghurt darüberträufeln und mit Petersilie bestreuen.",
+        "action": "plate",
+        "items": [
+          "whitebeans",
+          "onion",
+          "avocado"
+        ]
+      }
+    ],
+    "tips": [
+      "Werden die Zwiebeln zu schnell dunkel, Hitze reduzieren und 1 EL Wasser zugeben – der Ansatz löst sich und färbt sie gleichmäßig.",
+      "Wird die Tahinsauce beim Rühren erst fest, ist das normal: weiterrühren, sie wird mit Joghurt und Zitrone wieder cremig."
+    ],
+    "art": {
+      "dish": "plate",
+      "base": {
+        "type": "mash",
+        "color": "#e6d9bd"
+      },
+      "side": {
+        "type": "salad",
+        "color": "#c9473a"
+      },
+      "sauce": {
+        "style": "drizzle",
+        "color": "#ede1c5"
+      },
+      "garnish": [
+        "onion",
+        "avocado",
+        "parsley"
+      ]
+    }
+  },
+  {
+    "id": "b19",
+    "meals": [
+      "breakfast"
+    ],
+    "title": "Süßkartoffelstampf mit Röstzwiebeln & Erdnüssen",
+    "subtitle": "Große Portion Butterstampf mit Röstzwiebeln, Erdnüssen, Zitronenquark.",
+    "origin": "Moderne Hausküche",
+    "time": {
+      "active": 15,
+      "total": 30,
+      "quick": 15
+    },
+    "difficulty": 1,
+    "tags": [
+      "mealprep",
+      "einfrieren",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freeze": true,
+      "thermos": false,
+      "note": "Stampf gekühlt 2 Tage oder eingefroren 2 Monate. Zwiebeln, Erdnüsse und Quark frisch dazugeben."
+    },
+    "components": [
+      {
+        "key": "cooked-sweetpotato",
+        "q": 450
+      }
+    ],
+    "tools": [
+      "Edelstahltopf 2 l",
+      "Edelstahlpfanne 24 cm",
+      "Kartoffelstampfer"
+    ],
+    "ingredients": [
+      {
+        "k": "sweetpotato",
+        "q": 450
+      },
+      {
+        "k": "onion",
+        "q": 80
+      },
+      {
+        "k": "rapeseed",
+        "q": 10
+      },
+      {
+        "k": "chili",
+        "q": 0.5
+      },
+      {
+        "k": "peanuts",
+        "q": 40
+      },
+      {
+        "k": "butter",
+        "q": 20
+      },
+      {
+        "k": "quark",
+        "q": 150
+      },
+      {
+        "k": "yogurt",
+        "q": 100
+      },
+      {
+        "k": "lemon",
+        "q": 15
+      },
+      {
+        "k": "water",
+        "q": 20,
+        "note": "Für den Quark; Kochwasser zusätzlich."
+      },
+      {
+        "k": "salt",
+        "q": 2
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Süßkartoffeln weich kochen",
+        "text": "Süßkartoffel schälen, in 2 cm Würfel schneiden, knapp mit Wasser bedecken, salzen und ab dem Aufkochen 10–12 Minuten garen, bis ein Messer ohne Widerstand hineingleitet. Vorgegarte Würfel mit 2 EL Wasser zugedeckt 4 Minuten erhitzen.",
+        "action": "pot",
+        "items": [
+          "sweetpotato"
+        ],
+        "timer": 660
+      },
+      {
+        "title": "Zwiebeln bräunen",
+        "text": "Edelstahlpfanne 2 Minuten mittel vorheizen, Öl hinein, Zwiebelstreifen 8–10 Minuten goldbraun braten, regelmäßig wenden. Erdnüsse die letzten 2 Minuten mitrösten, Chiliflocken nur die letzten 20 Sekunden.",
+        "action": "pan",
+        "items": [
+          "onion",
+          "peanuts",
+          "chili"
+        ],
+        "timer": 540
+      },
+      {
+        "title": "Grob stampfen",
+        "text": "Süßkartoffeln abgießen, 1 Minute ausdampfen lassen und mit Butter, Pfeffer und einer Prise Salz grob stampfen.",
+        "action": "mash",
+        "items": [
+          "sweetpotato",
+          "butter"
+        ]
+      },
+      {
+        "title": "Zitronenquark rühren",
+        "text": "Quark mit Joghurt, Zitronensaft, Wasser und etwas Salz glatt rühren.",
+        "action": "mix",
+        "items": [
+          "quark",
+          "yogurt",
+          "lemon"
+        ]
+      },
+      {
+        "title": "Mit Crunch servieren",
+        "text": "Stampf auf einen Teller geben, Zwiebeln, Erdnüsse und Bratöl darauf verteilen und den Zitronenquark daneben setzen.",
+        "action": "plate",
+        "items": [
+          "sweetpotato",
+          "onion",
+          "quark"
+        ]
+      }
+    ],
+    "tips": [
+      "Der säuerliche Quark ist wichtig, damit das Frühstück nicht zu süß wirkt.",
+      "Bleibt Zwiebelansatz in der Pfanne, mit 1 EL Wasser ablöschen und über den Stampf träufeln."
+    ],
+    "art": {
+      "dish": "plate",
+      "base": {
+        "type": "mash",
+        "color": "#e58a3a"
+      },
+      "sauce": {
+        "style": "dollop",
+        "color": "#f4f1e8"
+      },
+      "garnish": [
+        "onion",
+        "peanuts",
+        "chili"
+      ]
+    }
+  },
+  {
+    "id": "b20",
+    "meals": [
+      "breakfast",
+      "dinner"
+    ],
+    "title": "Lachs mit Reis & Sesamgurke",
+    "subtitle": "Knusprige Haut, glasig-saftiger Kern, Avocado – ein großes Lachsfrühstück.",
+    "origin": "Japanisch inspiriert",
+    "time": {
+      "active": 15,
+      "total": 35,
+      "quick": 20
+    },
+    "difficulty": 2,
+    "tags": [
+      "proteinreich",
+      "mealprep"
+    ],
+    "storage": {
+      "fridgeDays": 0,
+      "freeze": false,
+      "thermos": false,
+      "note": "Lachs frisch braten. Vorgekochter Reis: rasch abkühlen, nur bis zum nächsten Tag kühlen oder einfrieren, beim Aufwärmen überall mindestens 70 °C."
+    },
+    "components": [
+      {
+        "key": "cooked-rice",
+        "q": 100
+      }
+    ],
+    "tools": [
+      "Edelstahlpfanne 24 cm",
+      "Edelstahltopf mit Deckel",
+      "Dünner Edelstahl-Fischwender",
+      "Küchenthermometer"
+    ],
+    "ingredients": [
+      {
+        "k": "salmon",
+        "q": 170,
+        "note": "Mit Haut, etwa 2–2,5 cm dick. TK-Filet über Nacht im Kühlschrank auftauen."
+      },
+      {
+        "k": "rice",
+        "q": 100
+      },
+      {
+        "k": "rapeseed",
+        "q": 5
+      },
+      {
+        "k": "cucumber",
+        "q": 150
+      },
+      {
+        "k": "avocado",
+        "q": 80,
+        "note": "Extra-Topping."
+      },
+      {
+        "k": "sesame",
+        "q": 15
+      },
+      {
+        "k": "sesameoil",
+        "q": 8
+      },
+      {
+        "k": "lemon",
+        "q": 15
+      },
+      {
+        "k": "soy",
+        "q": 10
+      },
+      {
+        "k": "spring",
+        "q": 20
+      },
+      {
+        "k": "salt",
+        "q": 1
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      }
+    ],
+    "steps": [
+      {
+        "title": "Reis erhitzen, Lachs vorbereiten",
+        "text": "Gegarten Reis mit 2 EL Wasser zugedeckt bei kleiner Hitze 5–6 Minuten erhitzen, einmal umrühren, bis er überall dampft (mindestens 70 °C). Lachs 15 Minuten vorher aus dem Kühlschrank nehmen, die Haut gründlich trocken tupfen und salzen.",
+        "action": "pot",
+        "items": [
+          "rice",
+          "salmon"
+        ],
+        "timer": 330
+      },
+      {
+        "title": "Sesamgurke mischen",
+        "text": "Hände nach dem Fisch waschen. Gurke auf sauberem Brett dünn schneiden, mit Zitronensaft, Sojasauce, Sesamöl und Sesam mischen. Frühlingszwiebel in Ringe schneiden.",
+        "action": "mix",
+        "items": [
+          "cucumber",
+          "sesame"
+        ]
+      },
+      {
+        "title": "Auf der Haut braten",
+        "text": "Pfanne 2–3 Minuten mittel vorheizen, Wassertropfen-Test, Öl hinein. Lachs mit der Haut nach unten einlegen und 10 Sekunden flach andrücken. 5–6 Minuten nicht bewegen, bis er von unten zu zwei Dritteln hell geworden ist und die Haut sich von selbst löst.",
+        "action": "pan",
+        "items": [
+          "salmon"
+        ],
+        "timer": 330
+      },
+      {
+        "title": "Kurz wenden, glasig lassen",
+        "text": "Wenden und 30–60 Sekunden auf der Fleischseite garziehen lassen. Ziel: 55–60 °C im Kern – innen noch leicht glasig und saftig. Für Schwangere, Kleinkinder und Immungeschwächte auf mindestens 63 °C garen.",
+        "action": "flip",
+        "items": [
+          "salmon"
+        ],
+        "timer": 45
+      },
+      {
+        "title": "Anrichten",
+        "text": "Reis auflockern, Lachs mit der Haut nach oben daraufsetzen, damit sie knusprig bleibt. Sesamgurke und Avocadoscheiben daneben geben, mit Frühlingszwiebeln und Pfeffer bestreuen.",
+        "action": "plate",
+        "items": [
+          "rice",
+          "salmon",
+          "avocado"
+        ]
+      }
+    ],
+    "tips": [
+      "Klebt die Haut beim ersten Versuch zu wenden, ist sie noch nicht knusprig – 1 Minute warten, dann gibt die Pfanne sie frei.",
+      "Weiße Tröpfchen an der Seite (Eiweiß aus dem Fisch) zeigen, dass er zu heiß oder zu lange gart: Hitze runter.",
+      "Ohne Thermometer: Mit einem Messer in die dickste Stelle stechen – die Mitte soll noch leicht glasig rosa sein."
+    ],
+    "art": {
+      "dish": "plate",
+      "base": {
+        "type": "fillet",
+        "color": "#ec8a62"
+      },
+      "side": {
+        "type": "rice",
+        "color": "#f5f1e6"
+      },
+      "garnish": [
+        "sesame",
+        "spring",
+        "cucumber"
+      ]
+    }
+  }
+]

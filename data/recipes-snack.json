@@ -1,0 +1,1537 @@
+[
+  {
+    "id": "s01",
+    "meals": [
+      "snack"
+    ],
+    "title": "Erdnuss-Bananen-Hafer-Shake",
+    "subtitle": "Dick, nussig und leicht salzig – ein Glas, das richtig satt macht.",
+    "origin": "Amerikanisch inspiriert",
+    "time": {
+      "active": 5,
+      "total": 5,
+      "quick": null
+    },
+    "difficulty": 1,
+    "tags": [
+      "schnell",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": false,
+      "thermos": false,
+      "note": "In einer verschlossenen Flasche bis zum nächsten Tag kühlen. Der Hafer quillt nach – vor dem Trinken kräftig schütteln, bei Bedarf einen Schuss Milch zugeben."
+    },
+    "tools": [
+      "Standmixer oder Pürierstab mit hohem Becher",
+      "Verschließbare Flasche 500 ml"
+    ],
+    "ingredients": [
+      {
+        "k": "milk",
+        "q": 350,
+        "note": "gut gekühlt"
+      },
+      {
+        "k": "banana",
+        "q": 120,
+        "note": "gern reif oder in Stücken eingefroren"
+      },
+      {
+        "k": "oats",
+        "q": 40
+      },
+      {
+        "k": "peanutbutter",
+        "q": 30
+      },
+      {
+        "k": "dates",
+        "q": 20
+      },
+      {
+        "k": "cinnamon",
+        "q": 0.5
+      },
+      {
+        "k": "salt",
+        "q": 0.3
+      }
+    ],
+    "steps": [
+      {
+        "title": "Hafer vormixen",
+        "text": "Haferflocken mit etwa 100 ml Milch in den Mixer geben und 20 Sekunden fein mixen. So wird der Shake später glatt statt körnig.",
+        "action": "blend",
+        "items": [
+          "oats",
+          "milk"
+        ]
+      },
+      {
+        "title": "Alles zugeben",
+        "text": "Banane in Stücken, Datteln, Erdnussmus, Zimt, Salz und die restliche Milch zugeben. Harte Datteln vorher 5 Minuten in heißem Wasser einweichen.",
+        "action": "blend",
+        "items": [
+          "banana",
+          "dates",
+          "peanutbutter"
+        ]
+      },
+      {
+        "title": "Cremig mixen",
+        "text": "Auf höchster Stufe 45–60 Sekunden mixen, bis keine Dattelstückchen mehr zu sehen sind. Zu dick: einen Schuss Milch nachgießen.",
+        "action": "blend",
+        "items": [
+          "banana",
+          "milk"
+        ]
+      },
+      {
+        "title": "Abfüllen",
+        "text": "In eine Flasche füllen und gleich trinken oder kalt stellen. Unterwegs vor dem Öffnen gut schütteln.",
+        "action": "plate",
+        "items": [
+          "milk"
+        ]
+      }
+    ],
+    "tips": [
+      "Gefrorene Bananenstücke machen den Shake eiskalt und milchshake-dick, ohne ihn zu verwässern.",
+      "Die Prise Salz ist kein Fehler – sie hebt den Erdnussgeschmack deutlich."
+    ],
+    "art": {
+      "dish": "bowl",
+      "base": {
+        "type": "soup",
+        "color": "#d9b98a"
+      },
+      "garnish": [
+        "peanuts",
+        "cinnamon"
+      ]
+    }
+  },
+  {
+    "id": "s02",
+    "meals": [
+      "snack"
+    ],
+    "title": "Beeren-Mandel-Shake",
+    "subtitle": "Fruchtig-säuerlich mit Mandelmus und Joghurt – sicher mit erhitzten Beeren.",
+    "origin": "International",
+    "time": {
+      "active": 7,
+      "total": 20,
+      "quick": null
+    },
+    "difficulty": 1,
+    "tags": [
+      "proteinreich",
+      "mealprep"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": false,
+      "thermos": false,
+      "note": "Fertigen Shake verschlossen bis zum nächsten Tag kühlen und vor dem Trinken schütteln. Die erhitzten Beeren halten im Glas 2 Tage – gleich eine größere Menge vorbereiten."
+    },
+    "tools": [
+      "Mikrowelle",
+      "Mikrowellengeeignete Schale",
+      "Standmixer oder Pürierstab mit hohem Becher",
+      "Verschließbare Flasche 500 ml"
+    ],
+    "ingredients": [
+      {
+        "k": "berries",
+        "q": 150
+      },
+      {
+        "k": "milk",
+        "q": 300,
+        "note": "gut gekühlt"
+      },
+      {
+        "k": "yogurt",
+        "q": 150
+      },
+      {
+        "k": "almondbutter",
+        "q": 30
+      },
+      {
+        "k": "oats",
+        "q": 30
+      },
+      {
+        "k": "honey",
+        "q": 15
+      }
+    ],
+    "steps": [
+      {
+        "title": "Beeren erhitzen",
+        "text": "TK-Beeren abgedeckt bei 800 W 3–4 Minuten erhitzen, nach der Hälfte umrühren. Sie müssen überall dampfend heiß sein und mindestens 2 Minuten so bleiben – das ist bei TK-Beeren für den Rohverzehr wichtig.",
+        "action": "pot",
+        "items": [
+          "berries"
+        ],
+        "timer": 210
+      },
+      {
+        "title": "Abkühlen lassen",
+        "text": "Beeren samt Saft flach in der Schale etwa 10 Minuten abkühlen lassen, bis sie lauwarm sind. Gut vorzubereiten: am Vorabend erhitzen und über Nacht kalt stellen.",
+        "action": "mix",
+        "items": [
+          "berries"
+        ],
+        "timer": 600
+      },
+      {
+        "title": "Mixen",
+        "text": "Haferflocken mit der Hälfte der Milch 20 Sekunden fein mixen, dann Beeren, Joghurt, Mandelmus, Honig und restliche Milch zugeben und 45 Sekunden auf höchster Stufe mixen, bis der Shake gleichmäßig violett und glatt ist.",
+        "action": "blend",
+        "items": [
+          "berries",
+          "yogurt",
+          "almondbutter"
+        ]
+      },
+      {
+        "title": "Abfüllen",
+        "text": "In eine Flasche füllen und kalt trinken. Ist er durch die warmen Beeren noch nicht kühl genug, 15 Minuten in den Kühlschrank stellen.",
+        "action": "plate",
+        "items": [
+          "milk"
+        ]
+      }
+    ],
+    "tips": [
+      "Wer Kerne stört, streicht die erhitzten Beeren vor dem Mixen durch ein Sieb.",
+      "Statt Mandelmus passt Erdnussmus – dann eher Richtung Erdnuss-Marmelade."
+    ],
+    "art": {
+      "dish": "bowl",
+      "base": {
+        "type": "soup",
+        "color": "#9c4a7a"
+      },
+      "garnish": [
+        "berries",
+        "almonds"
+      ]
+    }
+  },
+  {
+    "id": "s03",
+    "meals": [
+      "snack"
+    ],
+    "title": "Dattel-Tahin-Shake mit Zimt",
+    "subtitle": "Karamellig von Datteln, nussig-herb von Sesam – wie flüssiges Halva.",
+    "origin": "Orientalisch inspiriert",
+    "time": {
+      "active": 6,
+      "total": 15,
+      "quick": null
+    },
+    "difficulty": 1,
+    "tags": [
+      "schnell",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": false,
+      "thermos": false,
+      "note": "Verschlossen bis zum nächsten Tag kühlen; Tahin setzt sich etwas ab, vor dem Trinken kräftig schütteln."
+    },
+    "tools": [
+      "Standmixer oder Pürierstab mit hohem Becher",
+      "Kleine Schüssel",
+      "Verschließbare Flasche 500 ml"
+    ],
+    "ingredients": [
+      {
+        "k": "dates",
+        "q": 50
+      },
+      {
+        "k": "milk",
+        "q": 350,
+        "note": "gut gekühlt"
+      },
+      {
+        "k": "quark",
+        "q": 100
+      },
+      {
+        "k": "tahini",
+        "q": 25
+      },
+      {
+        "k": "banana",
+        "q": 60
+      },
+      {
+        "k": "cinnamon",
+        "q": 1
+      },
+      {
+        "k": "salt",
+        "q": 0.3
+      }
+    ],
+    "steps": [
+      {
+        "title": "Datteln einweichen",
+        "text": "Datteln mit 50 ml heißem Wasser übergießen und 10 Minuten einweichen, bis sie weich sind. Das Einweichwasser abgießen.",
+        "action": "cut",
+        "items": [
+          "dates"
+        ],
+        "timer": 600
+      },
+      {
+        "title": "Basis mixen",
+        "text": "Datteln mit Tahin und 100 ml Milch 30 Sekunden mixen, bis eine glatte, hellbraune Paste entsteht. So bleiben keine Dattelschalen-Stückchen.",
+        "action": "blend",
+        "items": [
+          "dates",
+          "tahini",
+          "milk"
+        ]
+      },
+      {
+        "title": "Fertig mixen",
+        "text": "Quark, Banane, Zimt, Salz und die restliche Milch zugeben und 30–45 Sekunden mixen, bis der Shake cremig und leicht schaumig ist.",
+        "action": "blend",
+        "items": [
+          "quark",
+          "banana",
+          "cinnamon"
+        ]
+      },
+      {
+        "title": "Abfüllen",
+        "text": "In eine Flasche füllen, kalt trinken oder bis zum Nachmittag kühlen.",
+        "action": "plate",
+        "items": [
+          "milk"
+        ]
+      }
+    ],
+    "tips": [
+      "Tahin vorher im Glas gründlich durchrühren – das abgesetzte Öl gehört dazu.",
+      "Eine Prise gemahlener Kardamom macht ihn noch orientalischer."
+    ],
+    "art": {
+      "dish": "bowl",
+      "base": {
+        "type": "soup",
+        "color": "#cfae84"
+      },
+      "garnish": [
+        "sesame",
+        "cinnamon"
+      ]
+    }
+  },
+  {
+    "id": "s04",
+    "meals": [
+      "snack"
+    ],
+    "title": "Kokos-Limetten-Shake mit Ingwer",
+    "subtitle": "Tropisch-frisch mit Banane, Kokosmilch und einem Hauch Ingwer.",
+    "origin": "Südostasiatisch inspiriert",
+    "time": {
+      "active": 6,
+      "total": 6,
+      "quick": null
+    },
+    "difficulty": 1,
+    "tags": [
+      "schnell",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": false,
+      "thermos": false,
+      "note": "Verschlossen bis zum nächsten Tag kühlen; das Kokosfett wird kalt etwas fester – vor dem Trinken kräftig schütteln. Restliche Kokosmilch portionsweise einfrieren."
+    },
+    "tools": [
+      "Standmixer oder Pürierstab mit hohem Becher",
+      "Feine Reibe",
+      "Verschließbare Flasche 500 ml"
+    ],
+    "ingredients": [
+      {
+        "k": "coconut",
+        "q": 100,
+        "note": "gut aufgeschüttelt"
+      },
+      {
+        "k": "milk",
+        "q": 200,
+        "note": "gut gekühlt"
+      },
+      {
+        "k": "quark",
+        "q": 150
+      },
+      {
+        "k": "banana",
+        "q": 150,
+        "note": "gern gefroren"
+      },
+      {
+        "k": "oats",
+        "q": 30
+      },
+      {
+        "k": "lime",
+        "q": 10,
+        "note": "plus etwas abgeriebene Schale"
+      },
+      {
+        "k": "ginger",
+        "q": 5
+      },
+      {
+        "k": "honey",
+        "q": 10
+      },
+      {
+        "k": "coconutflakes",
+        "q": 10
+      }
+    ],
+    "steps": [
+      {
+        "title": "Ingwer und Limette vorbereiten",
+        "text": "Ingwer schälen und fein reiben. Limette heiß waschen, etwas Schale abreiben und den Saft auspressen.",
+        "action": "grate",
+        "items": [
+          "ginger",
+          "lime"
+        ]
+      },
+      {
+        "title": "Hafer und Kokos vormixen",
+        "text": "Haferflocken und Kokosraspeln mit der Milch 30 Sekunden auf höchster Stufe mixen, damit beides fein wird.",
+        "action": "blend",
+        "items": [
+          "oats",
+          "coconutflakes",
+          "milk"
+        ]
+      },
+      {
+        "title": "Fertig mixen",
+        "text": "Kokosmilch, Quark, Banane, Ingwer, Limettensaft und -schale sowie Honig zugeben und 45 Sekunden mixen, bis alles glatt und hell ist. Abschmecken: Es darf deutlich nach Limette schmecken.",
+        "action": "blend",
+        "items": [
+          "coconut",
+          "quark",
+          "banana"
+        ]
+      },
+      {
+        "title": "Abfüllen",
+        "text": "In eine Flasche füllen und gut gekühlt trinken.",
+        "action": "plate",
+        "items": [
+          "coconut"
+        ]
+      }
+    ],
+    "tips": [
+      "Gefrorene Banane ersetzt Eiswürfel und macht den Shake dicker.",
+      "Kokosmilch vor dem Öffnen kräftig schütteln, sonst landet nur die feste Fettschicht im Mixer."
+    ],
+    "art": {
+      "dish": "bowl",
+      "base": {
+        "type": "soup",
+        "color": "#f1ead2"
+      },
+      "garnish": [
+        "coconutflakes",
+        "lime"
+      ]
+    }
+  },
+  {
+    "id": "s05",
+    "meals": [
+      "snack"
+    ],
+    "title": "Kakao-Mandel-Kugeln",
+    "subtitle": "Wie Trüffelpralinen, nur aus Datteln, Mandeln und Hafer – ohne Backen.",
+    "origin": "International",
+    "time": {
+      "active": 20,
+      "total": 50,
+      "quick": null
+    },
+    "difficulty": 1,
+    "tags": [
+      "mealprep",
+      "einfrieren",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 5,
+      "freeze": true,
+      "thermos": false,
+      "note": "In einer verschlossenen Dose 5 Tage kühlen oder bis zu 2 Monate einfrieren; gefroren nach 15 Minuten essbar. Am besten gleich die 4- bis 5-fache Menge machen."
+    },
+    "tools": [
+      "Edelstahlpfanne 28 cm",
+      "Standmixer oder Pürierstab mit Zerkleinerer-Aufsatz",
+      "Schüssel",
+      "Teller mit Backpapier"
+    ],
+    "ingredients": [
+      {
+        "k": "dates",
+        "q": 50
+      },
+      {
+        "k": "almonds",
+        "q": 30
+      },
+      {
+        "k": "oats",
+        "q": 25
+      },
+      {
+        "k": "almondbutter",
+        "q": 25
+      },
+      {
+        "k": "cocoa",
+        "q": 10
+      },
+      {
+        "k": "coconutflakes",
+        "q": 8
+      },
+      {
+        "k": "salt",
+        "q": 0.2
+      },
+      {
+        "k": "water",
+        "q": 10,
+        "note": "nur bei Bedarf"
+      }
+    ],
+    "steps": [
+      {
+        "title": "Mandeln rösten",
+        "text": "Edelstahlpfanne leer 2–3 Minuten bei mittlerer Hitze vorheizen. Mandeln trocken hineingeben und 4–5 Minuten unter ständigem Schwenken rösten, bis sie duften und innen hellbraun sind. Sofort auf einen Teller geben – in der heißen Pfanne rösten sie weiter und werden bitter.",
+        "action": "toast",
+        "items": [
+          "almonds"
+        ],
+        "timer": 270
+      },
+      {
+        "title": "Trockenes zerkleinern",
+        "text": "Abgekühlte Mandeln mit Haferflocken, Kakao und Salz grob mixen – kleine Mandelstückchen dürfen bleiben.",
+        "action": "blend",
+        "items": [
+          "almonds",
+          "oats",
+          "cocoa"
+        ]
+      },
+      {
+        "title": "Masse binden",
+        "text": "Datteln und Mandelmus zugeben und mixen, bis die Masse beim Zusammendrücken zwischen den Fingern klebt. Zu trocken: teelöffelweise Wasser zugeben; harte Datteln vorher 10 Minuten einweichen.",
+        "action": "blend",
+        "items": [
+          "dates",
+          "almondbutter"
+        ]
+      },
+      {
+        "title": "Kugeln formen",
+        "text": "Mit leicht feuchten Händen 4 Kugeln à etwa 35 g formen, in Kokosraspeln wälzen und 30 Minuten kalt stellen, bis sie fest sind.",
+        "action": "shape",
+        "items": [
+          "coconutflakes",
+          "dates"
+        ],
+        "timer": 1800
+      }
+    ],
+    "tips": [
+      "Klebt die Masse am Mixermesser, Gerät ausschalten, mit dem Spatel lösen und in kurzen Intervallen weitermixen.",
+      "Medjool-Datteln binden am besten und brauchen kein Einweichen."
+    ],
+    "art": {
+      "dish": "plate",
+      "base": {
+        "type": "bites",
+        "color": "#5a3826"
+      },
+      "garnish": [
+        "coconutflakes",
+        "almonds"
+      ]
+    }
+  },
+  {
+    "id": "s06",
+    "meals": [
+      "snack"
+    ],
+    "title": "Hafer-Erdnuss-Riegel aus dem Ofen",
+    "subtitle": "Saftige Flapjacks mit Kernen und Rosinen – fest genug zum Mitnehmen.",
+    "origin": "Britisch inspiriert",
+    "time": {
+      "active": 15,
+      "total": 75,
+      "quick": null
+    },
+    "difficulty": 1,
+    "tags": [
+      "ofen",
+      "mealprep",
+      "einfrieren",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 5,
+      "freeze": true,
+      "thermos": false,
+      "note": "Einzeln in Backpapier gewickelt in einer Dose 5 Tage im Kühlschrank lagern oder bis zu 2 Monate einfrieren. Rezept am besten für 6 Portionen in einer Form 20 × 30 cm backen."
+    },
+    "tools": [
+      "Auflaufform (Glas/Keramik) ca. 15 × 20 cm pro 2 Portionen",
+      "Backpapier",
+      "Edelstahltopf 2 l",
+      "Holzspatel",
+      "Scharfes Messer"
+    ],
+    "ingredients": [
+      {
+        "k": "oats",
+        "q": 50
+      },
+      {
+        "k": "peanutbutter",
+        "q": 20
+      },
+      {
+        "k": "butter",
+        "q": 8
+      },
+      {
+        "k": "honey",
+        "q": 20
+      },
+      {
+        "k": "peanuts",
+        "q": 15,
+        "note": "grob gehackt"
+      },
+      {
+        "k": "sunflower",
+        "q": 10
+      },
+      {
+        "k": "raisins",
+        "q": 20
+      },
+      {
+        "k": "flaxseed",
+        "q": 8
+      },
+      {
+        "k": "cinnamon",
+        "q": 0.5
+      },
+      {
+        "k": "salt",
+        "q": 0.3
+      }
+    ],
+    "steps": [
+      {
+        "title": "Ofen und Form vorbereiten",
+        "text": "Ofen auf 170 °C Ober-/Unterhitze vorheizen. Form so mit Backpapier auslegen, dass es an zwei Seiten übersteht – daran hebst du die Riegel später heraus.",
+        "action": "oven",
+        "items": [
+          "oats"
+        ]
+      },
+      {
+        "title": "Bindung schmelzen",
+        "text": "Butter, Honig und Erdnussmus im Edelstahltopf bei kleiner Hitze unter Rühren 2–3 Minuten schmelzen, bis alles glatt glänzt. Nicht kochen lassen, sonst wird der Honig hart.",
+        "action": "pot",
+        "items": [
+          "butter",
+          "honey",
+          "peanutbutter"
+        ],
+        "timer": 150
+      },
+      {
+        "title": "Trockenes unterheben",
+        "text": "Topf vom Herd nehmen. Haferflocken, Leinsamen, Erdnüsse, Sonnenblumenkerne, Rosinen, Zimt und Salz unterrühren, bis alle Flocken glänzend überzogen sind. Der Leinsamen bindet beim Backen.",
+        "action": "mix",
+        "items": [
+          "oats",
+          "flaxseed",
+          "raisins"
+        ]
+      },
+      {
+        "title": "Fest andrücken und backen",
+        "text": "Masse in die Form geben und mit einem Löffelrücken sehr fest und gleichmäßig etwa 1,5 cm dick andrücken. 20–25 Minuten backen, bis die Ränder goldbraun sind; die Mitte darf noch weich wirken.",
+        "action": "oven",
+        "items": [
+          "oats",
+          "peanuts"
+        ],
+        "timer": 1320
+      },
+      {
+        "title": "Auskühlen und schneiden",
+        "text": "In der Form mindestens 30 Minuten vollständig auskühlen lassen – erst dann werden die Riegel fest. Herausheben und mit einem scharfen Messer in Riegel schneiden.",
+        "action": "cut",
+        "items": [
+          "oats"
+        ],
+        "timer": 1800
+      }
+    ],
+    "tips": [
+      "Zerbröseln sie beim Schneiden, waren sie noch warm oder zu locker angedrückt – nächstes Mal mit einem Glasboden fest pressen.",
+      "Statt Rosinen passen gehackte Datteln."
+    ],
+    "art": {
+      "dish": "plate",
+      "base": {
+        "type": "bites",
+        "color": "#c2925a"
+      },
+      "garnish": [
+        "peanuts",
+        "raisins"
+      ]
+    }
+  },
+  {
+    "id": "s07",
+    "meals": [
+      "snack"
+    ],
+    "title": "Sesam-Kürbiskern-Riegel mit Tahin",
+    "subtitle": "No-bake, nussig geröstet und mit Datteln gebunden – wie Halva mit Biss.",
+    "origin": "Orientalisch inspiriert",
+    "time": {
+      "active": 20,
+      "total": 80,
+      "quick": null
+    },
+    "difficulty": 1,
+    "tags": [
+      "mealprep",
+      "einfrieren",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 5,
+      "freeze": true,
+      "thermos": false,
+      "note": "In Backpapier gewickelt in einer Dose 5 Tage kühlen oder bis zu 2 Monate einfrieren. Bei Wärme werden sie weich – unterwegs in einer festen Dose transportieren."
+    },
+    "tools": [
+      "Edelstahlpfanne 28 cm",
+      "Holzspatel",
+      "Standmixer oder Pürierstab mit Zerkleinerer-Aufsatz",
+      "Kleine Form (Glas/Keramik) mit Backpapier"
+    ],
+    "ingredients": [
+      {
+        "k": "pumpkin",
+        "q": 25
+      },
+      {
+        "k": "sesame",
+        "q": 15
+      },
+      {
+        "k": "dates",
+        "q": 50
+      },
+      {
+        "k": "tahini",
+        "q": 25
+      },
+      {
+        "k": "oats",
+        "q": 20
+      },
+      {
+        "k": "flaxseed",
+        "q": 10
+      },
+      {
+        "k": "cinnamon",
+        "q": 0.5
+      },
+      {
+        "k": "salt",
+        "q": 0.3
+      }
+    ],
+    "steps": [
+      {
+        "title": "Kerne rösten",
+        "text": "Edelstahlpfanne leer 2–3 Minuten bei mittlerer Hitze vorheizen. Kürbiskerne trocken hineingeben und 2–3 Minuten unter ständigem Schwenken rösten, bis sie knistern und aufpoppen; dann den Sesam zugeben und 1–2 Minuten weiterschwenken, bis er hellgolden ist und duftet. Sofort auf einen Teller geben.",
+        "action": "toast",
+        "items": [
+          "pumpkin",
+          "sesame"
+        ],
+        "timer": 240
+      },
+      {
+        "title": "Dattelmasse mixen",
+        "text": "Datteln mit Tahin, Zimt und Salz zu einer klebrigen Paste mixen. Harte Datteln vorher 10 Minuten in heißem Wasser einweichen und gut abtropfen lassen.",
+        "action": "blend",
+        "items": [
+          "dates",
+          "tahini"
+        ]
+      },
+      {
+        "title": "Vermengen",
+        "text": "Paste mit Haferflocken, Leinsamen und den abgekühlten Kernen in einer Schüssel kräftig verkneten, bis alles gleichmäßig verbunden ist. 1 EL Kerne zum Bestreuen beiseitelegen.",
+        "action": "mix",
+        "items": [
+          "oats",
+          "flaxseed",
+          "pumpkin"
+        ]
+      },
+      {
+        "title": "Pressen und kühlen",
+        "text": "Masse etwa 2 cm dick in die mit Backpapier ausgelegte Form drücken, übrige Kerne aufstreuen und fest andrücken. Mindestens 1 Stunde kühlen, dann in 2 Riegel pro Portion schneiden.",
+        "action": "shape",
+        "items": [
+          "sesame",
+          "dates"
+        ],
+        "timer": 3600
+      }
+    ],
+    "tips": [
+      "Sesam verbrennt in Sekunden – sobald er goldgelb ist, raus aus der Pfanne.",
+      "Ein paar Tropfen Zitronensaft in der Dattelpaste brechen die Süße angenehm."
+    ],
+    "art": {
+      "dish": "plate",
+      "base": {
+        "type": "bites",
+        "color": "#a37a4c"
+      },
+      "garnish": [
+        "sesame",
+        "pumpkin"
+      ]
+    }
+  },
+  {
+    "id": "s08",
+    "meals": [
+      "snack"
+    ],
+    "title": "Hummus-Bowl mit Röstkichererbsen",
+    "subtitle": "Samtiger Hummus, knusprige Kichererbsen aus der Pfanne, viel gutes Olivenöl.",
+    "origin": "Levantinisch",
+    "time": {
+      "active": 20,
+      "total": 20,
+      "quick": null
+    },
+    "difficulty": 1,
+    "tags": [
+      "mealprep",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": true,
+      "thermos": false,
+      "note": "Hummus mit Öl bedeckt verschlossen bis zum nächsten Tag kühlen; größere Mengen portionsweise einfrieren. Röstkichererbsen separat in einer offenen Dose bei Raumtemperatur lagern und erst beim Essen aufstreuen, sonst werden sie weich."
+    },
+    "tools": [
+      "Pürierstab mit Becher",
+      "Edelstahlpfanne 28 cm",
+      "Holzspatel",
+      "Küchentuch",
+      "Dose zum Mitnehmen"
+    ],
+    "ingredients": [
+      {
+        "k": "chickpeas",
+        "q": 200,
+        "note": "abgetropft; 120 g für Hummus, 80 g zum Rösten"
+      },
+      {
+        "k": "tahini",
+        "q": 25
+      },
+      {
+        "k": "lemon",
+        "q": 15
+      },
+      {
+        "k": "garlic",
+        "q": 3
+      },
+      {
+        "k": "water",
+        "q": 30,
+        "note": "eiskalt"
+      },
+      {
+        "k": "cumin",
+        "q": 1
+      },
+      {
+        "k": "salt",
+        "q": 2
+      },
+      {
+        "k": "olive",
+        "q": 15,
+        "note": "8 g zum Rösten, 7 g zum Beträufeln"
+      },
+      {
+        "k": "smoked",
+        "q": 1.5
+      },
+      {
+        "k": "pumpkin",
+        "q": 10
+      },
+      {
+        "k": "pepper",
+        "q": 100
+      }
+    ],
+    "steps": [
+      {
+        "title": "Hummus pürieren",
+        "text": "Tahin, Zitronensaft, Knoblauch und Salz im Pürierbecher kurz aufschlagen, bis es hell und dick wird. 120 g Kichererbsen, Kreuzkümmel und das kalte Wasser nach und nach zugeben und 1–2 Minuten pürieren, bis der Hummus glatt und luftig ist.",
+        "action": "blend",
+        "items": [
+          "chickpeas",
+          "tahini",
+          "lemon"
+        ]
+      },
+      {
+        "title": "Kichererbsen trocknen",
+        "text": "Restliche 80 g Kichererbsen im Küchentuch gründlich trocken rubbeln. Feuchte Kichererbsen spritzen im heißen Öl und werden nicht knusprig.",
+        "action": "cut",
+        "items": [
+          "chickpeas"
+        ]
+      },
+      {
+        "title": "In der Pfanne rösten",
+        "text": "Edelstahlpfanne 2–3 Minuten bei mittlerer bis hoher Hitze vorheizen, bis ein Wassertropfen als Kugel darüberperlt. 8 g Öl zugeben, kurz warten, bis es schlierig fließt, dann Kichererbsen in einer Lage hineingeben und 2 Minuten nicht bewegen. Danach 6–8 Minuten bei mittlerer Hitze schwenken, bis sie rundum goldbraun sind und klackern; die letzten 30 Sekunden Kürbiskerne und Rauchpaprika zugeben und sofort aus der Pfanne nehmen.",
+        "action": "pan",
+        "items": [
+          "chickpeas",
+          "pumpkin",
+          "smoked"
+        ],
+        "timer": 480
+      },
+      {
+        "title": "Anrichten",
+        "text": "Hummus in eine Schale streichen, eine Mulde ziehen und mit dem restlichen Olivenöl füllen. Röstkichererbsen darauf verteilen und Paprika in Streifen dazulegen.",
+        "action": "plate",
+        "items": [
+          "olive",
+          "pepper",
+          "chickpeas"
+        ]
+      }
+    ],
+    "tips": [
+      "Eiskaltes Wasser macht den Hummus spürbar heller und fluffiger.",
+      "Kleben die Kichererbsen am Anfang, nicht kratzen – nach 1–2 Minuten lösen sie sich mit ihrer Kruste von selbst."
+    ],
+    "art": {
+      "dish": "bowl",
+      "base": {
+        "type": "dip",
+        "color": "#e3cfa3"
+      },
+      "side": {
+        "type": "beans",
+        "color": "#c98a3c"
+      },
+      "sauce": {
+        "style": "pool",
+        "color": "#b9a43a"
+      },
+      "garnish": [
+        "smoked",
+        "pumpkin"
+      ]
+    }
+  },
+  {
+    "id": "s09",
+    "meals": [
+      "snack"
+    ],
+    "title": "Bohnen-Feta-Dip mit Walnüssen",
+    "subtitle": "Salzig-cremig mit Oregano, dazu Rohkost und geröstete Walnüsse.",
+    "origin": "Griechisch inspiriert",
+    "time": {
+      "active": 15,
+      "total": 15,
+      "quick": null
+    },
+    "difficulty": 1,
+    "tags": [
+      "schnell",
+      "mealprep",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": false,
+      "thermos": false,
+      "note": "Dip verschlossen bis zum nächsten Tag kühlen. Gemüsesticks erst am Vortag schneiden und in einer Dose mit feuchtem Küchenpapier kühlen; Walnüsse separat im Glas, damit sie nicht weich werden."
+    },
+    "tools": [
+      "Edelstahlpfanne 24 cm",
+      "Pürierstab mit Becher",
+      "Sieb",
+      "Schneidebrett",
+      "Messer"
+    ],
+    "ingredients": [
+      {
+        "k": "whitebeans",
+        "q": 150,
+        "note": "abgetropft"
+      },
+      {
+        "k": "feta",
+        "q": 60
+      },
+      {
+        "k": "yogurt",
+        "q": 50
+      },
+      {
+        "k": "olive",
+        "q": 15
+      },
+      {
+        "k": "lemon",
+        "q": 10
+      },
+      {
+        "k": "garlic",
+        "q": 3
+      },
+      {
+        "k": "oregano",
+        "q": 0.5
+      },
+      {
+        "k": "chili",
+        "q": 0.3
+      },
+      {
+        "k": "walnuts",
+        "q": 25
+      },
+      {
+        "k": "carrot",
+        "q": 100
+      },
+      {
+        "k": "cucumber",
+        "q": 100
+      }
+    ],
+    "steps": [
+      {
+        "title": "Walnüsse rösten",
+        "text": "Edelstahlpfanne leer 2–3 Minuten bei mittlerer Hitze vorheizen. Walnüsse trocken 3–4 Minuten unter Schwenken rösten, bis sie duften und an den Kanten dunkler werden. Sofort auf ein Brett geben und grob hacken.",
+        "action": "toast",
+        "items": [
+          "walnuts"
+        ],
+        "timer": 210
+      },
+      {
+        "title": "Dip pürieren",
+        "text": "Bohnen im Sieb abspülen und abtropfen lassen. Mit zerbröseltem Feta, Joghurt, 10 g Olivenöl, Zitronensaft, Knoblauch und Oregano im Becher glatt pürieren. Salz ist meist nicht nötig – der Feta bringt genug.",
+        "action": "blend",
+        "items": [
+          "whitebeans",
+          "feta",
+          "yogurt"
+        ]
+      },
+      {
+        "title": "Gemüse schneiden",
+        "text": "Karotten schälen und mit der Gurke in fingerlange Sticks schneiden.",
+        "action": "cut",
+        "items": [
+          "carrot",
+          "cucumber"
+        ]
+      },
+      {
+        "title": "Anrichten",
+        "text": "Dip in eine Schale streichen, mit restlichem Olivenöl beträufeln, Chiliflocken und Walnüsse darüberstreuen und die Sticks daneben legen.",
+        "action": "plate",
+        "items": [
+          "walnuts",
+          "olive",
+          "chili"
+        ]
+      }
+    ],
+    "tips": [
+      "Etwas abgeriebene Zitronenschale macht den Dip noch frischer.",
+      "Für unterwegs Dip unten in ein Schraubglas, Sticks senkrecht hineinstecken – praktisch und auslaufsicher."
+    ],
+    "art": {
+      "dish": "plate",
+      "base": {
+        "type": "dip",
+        "color": "#efe9da"
+      },
+      "side": {
+        "type": "slices",
+        "color": "#e8792b"
+      },
+      "sauce": {
+        "style": "drizzle",
+        "color": "#b9a43a"
+      },
+      "garnish": [
+        "walnuts",
+        "chili"
+      ]
+    }
+  },
+  {
+    "id": "s10",
+    "meals": [
+      "snack"
+    ],
+    "title": "Joghurt-Bowl mit Mandel-Dukkah",
+    "subtitle": "Kühler Knoblauchjoghurt, knackige Gewürzkruste, Gurke und Tomate.",
+    "origin": "Ägyptisch inspiriert",
+    "time": {
+      "active": 15,
+      "total": 15,
+      "quick": 5
+    },
+    "difficulty": 1,
+    "tags": [
+      "schnell",
+      "mealprep",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": false,
+      "thermos": false,
+      "note": "Dukkah im Schraubglas bei Raumtemperatur 3 Wochen haltbar – gleich die 5-fache Menge rösten. Joghurt und geschnittenes Gemüse getrennt bis zum nächsten Tag kühlen, Dukkah erst beim Essen aufstreuen."
+    },
+    "tools": [
+      "Edelstahlpfanne 24 cm",
+      "Holzspatel",
+      "Messer oder Mörser",
+      "Schüssel"
+    ],
+    "ingredients": [
+      {
+        "k": "yogurt",
+        "q": 250
+      },
+      {
+        "k": "almonds",
+        "q": 25
+      },
+      {
+        "k": "sesame",
+        "q": 10
+      },
+      {
+        "k": "pumpkin",
+        "q": 10
+      },
+      {
+        "k": "cumin",
+        "q": 1
+      },
+      {
+        "k": "salt",
+        "q": 1.5
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.3
+      },
+      {
+        "k": "garlic",
+        "q": 2
+      },
+      {
+        "k": "lemon",
+        "q": 5
+      },
+      {
+        "k": "olive",
+        "q": 15
+      },
+      {
+        "k": "cucumber",
+        "q": 80
+      },
+      {
+        "k": "tomato",
+        "q": 80
+      }
+    ],
+    "steps": [
+      {
+        "title": "Nüsse und Kerne rösten",
+        "text": "Edelstahlpfanne leer 2–3 Minuten bei mittlerer Hitze vorheizen. Mandeln trocken 3 Minuten unter Schwenken rösten, Kürbiskerne zugeben und 1 Minute weiterschwenken, dann Sesam zugeben und noch 1 Minute rösten, bis er goldgelb ist. Sofort auf ein Brett geben.",
+        "action": "toast",
+        "items": [
+          "almonds",
+          "pumpkin",
+          "sesame"
+        ],
+        "timer": 300
+      },
+      {
+        "title": "Dukkah hacken",
+        "text": "Abgekühlte Mischung mit Kreuzkümmel, 1 g Salz und Pfeffer grob hacken oder im Mörser zerstoßen – es soll krümelig bleiben, nicht pastig werden.",
+        "action": "cut",
+        "items": [
+          "almonds",
+          "cumin"
+        ]
+      },
+      {
+        "title": "Joghurt anrühren",
+        "text": "Joghurt mit fein geriebenem Knoblauch, Zitronensaft und dem restlichen Salz glatt rühren. Gurke und Tomaten in kleine Würfel schneiden.",
+        "action": "mix",
+        "items": [
+          "yogurt",
+          "garlic",
+          "cucumber"
+        ]
+      },
+      {
+        "title": "Anrichten",
+        "text": "Joghurt in eine Schale streichen, Gemüsewürfel an den Rand setzen, großzügig Dukkah darüberstreuen und mit Olivenöl beträufeln.",
+        "action": "plate",
+        "items": [
+          "yogurt",
+          "olive",
+          "tomato"
+        ]
+      }
+    ],
+    "tips": [
+      "Sesam verbrennt schnell – er kommt deshalb erst zum Schluss in die Pfanne.",
+      "Mit vorbereitetem Dukkah ist die Bowl in 5 Minuten fertig."
+    ],
+    "art": {
+      "dish": "bowl",
+      "base": {
+        "type": "dip",
+        "color": "#f3efe4"
+      },
+      "side": {
+        "type": "cubes",
+        "color": "#d94a35"
+      },
+      "sauce": {
+        "style": "drizzle",
+        "color": "#b9a43a"
+      },
+      "garnish": [
+        "almonds",
+        "sesame",
+        "cucumber"
+      ]
+    }
+  },
+  {
+    "id": "s11",
+    "meals": [
+      "snack"
+    ],
+    "title": "Apfel-Zimt-Overnight-Oats",
+    "subtitle": "Über Nacht cremig gezogen, mit Walnüssen, Rosinen und Leinsamen.",
+    "origin": "Schweizerisch inspiriert",
+    "time": {
+      "active": 8,
+      "total": 488,
+      "quick": null
+    },
+    "difficulty": 1,
+    "tags": [
+      "mealprep",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": false,
+      "thermos": false,
+      "note": "Am Vorabend im verschlossenen Glas ansetzen und am nächsten Tag essen (roher Apfel, Milch). Walnüsse erst morgens oder beim Essen aufstreuen, damit sie knackig bleiben."
+    },
+    "tools": [
+      "Schraubglas 600 ml",
+      "Reibe",
+      "Löffel"
+    ],
+    "ingredients": [
+      {
+        "k": "oats",
+        "q": 60
+      },
+      {
+        "k": "milk",
+        "q": 200
+      },
+      {
+        "k": "yogurt",
+        "q": 100
+      },
+      {
+        "k": "apple",
+        "q": 100
+      },
+      {
+        "k": "raisins",
+        "q": 15
+      },
+      {
+        "k": "flaxseed",
+        "q": 10
+      },
+      {
+        "k": "walnuts",
+        "q": 20
+      },
+      {
+        "k": "honey",
+        "q": 10
+      },
+      {
+        "k": "cinnamon",
+        "q": 1
+      },
+      {
+        "k": "salt",
+        "q": 0.2
+      }
+    ],
+    "steps": [
+      {
+        "title": "Apfel reiben",
+        "text": "Apfel waschen und mit Schale grob reiben, das Kerngehäuse übrig lassen.",
+        "action": "grate",
+        "items": [
+          "apple"
+        ]
+      },
+      {
+        "title": "Alles verrühren",
+        "text": "Haferflocken, Leinsamen, Rosinen, Zimt, Salz und Honig im Glas mischen, dann Milch, Joghurt und den geriebenen Apfel unterrühren, bis keine trockenen Flocken mehr zu sehen sind.",
+        "action": "mix",
+        "items": [
+          "oats",
+          "milk",
+          "yogurt"
+        ]
+      },
+      {
+        "title": "Über Nacht quellen lassen",
+        "text": "Glas verschließen und mindestens 8 Stunden kühlen. Die Flocken und der Leinsamen saugen die Flüssigkeit auf und werden weich und cremig.",
+        "action": "jar",
+        "items": [
+          "oats",
+          "flaxseed"
+        ],
+        "timer": 28800
+      },
+      {
+        "title": "Toppen",
+        "text": "Vor dem Essen durchrühren – zu fest, dann einen Schuss Milch zugeben – und die grob gehackten Walnüsse darüberstreuen.",
+        "action": "plate",
+        "items": [
+          "walnuts",
+          "cinnamon"
+        ]
+      }
+    ],
+    "tips": [
+      "Walnüsse 3 Minuten trocken in der vorgeheizten Edelstahlpfanne geröstet schmecken viel runder.",
+      "Säuerliche Äpfel wie Boskoop oder Elstar bringen Frische gegen die Süße der Rosinen."
+    ],
+    "art": {
+      "dish": "bowl",
+      "base": {
+        "type": "porridge",
+        "color": "#e3d3b4"
+      },
+      "garnish": [
+        "walnuts",
+        "raisins",
+        "apple"
+      ]
+    }
+  },
+  {
+    "id": "s12",
+    "meals": [
+      "snack"
+    ],
+    "title": "Schoko-Erdnuss-Quarkcreme mit Banane",
+    "subtitle": "Wie Mousse, nur mit viel Eiweiß – dazu Banane und geröstete Erdnüsse.",
+    "origin": "International",
+    "time": {
+      "active": 10,
+      "total": 10,
+      "quick": null
+    },
+    "difficulty": 1,
+    "tags": [
+      "schnell",
+      "proteinreich",
+      "mealprep"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": false,
+      "thermos": false,
+      "note": "Creme verschlossen bis zum nächsten Tag kühlen. Banane erst beim Essen schneiden, Erdnüsse separat mitnehmen."
+    },
+    "tools": [
+      "Edelstahlpfanne 24 cm",
+      "Schneebesen",
+      "Schüssel",
+      "Dose zum Mitnehmen"
+    ],
+    "ingredients": [
+      {
+        "k": "quark",
+        "q": 200
+      },
+      {
+        "k": "cream",
+        "q": 40
+      },
+      {
+        "k": "peanutbutter",
+        "q": 20
+      },
+      {
+        "k": "cocoa",
+        "q": 8
+      },
+      {
+        "k": "honey",
+        "q": 15
+      },
+      {
+        "k": "salt",
+        "q": 0.2
+      },
+      {
+        "k": "banana",
+        "q": 100
+      },
+      {
+        "k": "peanuts",
+        "q": 15
+      }
+    ],
+    "steps": [
+      {
+        "title": "Erdnüsse rösten",
+        "text": "Edelstahlpfanne leer 2–3 Minuten bei mittlerer Hitze vorheizen. Erdnüsse trocken 3–4 Minuten unter Schwenken rösten, bis sie goldbraun sind und duften, sofort auf ein Brett geben und grob hacken.",
+        "action": "toast",
+        "items": [
+          "peanuts"
+        ],
+        "timer": 210
+      },
+      {
+        "title": "Schoko-Basis anrühren",
+        "text": "Kakao, Honig, Salz und Erdnussmus mit der Sahne glatt rühren, bis keine Kakaoklümpchen mehr da sind. Erst so verteilt sich der Kakao im Quark gleichmäßig.",
+        "action": "mix",
+        "items": [
+          "cocoa",
+          "cream",
+          "peanutbutter"
+        ]
+      },
+      {
+        "title": "Quark unterschlagen",
+        "text": "Quark zugeben und mit dem Schneebesen 1 Minute kräftig aufschlagen, bis die Creme glänzt und luftig ist.",
+        "action": "mix",
+        "items": [
+          "quark",
+          "cocoa"
+        ]
+      },
+      {
+        "title": "Anrichten",
+        "text": "Creme in eine Schale oder Dose füllen, Banane in Scheiben darauflegen und die Erdnüsse darüberstreuen.",
+        "action": "plate",
+        "items": [
+          "banana",
+          "peanuts"
+        ]
+      }
+    ],
+    "tips": [
+      "Sahne macht die Creme mousse-artig; für noch mehr Energie 10 g mehr Erdnussmus einrühren.",
+      "Eine Prise Zimt oder Espressopulver vertieft den Schokogeschmack."
+    ],
+    "art": {
+      "dish": "bowl",
+      "base": {
+        "type": "porridge",
+        "color": "#7a5240"
+      },
+      "garnish": [
+        "banana",
+        "peanuts"
+      ]
+    }
+  }
+]

@@ -1,0 +1,2462 @@
+[
+  {
+    "id": "l01",
+    "meals": [
+      "lunch"
+    ],
+    "title": "Rote-Linsen-Dal mit Spinat",
+    "subtitle": "Dickes Kokos-Dal mit Ingwer, Spinat und Basmati – Cashews obendrauf.",
+    "origin": "Nordindisch inspiriert",
+    "time": {
+      "active": 25,
+      "total": 45,
+      "quick": 12
+    },
+    "difficulty": 1,
+    "tags": [
+      "thermobox",
+      "mealprep",
+      "einfrieren",
+      "onepot",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freeze": true,
+      "thermos": true,
+      "note": "Dal 2 Tage gekühlt oder portionsweise eingefroren (2 Monate). Reis separat: rasch abkühlen, nur bis zum nächsten Tag kühlen, sonst portionsweise einfrieren (1 Monat). Morgens mit 1–2 EL Wasser sprudelnd aufkochen. Was nicht in die Box passt, abends essen."
+    },
+    "components": [
+      {
+        "key": "cooked-rice",
+        "q": 30
+      }
+    ],
+    "tools": [
+      "Edelstahltopf 3 l mit Deckel",
+      "Edelstahltopf 2 l (Reis)",
+      "Holzlöffel",
+      "Thermobox 650 ml + kleine Extra-Dose"
+    ],
+    "ingredients": [
+      {
+        "k": "redlentils",
+        "q": 90,
+        "note": "in einem Sieb abgespült"
+      },
+      {
+        "k": "rice",
+        "q": 30,
+        "note": "Basmati"
+      },
+      {
+        "k": "onion",
+        "q": 60
+      },
+      {
+        "k": "garlic",
+        "q": 6
+      },
+      {
+        "k": "ginger",
+        "q": 10
+      },
+      {
+        "k": "rapeseed",
+        "q": 10
+      },
+      {
+        "k": "curry",
+        "q": 3
+      },
+      {
+        "k": "turmeric",
+        "q": 1
+      },
+      {
+        "k": "cumin",
+        "q": 2
+      },
+      {
+        "k": "cannedtomato",
+        "q": 60
+      },
+      {
+        "k": "coconut",
+        "q": 80
+      },
+      {
+        "k": "water",
+        "q": 180,
+        "note": "135 ml fürs Dal, 45 ml für den Reis"
+      },
+      {
+        "k": "spinach",
+        "q": 60,
+        "note": "TK, ohne Auftauen"
+      },
+      {
+        "k": "salt",
+        "q": 2
+      },
+      {
+        "k": "lime",
+        "q": 10
+      },
+      {
+        "k": "yogurt",
+        "q": 40,
+        "note": "Extra-Dose",
+        "side": true
+      },
+      {
+        "k": "cashews",
+        "q": 20,
+        "note": "geröstet, Extra-Dose",
+        "side": true
+      }
+    ],
+    "steps": [
+      {
+        "title": "Aromaten anschwitzen",
+        "text": "Zwiebel fein würfeln, Knoblauch und Ingwer reiben. Den Topf bei mittlerer Hitze 2 Minuten vorheizen, Öl hineingeben und die Zwiebel 5–6 Minuten glasig-hellgold schwitzen. Knoblauch, Ingwer, Curry, Kurkuma und Kreuzkümmel 1 Minute mitrösten, bis es duftet – nicht dunkel werden lassen.",
+        "action": "pot",
+        "items": [
+          "onion",
+          "ginger",
+          "curry"
+        ],
+        "timer": 360
+      },
+      {
+        "title": "Dick einkochen",
+        "text": "Linsen, Tomaten, Kokosmilch und 135 ml Wasser zugeben, die Gewürzreste vom Boden lösen und aufkochen. Halb zugedeckt 18–20 Minuten leise köcheln und öfter umrühren, bis die Linsen zerfallen und das Dal dick wie Brei ist – es setzt sonst an. TK-Spinat einrühren, 4 Minuten weiterköcheln, salzen und mit Limettensaft abschmecken.",
+        "action": "pot",
+        "items": [
+          "redlentils",
+          "coconut",
+          "spinach"
+        ],
+        "timer": 1200
+      },
+      {
+        "title": "Reis garen und schnell kühlen",
+        "text": "Reis abspülen und mit 45 ml Wasser und einer Prise Salz zugedeckt 12 Minuten bei kleinster Hitze garen, 5 Minuten ruhen lassen. Reis und Dal flach in Dosen verteilen, offen ausdampfen lassen und innerhalb einer Stunde in den Kühlschrank stellen.",
+        "action": "pot",
+        "items": [
+          "rice"
+        ],
+        "timer": 720
+      },
+      {
+        "title": "Morgens aufkochen und füllen",
+        "action": "jar",
+        "items": [
+          "redlentils",
+          "rice",
+          "cashews"
+        ],
+        "timer": 300,
+        "text": "Box 5–10 Minuten mit kochendem Wasser vorheizen. Eine Portion mit 1–2 EL Wasser im kleinen Edelstahltopf unter Rühren sprudelnd aufkochen und 1–2 Minuten durchkochen. Box leeren, randvoll füllen (650 ml), sofort verschließen und innerhalb von 4 Stunden essen. Joghurt und Cashews in die kleine Extra-Dose."
+      }
+    ],
+    "tips": [
+      "Dal ist im Kühlschrank fast fest – das ist gewollt: Sämig eingekocht passt mehr Sättigung in die Box. Morgens nur 1–2 EL Wasser zugeben.",
+      "Für den Vorrat einfach die doppelte oder dreifache Menge kochen; der Reis wird jeden Abend frisch für den nächsten Tag gegart."
+    ],
+    "art": {
+      "dish": "jar",
+      "base": {
+        "type": "curry",
+        "color": "#d99a2b"
+      },
+      "side": {
+        "type": "rice",
+        "color": "#f3ecd9"
+      },
+      "sauce": {
+        "style": "dollop",
+        "color": "#f6f1e4"
+      },
+      "garnish": [
+        "spinach",
+        "lime"
+      ]
+    }
+  },
+  {
+    "id": "l02",
+    "meals": [
+      "lunch"
+    ],
+    "title": "Chili sin Carne",
+    "subtitle": "Kidneybohnen, Mais und rote Linsen – rauchig, sämig, fleischlos satt.",
+    "origin": "Tex-Mex inspiriert",
+    "time": {
+      "active": 25,
+      "total": 50,
+      "quick": 12
+    },
+    "difficulty": 1,
+    "tags": [
+      "thermobox",
+      "mealprep",
+      "einfrieren",
+      "onepot",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freeze": true,
+      "thermos": true,
+      "note": "Chili 2 Tage gekühlt, portionsweise eingefroren 2 Monate. Reis separat schnell abkühlen, nur bis zum nächsten Tag kühlen, sonst portionsweise einfrieren (1 Monat). Morgens mit 1–2 EL Wasser sprudelnd aufkochen. Was nicht in die Box passt, abends essen."
+    },
+    "components": [
+      {
+        "key": "cooked-rice",
+        "q": 35
+      }
+    ],
+    "tools": [
+      "Edelstahltopf 3 l mit Deckel",
+      "Edelstahltopf 2 l (Reis)",
+      "Holzlöffel",
+      "Thermobox 650 ml + kleine Extra-Dose"
+    ],
+    "ingredients": [
+      {
+        "k": "onion",
+        "q": 60
+      },
+      {
+        "k": "garlic",
+        "q": 6
+      },
+      {
+        "k": "pepper",
+        "q": 70
+      },
+      {
+        "k": "rapeseed",
+        "q": 20
+      },
+      {
+        "k": "paste",
+        "q": 20
+      },
+      {
+        "k": "cumin",
+        "q": 2
+      },
+      {
+        "k": "smoked",
+        "q": 3
+      },
+      {
+        "k": "oregano",
+        "q": 1
+      },
+      {
+        "k": "chili",
+        "q": 0.5
+      },
+      {
+        "k": "cinnamon",
+        "q": 0.3
+      },
+      {
+        "k": "cannedtomato",
+        "q": 100
+      },
+      {
+        "k": "redlentils",
+        "q": 45,
+        "note": "binden das Chili und liefern Eiweiß"
+      },
+      {
+        "k": "water",
+        "q": 50
+      },
+      {
+        "k": "kidney",
+        "q": 80
+      },
+      {
+        "k": "corn",
+        "q": 40
+      },
+      {
+        "k": "salt",
+        "q": 2
+      },
+      {
+        "k": "rice",
+        "q": 35
+      },
+      {
+        "k": "cheese",
+        "q": 30,
+        "note": "gerieben, Extra-Dose",
+        "side": true
+      },
+      {
+        "k": "yogurt",
+        "q": 30,
+        "note": "Extra-Dose",
+        "side": true
+      }
+    ],
+    "steps": [
+      {
+        "title": "Gemüse schneiden",
+        "text": "Zwiebel und Paprika in 1-cm-Würfel schneiden, Knoblauch fein hacken. Kidneybohnen und Mais in einem Sieb abspülen und abtropfen lassen.",
+        "action": "cut",
+        "items": [
+          "onion",
+          "pepper",
+          "kidney"
+        ]
+      },
+      {
+        "title": "Anschwitzen und Tomatenmark rösten",
+        "text": "Topf 2 Minuten bei mittlerer Hitze vorheizen, Öl hinein, Zwiebel und Paprika 6–7 Minuten anschwitzen, bis die Zwiebel Farbe nimmt. Knoblauch, Tomatenmark und alle Gewürze zugeben und 1–2 Minuten rösten, bis das Mark rostrot ist und am Boden leicht ansetzt.",
+        "action": "pot",
+        "items": [
+          "onion",
+          "pepper",
+          "paste"
+        ],
+        "timer": 420
+      },
+      {
+        "title": "Ablöschen und dick einkochen",
+        "text": "Mit den Tomaten und 50 ml Wasser ablöschen und den Bodensatz mit dem Holzlöffel lösen. Linsen, Bohnen und Mais zugeben, aufkochen und halb zugedeckt 25 Minuten leise köcheln, öfter umrühren, bis die Linsen zerfallen und das Chili dick und sämig ist. Salzen; parallel den Reis wie gewohnt garen und beides flach ausgebreitet zügig abkühlen.",
+        "action": "deglaze",
+        "items": [
+          "cannedtomato",
+          "redlentils",
+          "kidney"
+        ],
+        "timer": 1500
+      },
+      {
+        "title": "Morgens aufkochen und füllen",
+        "action": "jar",
+        "items": [
+          "kidney",
+          "rice",
+          "cheese"
+        ],
+        "timer": 300,
+        "text": "Box 5–10 Minuten mit kochendem Wasser vorheizen. Eine Portion mit 1–2 EL Wasser im kleinen Edelstahltopf unter Rühren sprudelnd aufkochen und 1–2 Minuten durchkochen. Box leeren, randvoll füllen (650 ml), sofort verschließen und innerhalb von 4 Stunden essen. Geriebenen Käse und Joghurt in die kleine Extra-Dose – der Käse schmilzt beim Essen auf dem heißen Chili."
+      }
+    ],
+    "tips": [
+      "Das Tomatenmark darf am Topfboden ansetzen – genau dieser Fond gibt dem Chili die Tiefe. Erst lösen, wenn er rostbraun ist, nicht schwarz.",
+      "Gleich die vierfache Menge kochen und portionsweise einfrieren – das Chili wird beim Auftauen eher besser."
+    ],
+    "art": {
+      "dish": "jar",
+      "base": {
+        "type": "stew",
+        "color": "#9e3a24"
+      },
+      "side": {
+        "type": "rice",
+        "color": "#f3ecd9"
+      },
+      "sauce": {
+        "style": "dollop",
+        "color": "#f6f1e4"
+      },
+      "garnish": [
+        "corn",
+        "chili"
+      ]
+    }
+  },
+  {
+    "id": "l03",
+    "meals": [
+      "lunch",
+      "dinner"
+    ],
+    "title": "Chili con Carne",
+    "subtitle": "Kräftig angebratenes Rinderhack, Bohnen und ein Hauch Zimt.",
+    "origin": "Tex-Mex",
+    "time": {
+      "active": 30,
+      "total": 75,
+      "quick": 12
+    },
+    "difficulty": 1,
+    "tags": [
+      "thermobox",
+      "mealprep",
+      "einfrieren",
+      "onepot",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": true,
+      "thermos": true,
+      "note": "Chili nur bis zum nächsten Tag kühlen, sonst portionsweise einfrieren (2 Monate). Reis separat rasch abkühlen, nur bis zum nächsten Tag kühlen, sonst portionsweise einfrieren (1 Monat). Morgens mit 1–2 EL Wasser sprudelnd aufkochen, bis es an allen Stellen blubbert."
+    },
+    "components": [
+      {
+        "key": "cooked-rice",
+        "q": 40
+      }
+    ],
+    "tools": [
+      "Edelstahl-Bräter oder Edelstahltopf 4 l mit Deckel",
+      "Holzspatel",
+      "Edelstahltopf 2 l (Reis)",
+      "Thermobox 650 ml + kleine Extra-Dose"
+    ],
+    "ingredients": [
+      {
+        "k": "beefmince",
+        "q": 125
+      },
+      {
+        "k": "rapeseed",
+        "q": 8
+      },
+      {
+        "k": "onion",
+        "q": 60
+      },
+      {
+        "k": "pepper",
+        "q": 60
+      },
+      {
+        "k": "garlic",
+        "q": 6
+      },
+      {
+        "k": "paste",
+        "q": 20
+      },
+      {
+        "k": "cumin",
+        "q": 2
+      },
+      {
+        "k": "smoked",
+        "q": 2
+      },
+      {
+        "k": "oregano",
+        "q": 1
+      },
+      {
+        "k": "chili",
+        "q": 0.5
+      },
+      {
+        "k": "cinnamon",
+        "q": 0.3
+      },
+      {
+        "k": "cannedtomato",
+        "q": 100
+      },
+      {
+        "k": "broth",
+        "q": 3
+      },
+      {
+        "k": "water",
+        "q": 30,
+        "note": "ein Schluck"
+      },
+      {
+        "k": "kidney",
+        "q": 90
+      },
+      {
+        "k": "corn",
+        "q": 40
+      },
+      {
+        "k": "salt",
+        "q": 1.5
+      },
+      {
+        "k": "rice",
+        "q": 40
+      },
+      {
+        "k": "cheese",
+        "q": 25,
+        "note": "gerieben, Extra-Dose",
+        "side": true
+      },
+      {
+        "k": "schmand",
+        "q": 35,
+        "note": "Extra-Dose",
+        "side": true
+      }
+    ],
+    "steps": [
+      {
+        "title": "Hack scharf anbraten",
+        "text": "Bräter leer 3 Minuten bei mittlerer bis hoher Hitze vorheizen, bis ein Wassertropfen als Kugel über den Boden perlt. Öl hinein, Hack als flache Platte einlegen und 3–4 Minuten nicht bewegen – es klebt erst und löst sich, sobald die Unterseite braun ist. Dann zerteilen und weitere 3 Minuten krümelig braten; bei 3–4 Portionen in zwei Durchgängen arbeiten.",
+        "action": "pan",
+        "items": [
+          "beefmince"
+        ],
+        "timer": 240
+      },
+      {
+        "title": "Gemüse und Gewürze",
+        "text": "Hitze auf mittel, Zwiebel- und Paprikawürfel zum Hack geben und 5 Minuten mitbraten. Knoblauch, Tomatenmark und Gewürze 1–2 Minuten mitrösten, bis der Boden eine dunkle, aber nicht verbrannte Schicht zeigt.",
+        "action": "pan",
+        "items": [
+          "onion",
+          "pepper",
+          "paste"
+        ],
+        "timer": 300
+      },
+      {
+        "title": "Ablöschen und dick schmoren",
+        "text": "Mit den Tomaten und einem Schluck Wasser (30 ml) mit Brühe ablöschen, den Fond vom Boden kratzen. Bohnen und Mais zugeben, aufkochen und halb zugedeckt 40 Minuten leise schmoren, ab und zu umrühren, bis das Chili dick ist. Mit Salz abschmecken; Reis separat garen, beides flach verteilt rasch abkühlen.",
+        "action": "deglaze",
+        "items": [
+          "cannedtomato",
+          "kidney",
+          "corn"
+        ],
+        "timer": 2400
+      },
+      {
+        "title": "Morgens aufkochen und füllen",
+        "action": "jar",
+        "items": [
+          "beefmince",
+          "rice",
+          "cheese"
+        ],
+        "timer": 300,
+        "text": "Box 5–10 Minuten mit kochendem Wasser vorheizen. Eine Portion mit 1–2 EL Wasser im kleinen Edelstahltopf unter Rühren sprudelnd aufkochen und 2 Minuten durchkochen, damit auch die Fleischstücke innen heiß sind. Box leeren, randvoll füllen (650 ml), sofort verschließen und innerhalb von 4 Stunden essen. Käse und Schmand in die kleine Extra-Dose."
+      }
+    ],
+    "tips": [
+      "Hack nie kalt aus dem Kühlschrank in großen Mengen einlegen – die Temperatur bricht ein und es kocht statt zu braten.",
+      "Für mehrere Tage: Chili in Portionen einfrieren und jeweils am Vorabend im Kühlschrank auftauen."
+    ],
+    "art": {
+      "dish": "jar",
+      "base": {
+        "type": "stew",
+        "color": "#7f2f1d"
+      },
+      "side": {
+        "type": "rice",
+        "color": "#f3ecd9"
+      },
+      "garnish": [
+        "corn",
+        "chili"
+      ]
+    }
+  },
+  {
+    "id": "l04",
+    "meals": [
+      "lunch",
+      "dinner"
+    ],
+    "title": "Hähnchen-Kokos-Curry mit Süßkartoffel",
+    "subtitle": "Saftige Schenkel, weiche Süßkartoffel und eine milde Kokossauce.",
+    "origin": "Südostasiatisch-indisch inspiriert",
+    "time": {
+      "active": 30,
+      "total": 50,
+      "quick": 12
+    },
+    "difficulty": 2,
+    "tags": [
+      "thermobox",
+      "mealprep",
+      "einfrieren",
+      "onepot",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": true,
+      "thermos": true,
+      "note": "Nur bis zum nächsten Tag kühlen, sonst portionsweise einfrieren (2 Monate). Morgens mit 1–2 EL Wasser sprudelnd aufkochen, bis das Hähnchen durch und durch heiß ist."
+    },
+    "tools": [
+      "Edelstahl-Bräter oder Edelstahltopf 4 l mit Deckel",
+      "Holzspatel",
+      "Thermobox 650 ml + kleine Extra-Dose"
+    ],
+    "ingredients": [
+      {
+        "k": "chickenthigh",
+        "q": 160
+      },
+      {
+        "k": "rapeseed",
+        "q": 10
+      },
+      {
+        "k": "onion",
+        "q": 60
+      },
+      {
+        "k": "garlic",
+        "q": 6
+      },
+      {
+        "k": "ginger",
+        "q": 10
+      },
+      {
+        "k": "curry",
+        "q": 4
+      },
+      {
+        "k": "garam",
+        "q": 2
+      },
+      {
+        "k": "turmeric",
+        "q": 1
+      },
+      {
+        "k": "cannedtomato",
+        "q": 60
+      },
+      {
+        "k": "coconut",
+        "q": 130
+      },
+      {
+        "k": "sweetpotato",
+        "q": 150
+      },
+      {
+        "k": "spinach",
+        "q": 60
+      },
+      {
+        "k": "salt",
+        "q": 2
+      },
+      {
+        "k": "lime",
+        "q": 10
+      },
+      {
+        "k": "cashews",
+        "q": 20,
+        "note": "geröstet, Extra-Dose",
+        "side": true
+      }
+    ],
+    "steps": [
+      {
+        "title": "Hähnchen anbraten",
+        "text": "Schenkel trocken tupfen und in 3-cm-Stücke schneiden. Bräter 3 Minuten bei mittlerer bis hoher Hitze vorheizen (Wassertropfen perlt als Kugel), Öl zugeben und das Fleisch locker in einer Lage einlegen. 3 Minuten nicht bewegen, bis es sich von selbst löst, wenden und weitere 2 Minuten bräunen; herausnehmen.",
+        "action": "pan",
+        "items": [
+          "chickenthigh"
+        ],
+        "timer": 300
+      },
+      {
+        "title": "Currybasis",
+        "text": "Hitze auf mittel, Zwiebel im Bratfett 4 Minuten anschwitzen, Knoblauch, Ingwer und Gewürze 1 Minute mitrösten. Mit den Tomaten ablöschen und den braunen Bratsatz vom Boden lösen.",
+        "action": "deglaze",
+        "items": [
+          "onion",
+          "ginger",
+          "curry"
+        ],
+        "timer": 300
+      },
+      {
+        "title": "Schmoren",
+        "text": "Süßkartoffel in 2-cm-Würfel schneiden. Mit der Kokosmilch und dem Hähnchen samt Saft in den Bräter geben – kein Wasser, die Sauce soll dick werden. Aufkochen und zugedeckt 20 Minuten leise köcheln, bis die Süßkartoffel weich ist. Spinat einrühren, 3 Minuten ziehen lassen, mit Salz und Limette abschmecken. Portionsweise flach abkühlen.",
+        "action": "pot",
+        "items": [
+          "sweetpotato",
+          "coconut",
+          "spinach"
+        ],
+        "timer": 1200
+      },
+      {
+        "title": "Morgens aufkochen und füllen",
+        "action": "jar",
+        "items": [
+          "chickenthigh",
+          "sweetpotato",
+          "cashews"
+        ],
+        "timer": 300,
+        "text": "Box 5–10 Minuten mit kochendem Wasser vorheizen. Eine Portion mit 1–2 EL Wasser im kleinen Edelstahltopf unter Rühren sprudelnd aufkochen und 2 Minuten durchkochen, damit auch die Fleischstücke innen heiß sind. Box leeren, randvoll füllen (650 ml), sofort verschließen und innerhalb von 4 Stunden essen. Cashews in die kleine Extra-Dose."
+      }
+    ],
+    "tips": [
+      "Schenkel statt Brust: Das Fleisch übersteht Schmoren, Kühlen und erneutes Aufkochen, ohne trocken zu werden.",
+      "Wird die Sauce zu dick, nur löffelweise Wasser zugeben – die Kokosmilch trägt die Kalorien, nicht das Wasser."
+    ],
+    "art": {
+      "dish": "jar",
+      "base": {
+        "type": "curry",
+        "color": "#e0a046"
+      },
+      "garnish": [
+        "spinach",
+        "lime"
+      ]
+    }
+  },
+  {
+    "id": "l05",
+    "meals": [
+      "lunch",
+      "dinner"
+    ],
+    "title": "Rindergulasch-Eintopf mit Kartoffeln",
+    "subtitle": "Langsam geschmortes Rind, Paprika und Kartoffeln in einer Schüssel.",
+    "origin": "Ungarisch-österreichisch",
+    "time": {
+      "active": 35,
+      "total": 140,
+      "quick": 12
+    },
+    "difficulty": 2,
+    "tags": [
+      "thermobox",
+      "mealprep",
+      "einfrieren",
+      "onepot",
+      "proteinreich",
+      "wochenende"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": true,
+      "thermos": true,
+      "note": "Nur bis zum nächsten Tag kühlen, sonst portionsweise einfrieren (2 Monate; Kartoffeln werden etwas weicher). Morgens mit 1–2 EL Wasser sprudelnd aufkochen. Was nicht in die Box passt, abends essen."
+    },
+    "tools": [
+      "Edelstahl-Bräter mit Deckel",
+      "Holzspatel",
+      "Thermobox 650 ml + kleine Extra-Dose"
+    ],
+    "ingredients": [
+      {
+        "k": "beef",
+        "q": 180
+      },
+      {
+        "k": "rapeseed",
+        "q": 25
+      },
+      {
+        "k": "onion",
+        "q": 90
+      },
+      {
+        "k": "garlic",
+        "q": 6
+      },
+      {
+        "k": "paste",
+        "q": 25
+      },
+      {
+        "k": "paprika",
+        "q": 6
+      },
+      {
+        "k": "smoked",
+        "q": 2
+      },
+      {
+        "k": "thyme",
+        "q": 1
+      },
+      {
+        "k": "vinegar",
+        "q": 5
+      },
+      {
+        "k": "broth",
+        "q": 5
+      },
+      {
+        "k": "water",
+        "q": 100,
+        "note": "die Zwiebeln geben zusätzlich Saft"
+      },
+      {
+        "k": "pepper",
+        "q": 80
+      },
+      {
+        "k": "carrot",
+        "q": 40
+      },
+      {
+        "k": "potato",
+        "q": 120
+      },
+      {
+        "k": "salt",
+        "q": 2
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      },
+      {
+        "k": "schmand",
+        "q": 50,
+        "note": "Extra-Dose",
+        "side": true
+      }
+    ],
+    "steps": [
+      {
+        "title": "Fleisch portionsweise bräunen",
+        "text": "Rind in 3-cm-Würfel schneiden und sehr gut trocken tupfen. Bräter 3 Minuten bei mittlerer bis hoher Hitze vorheizen, bis ein Wassertropfen als Kugel tanzt, Öl hinein. Fleisch in zwei bis drei Durchgängen mit Abstand einlegen, 3–4 Minuten unbewegt braten, bis es sich löst, wenden und rundum bräunen; herausnehmen.",
+        "action": "pan",
+        "items": [
+          "beef"
+        ],
+        "timer": 240
+      },
+      {
+        "title": "Zwiebeln und Paprikapulver",
+        "text": "Hitze auf mittel, Zwiebeln in Streifen 8–10 Minuten im Bratfett goldbraun schmoren. Knoblauch und Tomatenmark 1 Minute rösten, Topf kurz von der Platte nehmen und Paprikapulver einrühren – es verbrennt sonst und wird bitter.",
+        "action": "pot",
+        "items": [
+          "onion",
+          "paste",
+          "paprika"
+        ],
+        "timer": 540
+      },
+      {
+        "title": "Ablöschen und schmoren",
+        "text": "Mit Essig und 100 ml Wasser ablöschen, den gesamten Fond vom Boden lösen. Fleisch, Brühe und Thymian zugeben und fest zugedeckt bei kleinster Hitze 75 Minuten schmoren; nur wenn es ansetzt, einen Schluck Wasser nachgießen.",
+        "action": "deglaze",
+        "items": [
+          "beef",
+          "water"
+        ],
+        "timer": 4500
+      },
+      {
+        "title": "Gemüse mitgaren",
+        "text": "Kartoffeln schälen und in 2-cm-Würfel, Paprika und Karotten in mundgerechte Stücke schneiden. Alles zum Gulasch geben und zugedeckt weitere 25 Minuten köcheln, bis Fleisch und Kartoffeln weich sind und die Sauce dick ist. Salzen, pfeffern und portionsweise rasch abkühlen.",
+        "action": "pot",
+        "items": [
+          "potato",
+          "pepper",
+          "carrot"
+        ],
+        "timer": 1500
+      },
+      {
+        "title": "Morgens aufkochen und füllen",
+        "action": "jar",
+        "items": [
+          "beef",
+          "potato",
+          "schmand"
+        ],
+        "timer": 300,
+        "text": "Box 5–10 Minuten mit kochendem Wasser vorheizen. Eine Portion mit 1–2 EL Wasser im kleinen Edelstahltopf unter Rühren sprudelnd aufkochen und 2 Minuten durchkochen, damit auch die Fleischstücke innen heiß sind. Box leeren, randvoll füllen (650 ml), sofort verschließen und innerhalb von 4 Stunden essen. Schmand in die kleine Extra-Dose."
+      }
+    ],
+    "tips": [
+      "Wird das Fleisch nach 100 Minuten noch nicht zart, einfach weiterschmoren – Schulter braucht manchmal zwei Stunden.",
+      "Lohnt sich für 4 Portionen auf einmal: zwei abkühlen und einfrieren, eine für morgen, eine gleich essen."
+    ],
+    "art": {
+      "dish": "jar",
+      "base": {
+        "type": "stew",
+        "color": "#8a3a1f"
+      },
+      "garnish": [
+        "pepper",
+        "parsley"
+      ]
+    }
+  },
+  {
+    "id": "l06",
+    "meals": [
+      "lunch",
+      "dinner"
+    ],
+    "title": "Kichererbsen-Tomaten-Eintopf mit Feta",
+    "subtitle": "Würzige Tomaten, Kichererbsen, Bulgur – und salziger Feta obenauf.",
+    "origin": "Levantinisch-griechisch inspiriert",
+    "time": {
+      "active": 20,
+      "total": 40,
+      "quick": 10
+    },
+    "difficulty": 1,
+    "tags": [
+      "thermobox",
+      "mealprep",
+      "einfrieren",
+      "onepot",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freeze": true,
+      "thermos": true,
+      "note": "Eintopf 2 Tage gekühlt, ohne Feta portionsweise eingefroren 2 Monate. Bulgur zieht nach: morgens mit 1–2 EL Wasser sprudelnd aufkochen."
+    },
+    "tools": [
+      "Edelstahltopf 3 l mit Deckel",
+      "Holzlöffel",
+      "Thermobox 650 ml + kleine Extra-Dose"
+    ],
+    "ingredients": [
+      {
+        "k": "olive",
+        "q": 20
+      },
+      {
+        "k": "onion",
+        "q": 60
+      },
+      {
+        "k": "garlic",
+        "q": 6
+      },
+      {
+        "k": "pepper",
+        "q": 60
+      },
+      {
+        "k": "zucchini",
+        "q": 50
+      },
+      {
+        "k": "cumin",
+        "q": 2
+      },
+      {
+        "k": "paprika",
+        "q": 2
+      },
+      {
+        "k": "smoked",
+        "q": 1
+      },
+      {
+        "k": "oregano",
+        "q": 1
+      },
+      {
+        "k": "chili",
+        "q": 0.3
+      },
+      {
+        "k": "cannedtomato",
+        "q": 100
+      },
+      {
+        "k": "broth",
+        "q": 3
+      },
+      {
+        "k": "water",
+        "q": 40
+      },
+      {
+        "k": "chickpeas",
+        "q": 140
+      },
+      {
+        "k": "tahini",
+        "q": 15,
+        "note": "macht den Eintopf cremig"
+      },
+      {
+        "k": "bulgur",
+        "q": 40
+      },
+      {
+        "k": "spinach",
+        "q": 50
+      },
+      {
+        "k": "salt",
+        "q": 1.5
+      },
+      {
+        "k": "lemon",
+        "q": 10
+      },
+      {
+        "k": "feta",
+        "q": 45,
+        "note": "Extra-Dose",
+        "side": true
+      },
+      {
+        "k": "pumpkin",
+        "q": 15,
+        "note": "Kürbiskerne, Extra-Dose",
+        "side": true
+      }
+    ],
+    "steps": [
+      {
+        "title": "Gemüse anschwitzen",
+        "text": "Zwiebel, Paprika und Zucchini in 1-cm-Würfel schneiden. Topf 2 Minuten bei mittlerer Hitze vorheizen, Öl hinein und Zwiebel mit Paprika 5 Minuten anschwitzen. Zucchini, Knoblauch und Gewürze zugeben und 2 Minuten mitbraten, bis es intensiv duftet.",
+        "action": "pot",
+        "items": [
+          "onion",
+          "pepper",
+          "zucchini"
+        ],
+        "timer": 420
+      },
+      {
+        "title": "Eintopf dick köcheln",
+        "text": "Tomaten, 40 ml Wasser mit Brühe und abgespülte Kichererbsen zugeben, den Bodensatz lösen und aufkochen. Bulgur und TK-Spinat einrühren und halb zugedeckt 15 Minuten leise köcheln, bis der Bulgur gar und der Eintopf dick ist. Tahin einrühren, mit Salz und Zitrone abschmecken, flach abkühlen.",
+        "action": "pot",
+        "items": [
+          "chickpeas",
+          "bulgur",
+          "tahini"
+        ],
+        "timer": 900
+      },
+      {
+        "title": "Morgens aufkochen und füllen",
+        "action": "jar",
+        "items": [
+          "chickpeas",
+          "feta",
+          "pumpkin"
+        ],
+        "timer": 300,
+        "text": "Box 5–10 Minuten mit kochendem Wasser vorheizen. Eine Portion mit 1–2 EL Wasser im kleinen Edelstahltopf unter Rühren sprudelnd aufkochen und 1–2 Minuten durchkochen. Box leeren, randvoll füllen (650 ml), sofort verschließen und innerhalb von 4 Stunden essen. Feta und Kürbiskerne in die kleine Extra-Dose und erst beim Essen darüberstreuen."
+      }
+    ],
+    "tips": [
+      "Statt Bulgur gehen auch 30 g kleine Suppennudeln (eifrei) – die dann aber erst morgens mitkochen, sonst quellen sie zu Brei.",
+      "Tahin erst am Ende einrühren: Es bindet sofort und macht den Eintopf sämig, ohne dass mehr Volumen in die Box muss."
+    ],
+    "art": {
+      "dish": "jar",
+      "base": {
+        "type": "stew",
+        "color": "#c0492e"
+      },
+      "sauce": {
+        "style": "dollop",
+        "color": "#f4f1ea"
+      },
+      "garnish": [
+        "feta",
+        "parsley"
+      ]
+    }
+  },
+  {
+    "id": "l07",
+    "meals": [
+      "lunch"
+    ],
+    "title": "Linseneintopf mit Karotten und Lauch",
+    "subtitle": "Klassisch, ehrlich und mit einem Schuss Essig zum Schluss.",
+    "origin": "Deutsche Hausmannskost",
+    "time": {
+      "active": 25,
+      "total": 60,
+      "quick": 10
+    },
+    "difficulty": 1,
+    "tags": [
+      "thermobox",
+      "mealprep",
+      "einfrieren",
+      "onepot",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freeze": true,
+      "thermos": true,
+      "note": "Eintopf 2 Tage gekühlt, portionsweise eingefroren 2 Monate. Dickt nach – morgens mit 1–2 EL Wasser sprudelnd aufkochen."
+    },
+    "components": [
+      {
+        "key": "cooked-lentils",
+        "q": 100
+      }
+    ],
+    "tools": [
+      "Edelstahltopf 4 l mit Deckel",
+      "Holzlöffel",
+      "Thermobox 650 ml + kleine Extra-Dose"
+    ],
+    "ingredients": [
+      {
+        "k": "rapeseed",
+        "q": 20
+      },
+      {
+        "k": "onion",
+        "q": 50
+      },
+      {
+        "k": "garlic",
+        "q": 4
+      },
+      {
+        "k": "carrot",
+        "q": 60
+      },
+      {
+        "k": "celery",
+        "q": 25
+      },
+      {
+        "k": "leek",
+        "q": 60
+      },
+      {
+        "k": "paste",
+        "q": 15
+      },
+      {
+        "k": "lentils",
+        "q": 100,
+        "note": "Tellerlinsen"
+      },
+      {
+        "k": "potato",
+        "q": 80
+      },
+      {
+        "k": "thyme",
+        "q": 1
+      },
+      {
+        "k": "broth",
+        "q": 5
+      },
+      {
+        "k": "water",
+        "q": 210
+      },
+      {
+        "k": "vinegar",
+        "q": 10
+      },
+      {
+        "k": "mustard",
+        "q": 5
+      },
+      {
+        "k": "salt",
+        "q": 1.5
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      },
+      {
+        "k": "parsley",
+        "q": 5,
+        "note": "zum Schluss einrühren"
+      },
+      {
+        "k": "schmand",
+        "q": 40,
+        "note": "Extra-Dose",
+        "side": true
+      },
+      {
+        "k": "walnuts",
+        "q": 20,
+        "note": "grob gehackt, Extra-Dose",
+        "side": true
+      }
+    ],
+    "steps": [
+      {
+        "title": "Suppengemüse schneiden",
+        "text": "Zwiebel fein würfeln, Karotten und Sellerie in 1-cm-Würfel, Lauch längs halbieren, gründlich waschen und in Halbringe schneiden. Kartoffeln schälen und 1,5 cm groß würfeln.",
+        "action": "cut",
+        "items": [
+          "carrot",
+          "leek",
+          "potato"
+        ]
+      },
+      {
+        "title": "Anschwitzen",
+        "text": "Topf 2 Minuten bei mittlerer Hitze vorheizen, Öl hinein, Zwiebel, Karotten und Sellerie 6 Minuten anschwitzen, bis sie leicht Farbe nehmen. Knoblauch und Tomatenmark 1 Minute mitrösten, dann den Lauch 2 Minuten zusammenfallen lassen.",
+        "action": "pot",
+        "items": [
+          "onion",
+          "carrot",
+          "paste"
+        ],
+        "timer": 480
+      },
+      {
+        "title": "Linsen dick garen",
+        "text": "Linsen abspülen, mit 210 ml Wasser, Brühe und Thymian zugeben, Bodensatz lösen und aufkochen. Zugedeckt 15 Minuten köcheln, dann die Kartoffeln zugeben und weitere 20 Minuten garen, bis Linsen und Kartoffeln weich sind – der Eintopf soll dick sein, nicht suppig. Erst jetzt mit Salz, Pfeffer, Senf und Essig abschmecken, Petersilie einrühren.",
+        "action": "pot",
+        "items": [
+          "lentils",
+          "potato",
+          "vinegar"
+        ],
+        "timer": 2100
+      },
+      {
+        "title": "Morgens aufkochen und füllen",
+        "action": "jar",
+        "items": [
+          "lentils",
+          "schmand",
+          "walnuts"
+        ],
+        "timer": 300,
+        "text": "Box 5–10 Minuten mit kochendem Wasser vorheizen. Eine Portion mit 1–2 EL Wasser im kleinen Edelstahltopf unter Rühren sprudelnd aufkochen und 1–2 Minuten durchkochen. Box leeren, randvoll füllen (650 ml), sofort verschließen und innerhalb von 4 Stunden essen. Schmand und Walnüsse in die kleine Extra-Dose."
+      }
+    ],
+    "tips": [
+      "Salz und Essig erst ans Ende – sonst bleiben die Linsen hart.",
+      "Der Schmand-Klecks mit Walnüssen macht den schlichten Eintopf rund und bringt die Kalorien, die sonst Wasser wären."
+    ],
+    "art": {
+      "dish": "jar",
+      "base": {
+        "type": "stew",
+        "color": "#7a5a3a"
+      },
+      "garnish": [
+        "carrot",
+        "parsley"
+      ]
+    }
+  },
+  {
+    "id": "l08",
+    "meals": [
+      "lunch"
+    ],
+    "title": "Kürbis-Kokos-Suppe mit Kichererbsen",
+    "subtitle": "Samtige Hokkaidosuppe mit Kichererbsen und gerösteten Kürbiskernen.",
+    "origin": "Herbstküche mit Thai-Note",
+    "time": {
+      "active": 20,
+      "total": 40,
+      "quick": 10
+    },
+    "difficulty": 1,
+    "tags": [
+      "thermobox",
+      "mealprep",
+      "einfrieren",
+      "onepot",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freeze": true,
+      "thermos": true,
+      "note": "Suppe 2 Tage gekühlt, portionsweise eingefroren 2 Monate. Kürbiskerne in einem Schraubglas trocken lagern. Morgens mit 1–2 EL Wasser sprudelnd aufkochen."
+    },
+    "tools": [
+      "Edelstahltopf 3 l mit Deckel",
+      "Pürierstab",
+      "Edelstahlpfanne 24 cm (Kerne)",
+      "Thermobox 650 ml + kleine Extra-Dose"
+    ],
+    "ingredients": [
+      {
+        "k": "pumpkinflesh",
+        "q": 160
+      },
+      {
+        "k": "onion",
+        "q": 50
+      },
+      {
+        "k": "garlic",
+        "q": 4
+      },
+      {
+        "k": "ginger",
+        "q": 10
+      },
+      {
+        "k": "curry",
+        "q": 3
+      },
+      {
+        "k": "redlentils",
+        "q": 70,
+        "note": "machen die Suppe sämig und eiweißreich"
+      },
+      {
+        "k": "broth",
+        "q": 4
+      },
+      {
+        "k": "water",
+        "q": 130
+      },
+      {
+        "k": "coconut",
+        "q": 140
+      },
+      {
+        "k": "chickpeas",
+        "q": 60,
+        "note": "abgespült, kommen ganz in die Suppe"
+      },
+      {
+        "k": "lime",
+        "q": 10
+      },
+      {
+        "k": "salt",
+        "q": 1
+      },
+      {
+        "k": "pumpkin",
+        "q": 25,
+        "note": "Kürbiskerne, Extra-Dose",
+        "side": true
+      }
+    ],
+    "steps": [
+      {
+        "title": "Suppe ansetzen",
+        "text": "Kürbis waschen, entkernen und mit Schale grob würfeln, Zwiebel grob schneiden. Topf 2 Minuten bei mittlerer Hitze vorheizen, Zwiebel mit etwas Kokosmilch 4 Minuten weich dünsten, Knoblauch, Ingwer und Curry 1 Minute mitrösten. Kürbis, abgespülte Linsen, 130 ml Wasser, Brühe und die restliche Kokosmilch zugeben und zugedeckt 20 Minuten köcheln, bis alles weich ist.",
+        "action": "pot",
+        "items": [
+          "pumpkinflesh",
+          "redlentils",
+          "coconut"
+        ],
+        "timer": 1200
+      },
+      {
+        "title": "Pürieren",
+        "text": "Mit dem Pürierstab sehr fein mixen – die Suppe ist bewusst dick, eher wie ein Püree. Kichererbsen einrühren, 2 Minuten mitköcheln, mit Salz und Limettensaft abschmecken und portionsweise abkühlen.",
+        "action": "blend",
+        "items": [
+          "pumpkinflesh",
+          "chickpeas",
+          "lime"
+        ]
+      },
+      {
+        "title": "Kerne rösten",
+        "text": "Kürbiskerne in der trockenen Edelstahlpfanne bei mittlerer Hitze 3–4 Minuten rösten, bis sie knacken und duften. Auskühlen lassen.",
+        "action": "toast",
+        "items": [
+          "pumpkin"
+        ],
+        "timer": 210
+      },
+      {
+        "title": "Morgens aufkochen und füllen",
+        "action": "jar",
+        "items": [
+          "pumpkinflesh",
+          "pumpkin"
+        ],
+        "timer": 300,
+        "text": "Box 5–10 Minuten mit kochendem Wasser vorheizen. Eine Portion mit 1–2 EL Wasser im kleinen Edelstahltopf unter Rühren sprudelnd aufkochen und 1–2 Minuten durchkochen. Box leeren, randvoll füllen (650 ml), sofort verschließen und innerhalb von 4 Stunden essen. Kürbiskerne in die kleine Extra-Dose."
+      }
+    ],
+    "tips": [
+      "Dicke Suppen setzen im Topf leicht an: beim Aufkochen ständig rühren.",
+      "Kürbiskerne gleich für die ganze Woche rösten – im Schraubglas bleiben sie knusprig."
+    ],
+    "art": {
+      "dish": "jar",
+      "base": {
+        "type": "soup",
+        "color": "#e8892f"
+      },
+      "sauce": {
+        "style": "drizzle",
+        "color": "#f5efe1"
+      },
+      "garnish": [
+        "chickpeas",
+        "pumpkin"
+      ]
+    }
+  },
+  {
+    "id": "l09",
+    "meals": [
+      "lunch",
+      "dinner"
+    ],
+    "title": "Ofenrisotto mit Pilzen und Erbsen",
+    "subtitle": "Cremig ohne Dauerrühren – Champignons, Erbsen und Parmesan.",
+    "origin": "Norditalienisch",
+    "time": {
+      "active": 20,
+      "total": 45,
+      "quick": 10
+    },
+    "difficulty": 1,
+    "tags": [
+      "thermobox",
+      "mealprep",
+      "ofen",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": true,
+      "thermos": true,
+      "note": "Reisgericht: rasch abkühlen, nur bis zum nächsten Tag kühlen, sonst sofort portionsweise einfrieren (1 Monat). Morgens mit 1–2 EL Wasser unter Rühren sprudelnd aufkochen, bis es überall blubbert."
+    },
+    "tools": [
+      "Edelstahl-Bräter mit Deckel (ofenfest)",
+      "Holzspatel",
+      "Thermobox 650 ml + kleine Extra-Dose"
+    ],
+    "ingredients": [
+      {
+        "k": "olive",
+        "q": 12
+      },
+      {
+        "k": "mushroom",
+        "q": 120
+      },
+      {
+        "k": "onion",
+        "q": 40
+      },
+      {
+        "k": "garlic",
+        "q": 4
+      },
+      {
+        "k": "risotto",
+        "q": 80
+      },
+      {
+        "k": "broth",
+        "q": 5
+      },
+      {
+        "k": "water",
+        "q": 230
+      },
+      {
+        "k": "thyme",
+        "q": 0.5
+      },
+      {
+        "k": "peas",
+        "q": 90
+      },
+      {
+        "k": "butter",
+        "q": 12
+      },
+      {
+        "k": "parmesan",
+        "q": 25,
+        "note": "Parmigiano Reggiano, nicht Grana Padano (Lysozym aus Ei)"
+      },
+      {
+        "k": "lemon",
+        "q": 5
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      },
+      {
+        "k": "parmesan",
+        "q": 20,
+        "note": "Parmigiano Reggiano, Extra-Dose",
+        "side": true
+      },
+      {
+        "k": "pine",
+        "q": 15,
+        "note": "geröstet, Extra-Dose",
+        "side": true
+      }
+    ],
+    "steps": [
+      {
+        "title": "Pilze anbraten",
+        "text": "Ofen auf 200 °C Ober-/Unterhitze vorheizen. Bräter auf dem Herd 3 Minuten bei mittlerer bis hoher Hitze vorheizen, Wassertropfen-Test machen, Öl hinein und die geviertelten Pilze in einer Lage einlegen. 3 Minuten unbewegt braten, bis sie goldbraun sind und sich lösen, dann durchschwenken.",
+        "action": "pan",
+        "items": [
+          "mushroom"
+        ],
+        "timer": 180
+      },
+      {
+        "title": "Reis anschwitzen und ablöschen",
+        "text": "Hitze auf mittel, Zwiebel und Knoblauch 3 Minuten mitschwitzen, Risottoreis zugeben und 1–2 Minuten rühren, bis die Körner glasig glänzen. Mit 230 ml heißem Wasser mit Brühe ablöschen, den Pilzfond vom Boden lösen, Thymian zugeben und aufkochen.",
+        "action": "deglaze",
+        "items": [
+          "risotto",
+          "onion",
+          "water"
+        ],
+        "timer": 180
+      },
+      {
+        "title": "Im Ofen garen",
+        "text": "Deckel auflegen und den Bräter 20 Minuten in den Ofen schieben (Topfgriffe mit Topflappen anfassen!). Herausnehmen, TK-Erbsen unterrühren und weitere 5 Minuten zugedeckt ziehen lassen.",
+        "action": "oven",
+        "items": [
+          "risotto",
+          "peas"
+        ],
+        "timer": 1200
+      },
+      {
+        "title": "Mantecare",
+        "text": "Butter und 25 g geriebenen Parmesan 1 Minute kräftig unterrühren, bis das Risotto cremig ist. Mit Zitrone und Pfeffer abschmecken. Für Meal-Prep sofort flach in Dosen verteilen und innerhalb einer Stunde kühlen.",
+        "action": "mix",
+        "items": [
+          "butter",
+          "parmesan"
+        ]
+      },
+      {
+        "title": "Morgens aufkochen und füllen",
+        "action": "jar",
+        "items": [
+          "risotto",
+          "parmesan",
+          "pine"
+        ],
+        "timer": 300,
+        "text": "Box 5–10 Minuten mit kochendem Wasser vorheizen. Eine Portion mit 1–2 EL Wasser im kleinen Edelstahltopf unter Rühren sprudelnd aufkochen und 1–2 Minuten durchkochen. Box leeren, randvoll füllen (650 ml), sofort verschließen und innerhalb von 4 Stunden essen. Restlichen Parmesan und Pinienkerne in die kleine Extra-Dose."
+      }
+    ],
+    "tips": [
+      "Risotto für die Box cremig, aber nicht suppig einfüllen – zu viel Wasser nimmt nur Platz weg.",
+      "Wer mehr Eiweiß möchte, rührt 60 g weiße Bohnen mit den Erbsen unter; dafür 20 g Pilze weniger."
+    ],
+    "art": {
+      "dish": "jar",
+      "base": {
+        "type": "rice",
+        "color": "#e9dcbc"
+      },
+      "garnish": [
+        "peas",
+        "mushroom",
+        "parmesan"
+      ]
+    }
+  },
+  {
+    "id": "l10",
+    "meals": [
+      "lunch"
+    ],
+    "title": "Toskanischer Weiße-Bohnen-Eintopf",
+    "subtitle": "Bohnen, Gemüse und Spinat in Tomatenbrühe – mit Parmesan und gutem Öl.",
+    "origin": "Toskanisch inspiriert (Ribollita-Art)",
+    "time": {
+      "active": 25,
+      "total": 55,
+      "quick": 10
+    },
+    "difficulty": 1,
+    "tags": [
+      "thermobox",
+      "mealprep",
+      "einfrieren",
+      "onepot",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freeze": true,
+      "thermos": true,
+      "note": "Eintopf 2 Tage gekühlt, portionsweise eingefroren 2 Monate. Morgens mit 1–2 EL Wasser sprudelnd aufkochen."
+    },
+    "tools": [
+      "Edelstahltopf 4 l mit Deckel",
+      "Holzlöffel",
+      "Thermobox 650 ml + kleine Extra-Dose"
+    ],
+    "ingredients": [
+      {
+        "k": "olive",
+        "q": 30,
+        "note": "gutes Olivenöl"
+      },
+      {
+        "k": "onion",
+        "q": 50
+      },
+      {
+        "k": "carrot",
+        "q": 50
+      },
+      {
+        "k": "celery",
+        "q": 30
+      },
+      {
+        "k": "garlic",
+        "q": 6
+      },
+      {
+        "k": "thyme",
+        "q": 1
+      },
+      {
+        "k": "chili",
+        "q": 0.3
+      },
+      {
+        "k": "cannedtomato",
+        "q": 80
+      },
+      {
+        "k": "broth",
+        "q": 4
+      },
+      {
+        "k": "water",
+        "q": 80
+      },
+      {
+        "k": "potato",
+        "q": 50
+      },
+      {
+        "k": "redlentils",
+        "q": 25,
+        "note": "zerfallen und binden"
+      },
+      {
+        "k": "whitebeans",
+        "q": 170
+      },
+      {
+        "k": "spinach",
+        "q": 60,
+        "note": "oder 80 g frischer Grünkohl"
+      },
+      {
+        "k": "salt",
+        "q": 1.5
+      },
+      {
+        "k": "blackpepper",
+        "q": 0.5
+      },
+      {
+        "k": "parmesan",
+        "q": 25,
+        "note": "Parmigiano Reggiano, Extra-Dose",
+        "side": true
+      },
+      {
+        "k": "pine",
+        "q": 15,
+        "note": "geröstet, Extra-Dose",
+        "side": true
+      }
+    ],
+    "steps": [
+      {
+        "title": "Soffritto",
+        "text": "Zwiebel, Karotte und Sellerie fein würfeln. Topf 2 Minuten bei mittlerer Hitze vorheizen, 20 g Öl hinein und das Gemüse 8 Minuten langsam weich und leicht golden schwitzen. Knoblauch, Thymian und Chili 1 Minute mitgaren.",
+        "action": "pot",
+        "items": [
+          "onion",
+          "carrot",
+          "celery"
+        ],
+        "timer": 540
+      },
+      {
+        "title": "Eintopf dick köcheln",
+        "text": "Tomaten, 80 ml Wasser, Brühe, abgespülte rote Linsen und gewürfelte Kartoffeln zugeben, aufkochen und 15 Minuten köcheln. Bohnen abspülen, zwei Drittel zugeben, den Rest mit einer Gabel zerdrücken und einrühren – das bindet.",
+        "action": "pot",
+        "items": [
+          "redlentils",
+          "potato",
+          "whitebeans"
+        ],
+        "timer": 900
+      },
+      {
+        "title": "Spinat und Öl einrühren",
+        "text": "Spinat zugeben und weitere 6 Minuten köcheln, bis der Eintopf dick ist (Grünkohl: in feinen Streifen 15 Minuten). Das restliche Öl einrühren, salzen, pfeffern und portionsweise abkühlen.",
+        "action": "pot",
+        "items": [
+          "spinach",
+          "olive"
+        ],
+        "timer": 360
+      },
+      {
+        "title": "Morgens aufkochen und füllen",
+        "action": "jar",
+        "items": [
+          "whitebeans",
+          "parmesan",
+          "pine"
+        ],
+        "timer": 300,
+        "text": "Box 5–10 Minuten mit kochendem Wasser vorheizen. Eine Portion mit 1–2 EL Wasser im kleinen Edelstahltopf unter Rühren sprudelnd aufkochen und 1–2 Minuten durchkochen. Box leeren, randvoll füllen (650 ml), sofort verschließen und innerhalb von 4 Stunden essen. Parmesan und Pinienkerne in die kleine Extra-Dose."
+      }
+    ],
+    "tips": [
+      "Die zerdrückten Bohnen und die roten Linsen sind der Trick: Sie machen den Eintopf sämig, ganz ohne Mehl und ohne viel Flüssigkeit.",
+      "Im Winter mit frischem Grünkohl – der wird beim Aufwärmen sogar besser."
+    ],
+    "art": {
+      "dish": "jar",
+      "base": {
+        "type": "stew",
+        "color": "#b5562f"
+      },
+      "sauce": {
+        "style": "drizzle",
+        "color": "#c9b13a"
+      },
+      "garnish": [
+        "parmesan",
+        "spinach"
+      ]
+    }
+  },
+  {
+    "id": "l11",
+    "meals": [
+      "lunch",
+      "dinner"
+    ],
+    "title": "Hähnchen-Reis-Topf (Arroz meloso)",
+    "subtitle": "Saftiger spanischer Reistopf mit Paprika, Erbsen und gerösteten Mandeln.",
+    "origin": "Spanisch",
+    "time": {
+      "active": 30,
+      "total": 50,
+      "quick": 12
+    },
+    "difficulty": 2,
+    "tags": [
+      "thermobox",
+      "mealprep",
+      "einfrieren",
+      "onepot",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": true,
+      "thermos": true,
+      "note": "Reisgericht mit Hähnchen: rasch abkühlen, nur bis zum nächsten Tag kühlen, sonst portionsweise einfrieren (1 Monat). Morgens mit 1–2 EL Wasser sprudelnd aufkochen."
+    },
+    "tools": [
+      "Edelstahl-Bräter oder weiter Edelstahltopf mit Deckel",
+      "Holzspatel",
+      "Thermobox 650 ml + kleine Extra-Dose"
+    ],
+    "ingredients": [
+      {
+        "k": "chickenthigh",
+        "q": 160
+      },
+      {
+        "k": "olive",
+        "q": 18
+      },
+      {
+        "k": "onion",
+        "q": 50
+      },
+      {
+        "k": "pepper",
+        "q": 60
+      },
+      {
+        "k": "garlic",
+        "q": 6
+      },
+      {
+        "k": "smoked",
+        "q": 3
+      },
+      {
+        "k": "paprika",
+        "q": 2
+      },
+      {
+        "k": "turmeric",
+        "q": 1,
+        "note": "statt Safran"
+      },
+      {
+        "k": "cannedtomato",
+        "q": 60
+      },
+      {
+        "k": "risotto",
+        "q": 65,
+        "note": "Rundkornreis"
+      },
+      {
+        "k": "broth",
+        "q": 5
+      },
+      {
+        "k": "water",
+        "q": 180
+      },
+      {
+        "k": "peas",
+        "q": 50
+      },
+      {
+        "k": "salt",
+        "q": 1
+      },
+      {
+        "k": "lemon",
+        "q": 10
+      },
+      {
+        "k": "parsley",
+        "q": 5,
+        "note": "zum Schluss einrühren"
+      },
+      {
+        "k": "almonds",
+        "q": 20,
+        "note": "geröstet, grob gehackt, Extra-Dose",
+        "side": true
+      }
+    ],
+    "steps": [
+      {
+        "title": "Hähnchen anbraten",
+        "text": "Schenkel trocken tupfen, in 3-cm-Stücke schneiden und leicht salzen. Bräter 3 Minuten bei mittlerer bis hoher Hitze vorheizen (Wassertropfen perlt als Kugel), Öl hinein, Fleisch in einer Lage 3 Minuten unbewegt braten, wenden und weitere 2 Minuten bräunen. Herausnehmen.",
+        "action": "pan",
+        "items": [
+          "chickenthigh"
+        ],
+        "timer": 300
+      },
+      {
+        "title": "Sofrito",
+        "text": "Hitze auf mittel, Zwiebel und Paprika 6 Minuten im Bratfett weich schmoren. Knoblauch, Rauchpaprika, Paprika und Kurkuma 30 Sekunden einrühren, dann sofort die Tomaten zugeben und den Fond vom Boden lösen. 5 Minuten einkochen, bis die Masse dicklich ist.",
+        "action": "deglaze",
+        "items": [
+          "onion",
+          "pepper",
+          "cannedtomato"
+        ],
+        "timer": 360
+      },
+      {
+        "title": "Reis köcheln",
+        "text": "Reis 1 Minute im Sofrito rühren, 180 ml Wasser mit Brühe und das Hähnchen samt Saft zugeben. Zugedeckt bei kleiner Hitze 16 Minuten köcheln, gelegentlich umrühren; der Reis soll gar und cremig-saftig (meloso) sein. Erbsen 3 Minuten mitgaren, mit Zitrone, Petersilie und Salz abschmecken, sofort flach abkühlen.",
+        "action": "pot",
+        "items": [
+          "risotto",
+          "peas",
+          "chickenthigh"
+        ],
+        "timer": 960
+      },
+      {
+        "title": "Morgens aufkochen und füllen",
+        "action": "jar",
+        "items": [
+          "risotto",
+          "chickenthigh",
+          "almonds"
+        ],
+        "timer": 300,
+        "text": "Box 5–10 Minuten mit kochendem Wasser vorheizen. Eine Portion mit 1–2 EL Wasser im kleinen Edelstahltopf unter Rühren sprudelnd aufkochen und 2 Minuten durchkochen, damit auch die Fleischstücke innen heiß sind. Box leeren, randvoll füllen (650 ml), sofort verschließen und innerhalb von 4 Stunden essen. Mandeln in die kleine Extra-Dose."
+      }
+    ],
+    "tips": [
+      "Meloso heißt „cremig-saftig“: weniger Brühe als ein Caldoso, so passt eine sättigende Portion in die Box.",
+      "Reis nie lauwarm stehen lassen: flach verteilt kühlt er in 30 Minuten ab und kommt dann sofort in den Kühlschrank."
+    ],
+    "art": {
+      "dish": "jar",
+      "base": {
+        "type": "rice",
+        "color": "#d98f3a"
+      },
+      "garnish": [
+        "peas",
+        "pepper",
+        "parsley"
+      ]
+    }
+  },
+  {
+    "id": "l12",
+    "meals": [
+      "lunch"
+    ],
+    "title": "Aloo Matar mit Kichererbsen",
+    "subtitle": "Kartoffel-Erbsen-Curry in würziger Tomatensauce, mit Joghurt dazu.",
+    "origin": "Nordindisch",
+    "time": {
+      "active": 25,
+      "total": 45,
+      "quick": 10
+    },
+    "difficulty": 1,
+    "tags": [
+      "thermobox",
+      "mealprep",
+      "einfrieren",
+      "onepot"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freeze": true,
+      "thermos": true,
+      "note": "2 Tage gekühlt, portionsweise eingefroren 2 Monate. Morgens mit 1–2 EL Wasser sprudelnd aufkochen."
+    },
+    "tools": [
+      "Edelstahltopf 3 l mit Deckel",
+      "Holzlöffel",
+      "Thermobox 650 ml + kleine Extra-Dose"
+    ],
+    "ingredients": [
+      {
+        "k": "rapeseed",
+        "q": 22
+      },
+      {
+        "k": "cumin",
+        "q": 2
+      },
+      {
+        "k": "onion",
+        "q": 60
+      },
+      {
+        "k": "garlic",
+        "q": 6
+      },
+      {
+        "k": "ginger",
+        "q": 10
+      },
+      {
+        "k": "turmeric",
+        "q": 1
+      },
+      {
+        "k": "garam",
+        "q": 3
+      },
+      {
+        "k": "chili",
+        "q": 0.5
+      },
+      {
+        "k": "cannedtomato",
+        "q": 100
+      },
+      {
+        "k": "potato",
+        "q": 100
+      },
+      {
+        "k": "water",
+        "q": 40
+      },
+      {
+        "k": "chickpeas",
+        "q": 190
+      },
+      {
+        "k": "peas",
+        "q": 80
+      },
+      {
+        "k": "salt",
+        "q": 2
+      },
+      {
+        "k": "coriander",
+        "q": 5,
+        "note": "zum Schluss einrühren"
+      },
+      {
+        "k": "yogurt",
+        "q": 40,
+        "note": "Extra-Dose",
+        "side": true
+      },
+      {
+        "k": "cashews",
+        "q": 20,
+        "note": "geröstet, Extra-Dose",
+        "side": true
+      }
+    ],
+    "steps": [
+      {
+        "title": "Gewürze im Öl wecken",
+        "text": "Topf 2 Minuten bei mittlerer Hitze vorheizen, Öl hinein und den Kreuzkümmel 30 Sekunden darin brutzeln lassen, bis er duftet. Zwiebel zugeben und 6–7 Minuten goldbraun braten.",
+        "action": "pot",
+        "items": [
+          "cumin",
+          "onion"
+        ],
+        "timer": 420
+      },
+      {
+        "title": "Masala kochen",
+        "text": "Knoblauch, Ingwer, Kurkuma, Garam Masala und Chili 1 Minute mitrösten, dann die Tomaten zugeben und den Bodensatz lösen. 5 Minuten einkochen, bis sich am Rand Öl absetzt – das ist das Zeichen für eine fertige Masala.",
+        "action": "deglaze",
+        "items": [
+          "garlic",
+          "ginger",
+          "cannedtomato"
+        ],
+        "timer": 300
+      },
+      {
+        "title": "Kartoffeln garen",
+        "text": "Kartoffeln schälen, in 2-cm-Würfel schneiden und mit 40 ml Wasser und den abgespülten Kichererbsen zugeben. Zugedeckt bei kleiner Hitze 15 Minuten köcheln, bis die Kartoffeln fast weich sind, dann die Erbsen 5 Minuten mitgaren. Ein paar Kartoffelwürfel zerdrücken, damit die Sauce bindet. Salzen, Koriander einrühren, portionsweise abkühlen.",
+        "action": "pot",
+        "items": [
+          "potato",
+          "chickpeas",
+          "peas"
+        ],
+        "timer": 1200
+      },
+      {
+        "title": "Morgens aufkochen und füllen",
+        "action": "jar",
+        "items": [
+          "chickpeas",
+          "yogurt",
+          "cashews"
+        ],
+        "timer": 300,
+        "text": "Box 5–10 Minuten mit kochendem Wasser vorheizen. Eine Portion mit 1–2 EL Wasser im kleinen Edelstahltopf unter Rühren sprudelnd aufkochen und 1–2 Minuten durchkochen. Box leeren, randvoll füllen (650 ml), sofort verschließen und innerhalb von 4 Stunden essen. Joghurt und Cashews in die kleine Extra-Dose."
+      }
+    ],
+    "tips": [
+      "Mit so wenig Wasser kann es am Boden ansetzen: Deckel drauf, kleine Hitze und zweimal umrühren.",
+      "Wer keinen Koriander mag, nimmt glatte Petersilie und etwas Limettenabrieb."
+    ],
+    "art": {
+      "dish": "jar",
+      "base": {
+        "type": "curry",
+        "color": "#c97a2c"
+      },
+      "sauce": {
+        "style": "dollop",
+        "color": "#f6f1e4"
+      },
+      "garnish": [
+        "peas",
+        "coriander"
+      ]
+    }
+  },
+  {
+    "id": "l13",
+    "meals": [
+      "lunch",
+      "dinner"
+    ],
+    "title": "Ofen-Ratatouille mit weißen Bohnen und Bulgur",
+    "subtitle": "Geröstetes Sommergemüse, Bohnen und Bulgur in Tomatensauce.",
+    "origin": "Provenzalisch",
+    "time": {
+      "active": 25,
+      "total": 60,
+      "quick": 10
+    },
+    "difficulty": 1,
+    "tags": [
+      "thermobox",
+      "mealprep",
+      "einfrieren",
+      "ofen",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 2,
+      "freeze": true,
+      "thermos": true,
+      "note": "2 Tage gekühlt, portionsweise eingefroren 2 Monate. Bulgur zieht nach – morgens mit 1–2 EL Wasser sprudelnd aufkochen. Was nicht in die Box passt, abends essen."
+    },
+    "components": [
+      {
+        "key": "roasted-veg",
+        "q": 200
+      }
+    ],
+    "tools": [
+      "Backblech + Backpapier",
+      "Edelstahltopf 3 l mit Deckel",
+      "Holzlöffel",
+      "Thermobox 650 ml + kleine Extra-Dose"
+    ],
+    "ingredients": [
+      {
+        "k": "aubergine",
+        "q": 80
+      },
+      {
+        "k": "zucchini",
+        "q": 60
+      },
+      {
+        "k": "pepper",
+        "q": 60
+      },
+      {
+        "k": "olive",
+        "q": 25,
+        "note": "davon 15 g fürs Blech"
+      },
+      {
+        "k": "onion",
+        "q": 50
+      },
+      {
+        "k": "garlic",
+        "q": 6
+      },
+      {
+        "k": "paste",
+        "q": 15
+      },
+      {
+        "k": "thyme",
+        "q": 1
+      },
+      {
+        "k": "oregano",
+        "q": 1
+      },
+      {
+        "k": "cannedtomato",
+        "q": 80
+      },
+      {
+        "k": "water",
+        "q": 60
+      },
+      {
+        "k": "bulgur",
+        "q": 55
+      },
+      {
+        "k": "whitebeans",
+        "q": 110
+      },
+      {
+        "k": "salt",
+        "q": 2
+      },
+      {
+        "k": "basil",
+        "q": 5,
+        "note": "zum Schluss einrühren"
+      },
+      {
+        "k": "parmesan",
+        "q": 30,
+        "note": "Parmigiano Reggiano, Extra-Dose",
+        "side": true
+      },
+      {
+        "k": "pine",
+        "q": 20,
+        "note": "geröstet, Extra-Dose",
+        "side": true
+      }
+    ],
+    "steps": [
+      {
+        "title": "Gemüse rösten",
+        "text": "Ofen auf 220 °C Umluft vorheizen. Aubergine, Zucchini und Paprika in 2-cm-Würfel schneiden, mit 15 g Öl und etwas Salz mischen und mit Abstand auf dem Blech verteilen. 25 Minuten rösten, nach der Hälfte wenden, bis die Ränder gebräunt sind.",
+        "action": "oven",
+        "items": [
+          "aubergine",
+          "zucchini",
+          "pepper"
+        ],
+        "timer": 1500
+      },
+      {
+        "title": "Tomatensauce",
+        "text": "Währenddessen den Topf 2 Minuten bei mittlerer Hitze vorheizen, restliches Öl hinein und die Zwiebel 5 Minuten anschwitzen. Knoblauch, Tomatenmark, Thymian und Oregano 1 Minute rösten, mit Tomaten und 60 ml Wasser ablöschen und den Bodensatz lösen.",
+        "action": "deglaze",
+        "items": [
+          "onion",
+          "paste",
+          "cannedtomato"
+        ],
+        "timer": 360
+      },
+      {
+        "title": "Bulgur und Bohnen garen",
+        "text": "Bulgur und abgespülte Bohnen in die Sauce geben, aufkochen und zugedeckt bei kleinster Hitze 12 Minuten quellen lassen. Ofengemüse und Basilikum unterheben, salzen und portionsweise abkühlen.",
+        "action": "pot",
+        "items": [
+          "bulgur",
+          "whitebeans"
+        ],
+        "timer": 720
+      },
+      {
+        "title": "Morgens aufkochen und füllen",
+        "action": "jar",
+        "items": [
+          "bulgur",
+          "parmesan",
+          "pine"
+        ],
+        "timer": 300,
+        "text": "Box 5–10 Minuten mit kochendem Wasser vorheizen. Eine Portion mit 1–2 EL Wasser im kleinen Edelstahltopf unter Rühren sprudelnd aufkochen und 1–2 Minuten durchkochen. Box leeren, randvoll füllen (650 ml), sofort verschließen und innerhalb von 4 Stunden essen. Parmesan und Pinienkerne in die kleine Extra-Dose."
+      }
+    ],
+    "tips": [
+      "Gemüse im Ofen statt im Topf: Es verliert Wasser, behält Biss und bekommt Röstaromen, die das Aufwärmen gut überstehen.",
+      "Blech nicht überladen – zu eng liegendes Gemüse dämpft statt zu rösten; lieber zwei Bleche."
+    ],
+    "art": {
+      "dish": "jar",
+      "base": {
+        "type": "stew",
+        "color": "#a8412a"
+      },
+      "side": {
+        "type": "grain",
+        "color": "#c9a66b"
+      },
+      "garnish": [
+        "basil",
+        "parmesan"
+      ]
+    }
+  },
+  {
+    "id": "l14",
+    "meals": [
+      "lunch",
+      "dinner"
+    ],
+    "title": "Puten-Paprika-Gulasch mit Reis",
+    "subtitle": "Schnelles Gulasch mit viel Paprika und einem Löffel Crème fraîche.",
+    "origin": "Ungarisch inspiriert",
+    "time": {
+      "active": 25,
+      "total": 45,
+      "quick": 12
+    },
+    "difficulty": 1,
+    "tags": [
+      "thermobox",
+      "mealprep",
+      "einfrieren",
+      "proteinreich"
+    ],
+    "storage": {
+      "fridgeDays": 1,
+      "freeze": true,
+      "thermos": true,
+      "note": "Gulasch nur bis zum nächsten Tag kühlen, sonst portionsweise einfrieren (2 Monate). Reis separat: rasch abkühlen, nur bis zum nächsten Tag kühlen, sonst portionsweise einfrieren (1 Monat). Morgens mit 1–2 EL Wasser sprudelnd aufkochen."
+    },
+    "components": [
+      {
+        "key": "cooked-rice",
+        "q": 55
+      }
+    ],
+    "tools": [
+      "Edelstahlpfanne 28 cm",
+      "Edelstahltopf 3 l mit Deckel",
+      "Edelstahltopf 2 l (Reis)",
+      "Holzspatel",
+      "Thermobox 650 ml + kleine Extra-Dose"
+    ],
+    "ingredients": [
+      {
+        "k": "turkey",
+        "q": 160
+      },
+      {
+        "k": "rapeseed",
+        "q": 20
+      },
+      {
+        "k": "onion",
+        "q": 50
+      },
+      {
+        "k": "garlic",
+        "q": 6
+      },
+      {
+        "k": "paste",
+        "q": 20
+      },
+      {
+        "k": "paprika",
+        "q": 6
+      },
+      {
+        "k": "smoked",
+        "q": 2
+      },
+      {
+        "k": "cannedtomato",
+        "q": 80
+      },
+      {
+        "k": "broth",
+        "q": 4
+      },
+      {
+        "k": "water",
+        "q": 100
+      },
+      {
+        "k": "pepper",
+        "q": 80
+      },
+      {
+        "k": "thyme",
+        "q": 0.5
+      },
+      {
+        "k": "creme",
+        "q": 50
+      },
+      {
+        "k": "salt",
+        "q": 1
+      },
+      {
+        "k": "rice",
+        "q": 55
+      }
+    ],
+    "steps": [
+      {
+        "title": "Pute scharf anbraten",
+        "text": "Putenbrust in 2-cm-Würfel schneiden und trocken tupfen. Pfanne 3 Minuten bei mittlerer bis hoher Hitze vorheizen, bis ein Wassertropfen als Kugel perlt, die Hälfte des Öls hinein und das Fleisch in einer Lage einlegen. 2–3 Minuten unbewegt braten, bis es sich löst, wenden, 1 Minute weiterbraten – innen darf es noch roh sein. In den Topf umfüllen.",
+        "action": "pan",
+        "items": [
+          "turkey"
+        ],
+        "timer": 180
+      },
+      {
+        "title": "Fond lösen",
+        "text": "Die Pfanne mit 50 ml vom Wasser ablöschen, den Bratsatz mit dem Spatel lösen und die Flüssigkeit zum Fleisch gießen.",
+        "action": "deglaze",
+        "items": [
+          "water"
+        ]
+      },
+      {
+        "title": "Gulaschbasis",
+        "text": "Im Topf das restliche Öl erhitzen, Zwiebel 6 Minuten goldgelb braten, Knoblauch und Tomatenmark 1 Minute rösten. Topf kurz vom Herd nehmen, Paprikapulver einrühren, dann Tomaten, die restlichen 50 ml Wasser, Brühe, Thymian und die Paprikastreifen zugeben.",
+        "action": "pot",
+        "items": [
+          "onion",
+          "paste",
+          "pepper"
+        ],
+        "timer": 420
+      },
+      {
+        "title": "Köcheln und Reis garen",
+        "text": "Fleisch samt Fond zugeben und zugedeckt nur 12 Minuten leise köcheln – Pute wird bei langem Schmoren trocken. Crème fraîche einrühren und salzen; die Sauce soll dick sein. Reis separat garen; Gulasch und Reis flach verteilt zügig abkühlen.",
+        "action": "pot",
+        "items": [
+          "turkey",
+          "creme",
+          "rice"
+        ],
+        "timer": 720
+      },
+      {
+        "title": "Morgens aufkochen und füllen",
+        "action": "jar",
+        "items": [
+          "turkey",
+          "rice"
+        ],
+        "timer": 300,
+        "text": "Box 5–10 Minuten mit kochendem Wasser vorheizen. Eine Portion mit 1–2 EL Wasser im kleinen Edelstahltopf unter Rühren sprudelnd aufkochen und 2 Minuten durchkochen, damit auch die Fleischstücke innen heiß sind. Box leeren, randvoll füllen (650 ml), sofort verschließen und innerhalb von 4 Stunden essen."
+      }
+    ],
+    "tips": [
+      "Pute nur anbraten, nicht durchbraten: Fertig gart sie im Gulasch und morgens beim Aufkochen – so bleibt sie saftig.",
+      "Crème fraîche statt Schmand: Sie flockt beim erneuten Aufkochen nicht aus und macht die dicke Sauce schön rund."
+    ],
+    "art": {
+      "dish": "jar",
+      "base": {
+        "type": "stew",
+        "color": "#b8412a"
+      },
+      "side": {
+        "type": "rice",
+        "color": "#f3ecd9"
+      },
+      "sauce": {
+        "style": "dollop",
+        "color": "#f7f2e6"
+      },
+      "garnish": [
+        "pepper",
+        "parsley"
+      ]
+    }
+  }
+]

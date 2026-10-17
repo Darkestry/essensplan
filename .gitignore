@@ -1,0 +1,11 @@
+# Abhängigkeiten und Build-Ausgabe
+node_modules/
+dist/
+# beim Build erzeugte Illustrationen (npm run art)
+public/art/
+# Editor/OS
+.vscode/
+.idea/
+*.log
+.DS_Store
+Thumbs.db
