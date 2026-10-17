@@ -5,9 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "npm run art && vite --port 5173",
-    "build": "npm run validate && npm test && npm run art && svelte-check --fail-on-warnings && vite build",
+    "build": "npm run validate && npm test && npm run art && svelte-check --fail-on-warnings && tsc -p tsconfig.sw.json && vite build",
     "preview": "vite preview --port 8765 --strictPort",
-    "check": "svelte-check",
+    "check": "svelte-check && tsc -p tsconfig.sw.json",
     "test": "node --experimental-strip-types --no-warnings --test tests/core.test.ts",
     "validate": "node tools/validate.cjs --quiet",
     "art": "node --experimental-strip-types --no-warnings tools/render-art.ts"

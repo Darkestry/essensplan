@@ -1,12 +1,10 @@
-// Lädt die Rezeptbilder nach der Installation im Leerlauf nacheinander in den Offline-Cache.
-// (Der Service Worker cacht sie über seine Laufzeit-Regel; hier wird nur nacheinander angefragt.)
+// Lädt die Rezeptbilder nach der Installation im Hintergrund in den Offline-Cache
+// (zuerst alle Gerichtsbilder, dann die Schrittbilder; der Service Worker speichert sie).
 import { BASE } from './data.ts';
 
 const DONE_KEY = 'morgenwerk-art-warm';
+const PARALLEL = 4;
 
-function idle(): Promise<void> {
-  return new Promise(r => ('requestIdleCallback' in window ? requestIdleCallback(() => r(), { timeout: 2000 }) : setTimeout(r, 200)));
-}
 export async function warmArtCache(): Promise<void> {
   if (!('serviceWorker' in navigator)) return;
   const version = String(BASE.length);
@@ -14,13 +12,19 @@ export async function warmArtCache(): Promise<void> {
   if (!navigator.serviceWorker.controller) {
     await new Promise<void>(r => navigator.serviceWorker.addEventListener('controllerchange', () => r(), { once: true }));
   }
-  const urls = BASE.flatMap(r => [`./art/${r.id}.webp`, ...r.steps.map((_, i) => `./art/${r.id}-${i}.webp`)]);
-  for (const u of urls) {
-    // Bei schlechter Verbindung oder Datensparmodus nicht im Hintergrund laden
-    const conn = (navigator as Navigator & { connection?: { saveData?: boolean } }).connection;
-    if (conn?.saveData || !navigator.onLine) return;
-    await idle();
-    try { await fetch(u); } catch { return; }
-  }
-  try { localStorage.setItem(DONE_KEY, version); } catch { /* egal */ }
+  const urls = [
+    ...BASE.map(r => `./art/${r.id}.webp`),
+    ...BASE.flatMap(r => r.steps.map((_, i) => `./art/${r.id}-${i}.webp`)),
+  ];
+  const conn = (navigator as Navigator & { connection?: { saveData?: boolean } }).connection;
+  let next = 0, failed = 0;
+  await Promise.all(Array.from({ length: PARALLEL }, async () => {
+    while (next < urls.length) {
+      // Bei Datensparmodus oder ohne Netz nicht im Hintergrund laden
+      if (conn?.saveData || !navigator.onLine) return;
+      const u = urls[next++];
+      try { const r = await fetch(u); if (!r.ok) failed++; } catch { failed++; }
+    }
+  }));
+  if (!failed && next >= urls.length) { try { localStorage.setItem(DONE_KEY, version); } catch { /* egal */ } }
 }

@@ -33,21 +33,14 @@ export default defineConfig({
           { name: 'Wochenplan', url: './#/plan' },
         ],
       },
-      // Manifest und Icons nimmt das Plugin selbst in den Vorab-Cache
+      // Eigener Service Worker (src/sw.ts) mit robuster Installation; das Plugin liefert nur die Dateiliste.
+      strategies: 'injectManifest',
+      srcDir: 'src',
+      filename: 'sw.ts',
       includeManifestIcons: true,
-      workbox: {
-        // Schlanker Vorab-Cache: nur die App-Hülle (~30 Dateien). Viele gleichzeitige Downloads
-        // beim Installieren ließen die Installation auf GitHub Pages scheitern.
+      injectManifest: {
+        // App-Hülle; Rezeptbilder lädt die App im Leerlauf nach (src/lib/warm.ts)
         globPatterns: ['**/*.{js,css,html}', '**/*-latin-*.woff2', 'art/{hero,watertest,thermos}.webp'],
-        // Rezeptbilder: beim ersten Ansehen cachen; die App lädt sie danach im Leerlauf nach (src/lib/warm.ts)
-        runtimeCaching: [{
-          urlPattern: /\/art\/[a-z]\d+(-\d+)?\.webp$/,
-          handler: 'CacheFirst',
-          options: { cacheName: 'recipe-art', expiration: { maxEntries: 800 } },
-        }],
-        clientsClaim: true,
-        navigateFallback: 'index.html',
-        cleanupOutdatedCaches: true,
       },
     }),
   ],
