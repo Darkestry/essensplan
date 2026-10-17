@@ -1,4 +1,4 @@
-# Morgenwerk · Essensplan
+# Essensplan
 
 Installierbare Web-App (PWA) für den kompletten Wochenplan: Frühstück, Thermobox-Mittag, Abendessen, Snacks – mit Tagesziel (Zunehmen), Gewichtsverlauf, Einkaufsliste, Meal-Prep-Ablauf, Kochmodus mit Timern und eigenen Rezepten. Alle Rezepte ohne Ei, Brot und Schwein, für unbeschichtetes Edelstahl-Kochgeschirr; optional mit Ziegen-/Schafsmilchprodukten. Daten bleiben auf dem Gerät, offline nutzbar.
 

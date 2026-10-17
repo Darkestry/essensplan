@@ -10,8 +10,8 @@ export default defineConfig({
       registerType: 'prompt',
       injectRegister: false,
       manifest: {
-        name: 'Morgenwerk · Essensplan',
-        short_name: 'Morgenwerk',
+        name: 'Essensplan',
+        short_name: 'Essensplan',
         description: 'Wochenplan für Frühstück, Thermobox-Mittag, Abendessen und Snacks – mit Einkaufsliste und Meal-Prep-Ablauf.',
         lang: 'de',
         start_url: './#/heute',

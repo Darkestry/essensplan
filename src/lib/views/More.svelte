@@ -116,7 +116,7 @@
     <div class="card">
       <div class="setrow"><span><b>Speicherung</b><small>{storage.ok ? 'Dein Plan bleibt auf diesem Gerät gespeichert – ohne Konto, ohne Cloud.' : 'Dieser Browser erlaubt keine dauerhafte Speicherung. Sichere deinen Plan regelmäßig.'}</small></span></div>
       <div class="setrow"><span><b>Plan sichern</b><small>Als Datei speichern, zum Beispiel für ein neues Handy</small></span><button class="btn light sm" type="button" onclick={exportState}>Sichern</button></div>
-      <div class="setrow"><span><b>Plan laden</b><small>Auch alte Morgenwerk-Frühstücksdateien</small></span><button class="btn light sm" type="button" onclick={() => fileInput?.click()}>Laden</button><input bind:this={fileInput} type="file" accept="application/json,.json" hidden aria-label="Plan-Datei laden" onchange={onImport} /></div>
+      <div class="setrow"><span><b>Plan laden</b><small>Auch Dateien aus dem alten Frühstücksplaner</small></span><button class="btn light sm" type="button" onclick={() => fileInput?.click()}>Laden</button><input bind:this={fileInput} type="file" accept="application/json,.json" hidden aria-label="Plan-Datei laden" onchange={onImport} /></div>
       <div class="setrow"><span><b>Alles zurücksetzen</b><small>Löscht Pläne, Favoriten und Einstellungen</small></span><button class="btn light sm" type="button" style="color:var(--danger)" onclick={askReset}>Zurücksetzen</button></div>
     </div>
   </section>
@@ -125,5 +125,5 @@
     <section class="section"><div class="card pad"><b>Als App installieren</b><p class="small muted" style="margin:4px 0 10px">Startet wie eine normale App und funktioniert offline.</p><button class="btn orange" type="button" onclick={() => oninstall?.()}>Installieren</button></div></section>
   {/if}
   <section class="section"><div class="card pad small muted"><b style="color:var(--ink)">Auf dem iPhone installieren</b><br />Tippe in Safari auf „Teilen“ und dann auf „Zum Home-Bildschirm“. Auf Android findest du „App installieren“ im Chrome-Menü.</div></section>
-  <p class="small muted section">Morgenwerk mit {db.R.length} Rezepten. Nährwerte sind Richtwerte. Hinweise zur Lebensmittelsicherheit orientieren sich am Bundesinstitut für Risikobewertung (BfR).</p>
+  <p class="small muted section">Essensplan mit {db.R.length} Rezepten. Nährwerte sind Richtwerte. Hinweise zur Lebensmittelsicherheit orientieren sich am Bundesinstitut für Risikobewertung (BfR).</p>
 </div>

@@ -51,7 +51,7 @@
   let lastKey = '';
   $effect(() => {
     const key = `${base.name}/${base.a ?? ''}/${base.b ?? ''}`;
-    if (key !== lastKey) { lastKey = key; window.scrollTo(0, 0); document.title = `${TITLES[base.name] ?? 'Morgenwerk'} – Morgenwerk`; }
+    if (key !== lastKey) { lastKey = key; window.scrollTo(0, 0); document.title = `${TITLES[base.name] ?? 'Essensplan'} – Essensplan`; }
   });
 
   const badge = $derived(openItems(mondayOf()));
@@ -80,9 +80,9 @@
 
 <a class="skip" href="#view">Zum Inhalt springen</a>
 <header class="appbar" class:scrolled>
-  <a class="brand" href="#/heute" aria-label="Morgenwerk – Heute">
+  <a class="brand" href="#/heute" aria-label="Essensplan – Heute">
     <svg viewBox="0 0 50 50" aria-hidden="true"><path d="M5 33h40M12 27a13 13 0 0 1 26 0M25 3v6M7 10l5 5M43 10l-5 5" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" /><path d="M9 38h32" stroke="var(--orange)" stroke-width="3" stroke-linecap="round" /></svg>
-    <span>Morgenwerk</span>
+    <span>Essensplan</span>
   </a>
   <div class="appbar-title" aria-hidden="true">{TITLES[base.name] ?? ''}</div>
   <button class="iconbtn" type="button" aria-label="Zwischen hell und dunkel wechseln" onclick={toggleTheme}><Icon name="moon" size={22} /></button>

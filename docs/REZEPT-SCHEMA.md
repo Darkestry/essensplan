@@ -1,4 +1,4 @@
-# Rezept-Schema & Küchenregeln (Morgenwerk)
+# Rezept-Schema & Küchenregeln
 
 ## Harte Regeln (gelten für ALLE Rezepte)
 

@@ -41,7 +41,7 @@ export function printWeek(monday: string): void {
     return `<td>${esc(name)}${'lo' in e && e.lo ? ' <small>(Rest)</small>' : ''}</td>`;
   }).join('')}</tr>`).join('');
   const tasks = prepTasks(monday);
-  printHTML(`<h1>Morgenwerk – Woche ${esc(weekLabel(monday))}</h1><p>${persons} ${persons === 1 ? 'Person' : 'Personen'}</p>
+  printHTML(`<h1>Woche ${esc(weekLabel(monday))}</h1><p>${persons} ${persons === 1 ? 'Person' : 'Personen'}</p>
   <h2>Plan</h2><table><thead><tr><th></th>${slots.map(s => `<th>${esc(SLOT_LABEL[s])}</th>`).join('')}</tr></thead><tbody>${rows}</tbody></table>
   ${tasks.length ? `<h2>Vorkochen</h2>${tasks.map(t => `<div class="pg"><span class="box"></span><b>${DAYS_SHORT[dayIndex(t.date)]} ${esc(t.when)}:</b> ${esc(t.title)}</div>`).join('')}` : ''}
   <h2>Einkauf</h2><div class="cols">${shoppingPrint(monday)}</div>`);

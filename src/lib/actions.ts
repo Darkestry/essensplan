@@ -60,15 +60,15 @@ export async function shareList(monday: string): Promise<void> {
 export function exportState(): void {
   const blob = new Blob([JSON.stringify({ ...(snapshot() as object), exported: new Date().toISOString() }, null, 2)], { type: 'application/json' });
   const a = document.createElement('a');
-  a.href = URL.createObjectURL(blob); a.download = `morgenwerk-plan-${todayIso()}.json`; a.click();
+  a.href = URL.createObjectURL(blob); a.download = `essensplan-${todayIso()}.json`; a.click();
   setTimeout(() => URL.revokeObjectURL(a.href), 2000);
 }
 const snapshot = (): unknown => JSON.parse(JSON.stringify(app));
 export async function importFile(file: File | undefined): Promise<void> {
   if (!file) return;
-  if (file.size > 2_000_000) { toast('Die Datei ist zu groß. Wähle eine Sicherung, die du in Morgenwerk erstellt hast.'); return; }
+  if (file.size > 2_000_000) { toast('Die Datei ist zu groß. Wähle eine Sicherung, die du in dieser App erstellt hast.'); return; }
   try { importState(JSON.parse(await file.text())); toast('Plan geladen'); }
-  catch { toast('Diese Datei lässt sich nicht laden. Wähle eine Sicherung, die du in Morgenwerk erstellt hast.'); }
+  catch { toast('Diese Datei lässt sich nicht laden. Wähle eine Sicherung, die du in dieser App erstellt hast.'); }
 }
 export const currentMonday = (date?: string): string => mondayOfIso(date ?? todayIso());
 export { go };
